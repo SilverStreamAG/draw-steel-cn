@@ -1,0 +1,24 @@
+{
+  "label": "DRAW_STEEL.COMPENDIUM.journals",
+  "mapping": {
+    "description": "content"
+  },
+  "folders": {
+    "fsCmsFx1Bwyqwgl0": "fsCmsFx1Bwyqwgl0",
+    "wnqp2PFeCN9C0VOw": "wnqp2PFeCN9C0VOw"
+  },
+  "entries": {
+    "System Documentation": {
+      "name": "系统文档",
+      "description": ""
+    },
+    "The Basics": {
+      "name": "基础",
+      "description": ""
+    },
+    "Conditions": {
+      "name": "状态",
+      "description": ""
+    }
+  }
+}

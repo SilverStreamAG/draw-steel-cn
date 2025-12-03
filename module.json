@@ -1,0 +1,27 @@
+{
+  "id": "draw-steel-cn",
+  "title": "draw-steel-cn",
+  "description": "DrawSteel translation for Chinese Simplified",
+  "authors": [
+    {
+      "name": "SivlerStream"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13.344
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

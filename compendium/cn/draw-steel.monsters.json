@@ -1,0 +1,1699 @@
+{
+  "label": "DRAW_STEEL.COMPENDIUM.monsters",
+  "mapping": {
+    "description": "system.biography.value"
+  },
+  "folders": {
+    "05Ku9YhntT8cY5Y0": "05Ku9YhntT8cY5Y0",
+    "0WyeafpcyJ7Gd58P": "0WyeafpcyJ7Gd58P",
+    "1HvjuVmZEBELv9LR": "1HvjuVmZEBELv9LR",
+    "1duzR7U5imjJBje4": "1duzR7U5imjJBje4",
+    "1xAB7dzxBYqdc7qX": "1xAB7dzxBYqdc7qX",
+    "2PahuUicpywKbOM4": "2PahuUicpywKbOM4",
+    "2v4ZizI6Z9zyx8Ef": "2v4ZizI6Z9zyx8Ef",
+    "3yk7e8cyjJFhJb0g": "3yk7e8cyjJFhJb0g",
+    "4k38bNEZVVE6p4vF": "4k38bNEZVVE6p4vF",
+    "5gRevvAzCanqkRiw": "5gRevvAzCanqkRiw",
+    "6DKl8v5ROTdmTFsZ": "6DKl8v5ROTdmTFsZ",
+    "6ZOnXQw3kIUDhVuS": "6ZOnXQw3kIUDhVuS",
+    "8QOCmHdrAIFbvwI5": "8QOCmHdrAIFbvwI5",
+    "8Qx5yD5cyOi0GkUy": "8Qx5yD5cyOi0GkUy",
+    "9g4m05r5B3CZpEms": "9g4m05r5B3CZpEms",
+    "BPmj6b8KnRGx4nhs": "BPmj6b8KnRGx4nhs",
+    "D9aHRmQeQkET74x8": "D9aHRmQeQkET74x8",
+    "DQYQ5rpRsohluWYD": "DQYQ5rpRsohluWYD",
+    "DYl6Qljp14rd7e7s": "DYl6Qljp14rd7e7s",
+    "Dj36vXEyn9vry4NO": "Dj36vXEyn9vry4NO",
+    "EG5wfhMcZMyNvf8C": "EG5wfhMcZMyNvf8C",
+    "FENFbnjOnPS8jSwm": "FENFbnjOnPS8jSwm",
+    "GXX2DnZcth3KWFfL": "GXX2DnZcth3KWFfL",
+    "GjGhUOD7nBaOg0ca": "GjGhUOD7nBaOg0ca",
+    "IOJX0Gbij4nZLkvh": "IOJX0Gbij4nZLkvh",
+    "JDBSk1DngOOqPONV": "JDBSk1DngOOqPONV",
+    "Ji95GDWQ7qRIum3n": "Ji95GDWQ7qRIum3n",
+    "JsWXCN3PDasglLHA": "JsWXCN3PDasglLHA",
+    "NRaN60UtPwKNNmqT": "NRaN60UtPwKNNmqT",
+    "O7zizfGvMA07rRKX": "O7zizfGvMA07rRKX",
+    "OygqHojAVhOF59fl": "OygqHojAVhOF59fl",
+    "QvV3PMJrBzKpQAvG": "QvV3PMJrBzKpQAvG",
+    "RvELgaTQ02GEjQb5": "RvELgaTQ02GEjQb5",
+    "SFuvViqB8j9ZtHt6": "SFuvViqB8j9ZtHt6",
+    "SN3x5ZfzmkqqFmny": "SN3x5ZfzmkqqFmny",
+    "SUuKqERiLGfeX4ZI": "SUuKqERiLGfeX4ZI",
+    "SWbDTDwNDPa3JlDQ": "SWbDTDwNDPa3JlDQ",
+    "SdbfdRr0j4jwl4uZ": "SdbfdRr0j4jwl4uZ",
+    "VG4LRhUl5RB1EpzH": "VG4LRhUl5RB1EpzH",
+    "WbGTZNkr5MUzJ8bE": "WbGTZNkr5MUzJ8bE",
+    "Xlv2aLypC87MCZAS": "Xlv2aLypC87MCZAS",
+    "YVkbVbuTCdEc4h7w": "YVkbVbuTCdEc4h7w",
+    "YqypXiSjPN7wR7l7": "YqypXiSjPN7wR7l7",
+    "ZzGUpnHJpMCEXTe2": "ZzGUpnHJpMCEXTe2",
+    "aym4mi5JvyLiP0uV": "aym4mi5JvyLiP0uV",
+    "bQgGaMhvhgZFC0kO": "bQgGaMhvhgZFC0kO",
+    "fgQNWiICJVzfSdZ8": "fgQNWiICJVzfSdZ8",
+    "gK2IPgRDrzRwcFPJ": "gK2IPgRDrzRwcFPJ",
+    "hatSTUdV3EGvlnvE": "hatSTUdV3EGvlnvE",
+    "hv76ZwIjIugo1fhp": "hv76ZwIjIugo1fhp",
+    "iEPVvWezLlidfEbg": "iEPVvWezLlidfEbg",
+    "kgEKDnLbyyQ3RtLK": "kgEKDnLbyyQ3RtLK",
+    "lOWAfMfJap4eXijF": "lOWAfMfJap4eXijF",
+    "lXKorAomovYFhg1y": "lXKorAomovYFhg1y",
+    "mKoQH5eH9bOQmkFl": "mKoQH5eH9bOQmkFl",
+    "nhtmH30USZTmJeav": "nhtmH30USZTmJeav",
+    "nnQsDoBty46nEVFU": "nnQsDoBty46nEVFU",
+    "oLU8ovgRlnjQCSRA": "oLU8ovgRlnjQCSRA",
+    "qZ8RbdImvXjWh2yn": "qZ8RbdImvXjWh2yn",
+    "u92gIpOU3YCcS0QC": "u92gIpOU3YCcS0QC",
+    "uzDlhwRlxqGNSV32": "uzDlhwRlxqGNSV32",
+    "y0titlZe5vQIjdy5": "y0titlZe5vQIjdy5",
+    "ymabO4bZsx2dUz9f": "ymabO4bZsx2dUz9f",
+    "z19jhkNzTzzZC18O": "z19jhkNzTzzZC18O",
+    "zBFE173ZFzlEPX1o": "zBFE173ZFzlEPX1o"
+  },
+  "entries": {
+    "Hobgoblin Lancer": {
+      "name": "大地精枪骑兵",
+      "description": ""
+    },
+    "Radenwight Piper": {
+      "name": "雷登怀特吹笛人",
+      "description": ""
+    },
+    "Werewolf": {
+      "name": "狼人",
+      "description": ""
+    },
+    "Ogre Juggernaut": {
+      "name": "食人魔主宰",
+      "description": ""
+    },
+    "Dwarf Stone Whisperer": {
+      "name": "矮人石语者",
+      "description": ""
+    },
+    "Orc Juggernaut": {
+      "name": "兽人主宰",
+      "description": ""
+    },
+    "Rival Null": {
+      "name": "敌对无效",
+      "description": ""
+    },
+    "Cyclops": {
+      "name": "独眼巨人",
+      "description": ""
+    },
+    "War Dog Shriketroop": {
+      "name": "战犬尖啸部队",
+      "description": ""
+    },
+    "War Dog Tetherite": {
+      "name": "战犬系链石",
+      "description": ""
+    },
+    "Minotaur": {
+      "name": "弥诺陶洛斯",
+      "description": ""
+    },
+    "Hill Giant Mosstooth": {
+      "name": "丘陵巨人苔齿",
+      "description": ""
+    },
+    "Time Raider Vertex": {
+      "name": "时空奇兵顶点",
+      "description": ""
+    },
+    "Kobold Legionary": {
+      "name": "狗头人军团兵",
+      "description": ""
+    },
+    "Bugbear Mob": {
+      "name": "熊地精暴徒",
+      "description": ""
+    },
+    "Brambleguard": {
+      "name": "荆棘护卫",
+      "description": ""
+    },
+    "Wode Elf Green Seer": {
+      "name": "沃德精灵绿先知",
+      "description": ""
+    },
+    "Rotting Zombie": {
+      "name": "腐烂僵尸",
+      "description": ""
+    },
+    "Soulraker Stinger": {
+      "name": "噬魂毒刺",
+      "description": ""
+    },
+    "Skeleton": {
+      "name": "骷髅",
+      "description": ""
+    },
+    "Frost Giant Snowblaster": {
+      "name": "霜巨人雪炮手",
+      "description": ""
+    },
+    "Arixx": {
+      "name": "阿里克斯",
+      "description": ""
+    },
+    "Heart of the Wode": {
+      "name": "沃德之心",
+      "description": ""
+    },
+    "Dwarf Axethrower": {
+      "name": "矮人掷斧手",
+      "description": ""
+    },
+    "Lizardfolk Bloodeye": {
+      "name": "蜥蜴人血眼",
+      "description": ""
+    },
+    "Kingfissure Tongue": {
+      "name": "裂舌王",
+      "description": ""
+    },
+    "Human Guard": {
+      "name": "人类守卫",
+      "description": ""
+    },
+    "Orc Bloodspark": {
+      "name": "兽人血怒",
+      "description": ""
+    },
+    "War Dog War Doc": {
+      "name": "战犬战医",
+      "description": ""
+    },
+    "Shadow Elf Cloak": {
+      "name": "影精灵斗篷",
+      "description": ""
+    },
+    "Mummy": {
+      "name": "木乃伊",
+      "description": ""
+    },
+    "Specter": {
+      "name": "幽影",
+      "description": ""
+    },
+    "Vampire": {
+      "name": "吸血鬼",
+      "description": ""
+    },
+    "Kobold Venator": {
+      "name": "狗头人猎手",
+      "description": ""
+    },
+    "Hobgoblin Incendiarist": {
+      "name": "大地精纵火者",
+      "description": ""
+    },
+    "Giant Hawk": {
+      "name": "巨鹰",
+      "description": ""
+    },
+    "Koptourok": {
+      "name": "科普托鲁克",
+      "description": ""
+    },
+    "Tormenauk": {
+      "name": "托尔梅诺克",
+      "description": ""
+    },
+    "Radenwight Swiftpaw": {
+      "name": "迅爪雷登维特",
+      "description": ""
+    },
+    "Troll Whelp": {
+      "name": "巨魔幼崽",
+      "description": ""
+    },
+    "Haunt": {
+      "name": "萦绕",
+      "description": ""
+    },
+    "Abyssal Hyena": {
+      "name": "深渊鬣狗",
+      "description": ""
+    },
+    "Multivok Bodyguard": {
+      "name": "多声保镖",
+      "description": ""
+    },
+    "Essence of Tides": {
+      "name": "潮汐精华",
+      "description": ""
+    },
+    "Crux of Fire": {
+      "name": "火之核心",
+      "description": ""
+    },
+    "Shade": {
+      "name": "暗影",
+      "description": ""
+    },
+    "Locratix the Morningstar": {
+      "name": "晨星洛克拉提克斯",
+      "description": ""
+    },
+    "Worg": {
+      "name": "座狼",
+      "description": ""
+    },
+    "Gnoll Bonesplitter": {
+      "name": "豺狼人碎骨者",
+      "description": ""
+    },
+    "Rival Fury": {
+      "name": "宿敌之怒",
+      "description": ""
+    },
+    "Goblin Warrior": {
+      "name": "哥布林战士",
+      "description": ""
+    },
+    "Goblin Assassin": {
+      "name": "哥布林刺客",
+      "description": ""
+    },
+    "Rival Tactician": {
+      "name": "宿敌谋士",
+      "description": ""
+    },
+    "Castellan Hoplon": {
+      "name": "城堡守卫者霍普隆盾",
+      "description": ""
+    },
+    "Time Raider Archon": {
+      "name": "时空奇袭者执政官",
+      "description": ""
+    },
+    "Shadow Elf Assassin": {
+      "name": "暗影精灵刺客",
+      "description": ""
+    },
+    "Minotaur Bully": {
+      "name": "牛头恶霸",
+      "description": ""
+    },
+    "Lizardfolk Tonguer": {
+      "name": "蜥人语者",
+      "description": ""
+    },
+    "Muceron": {
+      "name": "穆瑟隆",
+      "description": ""
+    },
+    "Rival Conduit": {
+      "name": "宿敌导管",
+      "description": ""
+    },
+    "Kobold Tiro": {
+      "name": "狗头人学徒",
+      "description": ""
+    },
+    "Giant Zombie": {
+      "name": "巨型僵尸",
+      "description": ""
+    },
+    "Angulotl Wave": {
+      "name": "安古洛特波动",
+      "description": ""
+    },
+    "War Dog Arachnite": {
+      "name": "战犬蛛魔",
+      "description": ""
+    },
+    "Manticore": {
+      "name": "曼提柯尔",
+      "description": ""
+    },
+    "Basilisk": {
+      "name": "蛇怪",
+      "description": ""
+    },
+    "Animal Swarm": {
+      "name": "动物群",
+      "description": ""
+    },
+    "Aeolyxria the Uncanny": {
+      "name": "诡秘者埃奥利克西娅",
+      "description": ""
+    },
+    "War Dog Commando": {
+      "name": "战犬突击兵",
+      "description": ""
+    },
+    "War Dog Iron Priest": {
+      "name": "战争铁犬祭司",
+      "description": ""
+    },
+    "Soulraker Scout": {
+      "name": "噬魂斥候",
+      "description": ""
+    },
+    "Kobold Sagittarion": {
+      "name": "狗头人弓箭手",
+      "description": ""
+    },
+    "Goblin Cursespitter": {
+      "name": "哥布林咒骂者",
+      "description": ""
+    },
+    "Fangling": {
+      "name": "方翎",
+      "description": ""
+    },
+    "Devil Clerk": {
+      "name": "魔鬼书记官",
+      "description": ""
+    },
+    "Grilp": {
+      "name": "格里尔普",
+      "description": ""
+    },
+    "Servitor War Walker": {
+      "name": "奴役者战争行者",
+      "description": ""
+    },
+    "Force of Earth": {
+      "name": "大地之力",
+      "description": ""
+    },
+    "War Spider": {
+      "name": "战争蜘蛛",
+      "description": ""
+    },
+    "Flesh Mournling": {
+      "name": "血肉哀悼物",
+      "description": ""
+    },
+    "Necrotic Eye": {
+      "name": "死灵之眼",
+      "description": ""
+    },
+    "Bugbear Knightmare": {
+      "name": "熊地精梦魇骑士",
+      "description": ""
+    },
+    "Devil Adjudicator": {
+      "name": "魔鬼审判官",
+      "description": ""
+    },
+    "Dwarf Reel Winch": {
+      "name": "矮人卷扬机",
+      "description": ""
+    },
+    "Voiceless Talker Invader": {
+      "name": "无声言者入侵者",
+      "description": ""
+    },
+    "War Dog Equivite": {
+      "name": "战犬骑兵",
+      "description": ""
+    },
+    "War Dog Sparkslinger": {
+      "name": "战犬火花射手",
+      "description": ""
+    },
+    "War Dog Breaker": {
+      "name": "战犬破阵者",
+      "description": ""
+    },
+    "War Dog Taxiarch": {
+      "name": "战犬百夫长",
+      "description": ""
+    },
+    "Wode Elf Runner": {
+      "name": "沃德精灵跑者",
+      "description": ""
+    },
+    "Goblin Stinker": {
+      "name": "哥布林臭气弹",
+      "description": ""
+    },
+    "Bugbear Commander": {
+      "name": "熊地精指挥官",
+      "description": ""
+    },
+    "Human Death Cultist": {
+      "name": "人类死亡邪教徒",
+      "description": ""
+    },
+    "Skitterling": {
+      "name": "小爬虫",
+      "description": ""
+    },
+    "Dwarf Catchpole": {
+      "name": "矮人捕手",
+      "description": ""
+    },
+    "Styrich": {
+      "name": "斯泰里奇",
+      "description": ""
+    },
+    "Human Scoundrel": {
+      "name": "人类无赖",
+      "description": ""
+    },
+    "Fire Giant Chief": {
+      "name": "火焰巨人首领",
+      "description": ""
+    },
+    "Myxovidan the Sintaker": {
+      "name": "辛塔克真菌吞噬者",
+      "description": ""
+    },
+    "Human Archer": {
+      "name": "人类弓箭手",
+      "description": ""
+    },
+    "Human Brawler": {
+      "name": "人类格斗家",
+      "description": ""
+    },
+    "Ghoul": {
+      "name": "食尸鬼",
+      "description": ""
+    },
+    "Ajax the Invincible": {
+      "name": "无敌的埃阿斯",
+      "description": "<p></p>\n<h3>[[/damage @M]]</h3>\n<p>你向目标发射一枚奥术飞弹。对目标造成 [[/damage 1d4+1 force]] 点力场伤害。</p>\n<p><strong>升环施法效应：</strong> 当你使用 2 环或更高法术位施放此法术时，你使用的法术位每比 1 环高一环，就能多发射一枚飞弹。</p>\n<table>\n<thead>\n<tr>\n<th>法术位环阶</th>\n<th>飞弹数量</th>\n<th>伤害</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1 环</td>\n<td>1</td>\n<td>[[/damage 1d4+1 force]]</td>\n</tr>\n<tr>\n<td>2 环</td>\n<td>2</td>\n<td>[[/damage 2d4+2 force]]</td>\n</tr>\n<tr>\n<td>3 环</td>\n<td>3</td>\n<td>[[/damage 3d4+3 force]]</td>\n</tr>\n<tr>\n<td>4 环</td>\n<td>4</td>\n<td>[[/damage 4d4+4 force]]</td>\n</tr>\n<tr>\n<td>5 环</td>\n<td>5</td>\n<td>[[/damage 5d4+5 force]]</td>\n</tr>\n<tr>\n<td>6 环</td>\n<td>6</td>\n<td>[[/damage 6d4+6 force]]</td>\n</tr>\n<tr>\n<td>7 环</td>\n<td>7</td>\n<td>[[/damage 7d4+7 force]]</td>\n</tr>\n<tr>\n<td>8 环</td>\n<td>8</td>\n<td>[[/damage 8d4+8 force]]</td>\n</tr>\n<tr>\n<td>9 环</td>\n<td>9</td>\n<td>[[/damage 9d4+9 force]]</td>\n</tr>\n</tbody>\n</table>\n<p>你可以指挥飞弹攻击同一个目标或不同的目标。为每枚飞弹分别进行一次攻击检定。</p>\n<p>__FORMULA_1__</p>\n<p>__UUID_1__</p>"
+    },
+    "Minotaur Lackey": {
+      "name": "牛头怪仆从",
+      "description": ""
+    },
+    "Dwarf Driver": {
+      "name": "矮人驾驶员",
+      "description": ""
+    },
+    "Strategos Alkestis": {
+      "name": "战略家阿尔刻斯提斯",
+      "description": ""
+    },
+    "Bendrak": {
+      "name": "本德拉克",
+      "description": ""
+    },
+    "Goblin Sniper": {
+      "name": "哥布林狙击手",
+      "description": ""
+    },
+    "Orc Razor": {
+      "name": "兽人剃刀",
+      "description": ""
+    },
+    "War Dog Crucibite": {
+      "name": "战犬熔咬兽",
+      "description": ""
+    },
+    "Scyza": {
+      "name": "赛克萨",
+      "description": ""
+    },
+    "Toxic Eye": {
+      "name": "毒眼",
+      "description": ""
+    },
+    "Radenwight Ratcrobat": {
+      "name": "雷登维特鼠蝠",
+      "description": ""
+    },
+    "Ashen Hoarder": {
+      "name": "灰烬囤积者",
+      "description": ""
+    },
+    "Griffon": {
+      "name": "狮鹫",
+      "description": ""
+    },
+    "Kobold Artifex": {
+      "name": "狗头人巧匠",
+      "description": ""
+    },
+    "Wode Hag": {
+      "name": "沃德哈格",
+      "description": ""
+    },
+    "War Dog Tormentite": {
+      "name": "战犬折磨石",
+      "description": ""
+    },
+    "Faded Echo Spirit": {
+      "name": "褪色回响之灵",
+      "description": ""
+    },
+    "Vampire Spawn": {
+      "name": "吸血鬼衍体",
+      "description": ""
+    },
+    "Wobalas": {
+      "name": "沃巴拉",
+      "description": ""
+    },
+    "War Dog Aerocite": {
+      "name": "战犬空晶",
+      "description": ""
+    },
+    "Hobgoblin Brandbearer": {
+      "name": "豪猪旗手",
+      "description": ""
+    },
+    "Angulotl Cleaver": {
+      "name": "安古洛特利刃",
+      "description": ""
+    },
+    "Animal": {
+      "name": "动物",
+      "description": ""
+    },
+    "Zombie": {
+      "name": "僵尸",
+      "description": ""
+    },
+    "Troll Crack Trooper": {
+      "name": "巨魔精锐突击兵",
+      "description": ""
+    },
+    "High Elf Ordinator": {
+      "name": "高精灵审判官",
+      "description": ""
+    },
+    "Ogre Blue Blood": {
+      "name": "食人魔蓝血",
+      "description": ""
+    },
+    "Wyvern Lurker": {
+      "name": "翼龙潜伏者",
+      "description": ""
+    },
+    "Chorogaunt": {
+      "name": "噬肉虫",
+      "description": ""
+    },
+    "Fossil Cryptic": {
+      "name": "化石隐士",
+      "description": ""
+    },
+    "Gnoll Cackler": {
+      "name": "豺狼人尖啸者",
+      "description": ""
+    },
+    "Shadow Elf Luminator": {
+      "name": "影精灵光耀者",
+      "description": ""
+    },
+    "Frost Giant Storm Hurler": {
+      "name": "霜巨人风暴投掷者",
+      "description": ""
+    },
+    "War Dog Ballistite": {
+      "name": "战犬爆裂弹",
+      "description": ""
+    },
+    "Orc Godcaller": {
+      "name": "兽神召唤者",
+      "description": ""
+    },
+    "Ogre Tantrum": {
+      "name": "食人魔暴怒",
+      "description": ""
+    },
+    "Lizardfolk Scaletooth": {
+      "name": "蜥人族鳞牙",
+      "description": ""
+    },
+    "Radenwight Bruxer": {
+      "name": "雷登维特碎击者",
+      "description": ""
+    },
+    "Decrepit Skeleton": {
+      "name": "腐朽骷髅",
+      "description": ""
+    },
+    "Time Raider Hijack": {
+      "name": "时空奇袭者劫持",
+      "description": ""
+    },
+    "Shadow Elf Mournblade": {
+      "name": "影精灵哀伤之刃",
+      "description": ""
+    },
+    "War Dog Sharpshooter": {
+      "name": "战犬神射手",
+      "description": ""
+    },
+    "War Dog Sweeper": {
+      "name": "战犬清道夫",
+      "description": ""
+    },
+    "War Dog Mischievite": {
+      "name": "战犬顽石",
+      "description": ""
+    },
+    "Rival Talent": {
+      "name": "竞争天赋",
+      "description": ""
+    },
+    "Servok Builder": {
+      "name": "伺服克建造者",
+      "description": ""
+    },
+    "Wode Elf Greenskeeper": {
+      "name": "林地精灵绿地守护者",
+      "description": ""
+    },
+    "Devil Magistrate": {
+      "name": "判官",
+      "description": ""
+    },
+    "Skeleton Knight": {
+      "name": "骷髅骑士",
+      "description": ""
+    },
+    "Lizardfolk Shellguard": {
+      "name": "蜥蜴人壳甲卫士",
+      "description": ""
+    },
+    "Fleshflayed Shambler Zombie": {
+      "name": "剥肉蹒跚僵尸",
+      "description": ""
+    },
+    "Marble Stone Giant": {
+      "name": "大理石巨像",
+      "description": ""
+    },
+    "Shadow Elf Eclipse": {
+      "name": "影精灵月蚀",
+      "description": ""
+    },
+    "Gnoll Wildling": {
+      "name": "豺狼人荒野漫游者",
+      "description": ""
+    },
+    "Troll Butcher": {
+      "name": "巨魔屠夫",
+      "description": ""
+    },
+    "Radenwight Redeye": {
+      "name": "雷登维特红眼",
+      "description": ""
+    },
+    "Multivok Chief": {
+      "name": "多声部酋长",
+      "description": ""
+    },
+    "Frenzied": {
+      "name": "狂乱",
+      "description": ""
+    },
+    "Dorzinuuth the Base": {
+      "name": "卑劣的多兹纽斯",
+      "description": ""
+    },
+    "Hobgoblin Bloodlord": {
+      "name": "大地精血领主",
+      "description": ""
+    },
+    "Kobold Adeptus": {
+      "name": "狗头人专家",
+      "description": ""
+    },
+    "Rival Shadow": {
+      "name": "宿敌暗影",
+      "description": ""
+    },
+    "Hobgoblin War Mage": {
+      "name": "大地精战争法师",
+      "description": ""
+    },
+    "Torlas": {
+      "name": "托拉斯",
+      "description": ""
+    },
+    "Angulotl Needler": {
+      "name": "安古洛特毒刺鱼",
+      "description": ""
+    },
+    "War Dog Pestilite": {
+      "name": "瘟疫战犬",
+      "description": ""
+    },
+    "Orc Glorifier": {
+      "name": "兽人颂扬者",
+      "description": ""
+    },
+    "Tusker Demon": {
+      "name": "巨牙恶魔",
+      "description": ""
+    },
+    "Devil Notary": {
+      "name": "魔鬼公证人",
+      "description": ""
+    },
+    "Goblin Spinecleaver": {
+      "name": "哥布林脊刃斧",
+      "description": ""
+    },
+    "War Dog Hunter-Killer": {
+      "name": "战犬猎杀者",
+      "description": ""
+    },
+    "Mohler": {
+      "name": "莫勒",
+      "description": ""
+    },
+    "Ruinant": {
+      "name": "毁灭者",
+      "description": ""
+    },
+    "Dirt Mournling": {
+      "name": "尘哀悼灵",
+      "description": ""
+    },
+    "Wodenelg": {
+      "name": "沃德内尔格",
+      "description": ""
+    },
+    "Hag Hut": {
+      "name": "巫婆小屋",
+      "description": ""
+    },
+    "Rival Elementalist": {
+      "name": "宿敌元素使",
+      "description": ""
+    },
+    "Gnoll Marauder": {
+      "name": "豺狼人掠夺者",
+      "description": ""
+    },
+    "Soulwight": {
+      "name": "魂灵使",
+      "description": "<p></p>\n<h3>[[/damage @M]]</h3>\n<p>你尝试对目标造成伤害。</p>\n<p><strong>攻击加值：</strong> __FORMULA_1__ + 你的熟练加值</p>\n<p><strong>目标：</strong> 一个生物</p>\n<p><strong>攻击：</strong> 魅力 vs. 意志</p>\n<p><strong>命中：</strong> __FORMULA_2__ 心灵伤害，并且目标在攻击者的下一个回合结束前，其下一次攻击检定具有劣势。</p>\n<p><strong>失手：</strong> 一半伤害。</p>\n<p><strong>特殊：</strong> 你可以消耗一次 [[/surge 1]] 来将此攻击作为次要动作使用。</p>\n<table>\n<thead>\n<tr>\n<td><strong>等级</strong></td>\n<td><strong>__FORMULA_1__</strong></td>\n<td><strong>__FORMULA_2__</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1-10</td>\n<td>4</td>\n<td>1d6 + 魅力调整值</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>6</td>\n<td>2d6 + 魅力调整值</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>8</td>\n<td>3d6 + 魅力调整值</td>\n</tr>\n</tbody>\n</table>\n<p><strong>升级：</strong> 当你的等级达到11级和21级时，此威能的伤害骰各增加一个。</p>\n<p><strong>关联：</strong> @UUID[Compendium.pf2e.classfeatures.Item.8QvJ6yQ4Z6gSCSAs]{心灵尖刺}</p>"
+    },
+    "Shambling Mound": {
+      "name": "蹒跚怪",
+      "description": ""
+    },
+    "Gnoll Abyssal Archer": {
+      "name": "豺狼人深渊射手",
+      "description": ""
+    },
+    "Wraith Skulker": {
+      "name": "怨灵潜行者",
+      "description": ""
+    },
+    "Orc Terranova": {
+      "name": "兽人泰拉诺瓦",
+      "description": ""
+    },
+    "Engulfing Sack": {
+      "name": "吞噬之囊",
+      "description": ""
+    },
+    "Big Animal B": {
+      "name": "大型动物B",
+      "description": ""
+    },
+    "Shadow Elf Nightstrike": {
+      "name": "暗影精灵夜袭者",
+      "description": ""
+    },
+    "War Dog War Frog": {
+      "name": "战犬战蛙",
+      "description": ""
+    },
+    "Field of Growth": {
+      "name": "生长领域",
+      "description": ""
+    },
+    "War Dog Teletalite": {
+      "name": "战犬远视石",
+      "description": ""
+    },
+    "Lumbering Egress": {
+      "name": "蹒跚白鹭",
+      "description": ""
+    },
+    "Angulotl Daybringer": {
+      "name": "安古洛特破晓者",
+      "description": ""
+    },
+    "Lydixavus the Deadeye": {
+      "name": "神射手利迪克萨弗斯",
+      "description": ""
+    },
+    "Devil High Judge": {
+      "name": "恶魔大法官",
+      "description": ""
+    },
+    "Time Raider Cannonfall": {
+      "name": "时空奇袭者炮落",
+      "description": ""
+    },
+    "Omen Dragon": {
+      "name": "凶兆龙",
+      "description": ""
+    },
+    "Blight Phage": {
+      "name": "枯萎噬菌体",
+      "description": ""
+    },
+    "Angulotl Dart": {
+      "name": "安古洛特飞镖",
+      "description": ""
+    },
+    "War Dog Tetrarch": {
+      "name": "战犬领主",
+      "description": ""
+    },
+    "Goblin Underboss": {
+      "name": "哥布林副首领",
+      "description": ""
+    },
+    "Basalt Stone Giant": {
+      "name": "玄武岩巨像",
+      "description": ""
+    },
+    "Mummy Lord": {
+      "name": "木乃伊领主",
+      "description": ""
+    },
+    "Hobgoblin Hell Trooper": {
+      "name": "大地精地狱骑兵",
+      "description": ""
+    },
+    "Hollowbone Launcher": {
+      "name": "空骨发射器",
+      "description": ""
+    },
+    "Human Death Acolyte": {
+      "name": "人类死亡侍僧",
+      "description": ""
+    },
+    "Orc Chainlock": {
+      "name": "兽人链锁术士",
+      "description": ""
+    },
+    "High Elf Bloodletter": {
+      "name": "高等精灵放血者",
+      "description": ""
+    },
+    "Dwarf Marauder Lord": {
+      "name": "矮人掠夺者领主",
+      "description": ""
+    },
+    "Fire Giant Lightbearer": {
+      "name": "火焰巨人持光者",
+      "description": ""
+    },
+    "Shadow Elf Moondancer": {
+      "name": "影精灵月舞者",
+      "description": ""
+    },
+    "Logostician Vesper": {
+      "name": "逻各斯术士维丝珀",
+      "description": ""
+    },
+    "Striped Condor Griffon": {
+      "name": "条纹秃鹫狮鹫",
+      "description": ""
+    },
+    "Troll Glutton": {
+      "name": "巨魔饕餮者",
+      "description": ""
+    },
+    "Big Animal A": {
+      "name": "大型动物A",
+      "description": ""
+    },
+    "Angulotl Pollywog": {
+      "name": "安古洛蝌蚪",
+      "description": ""
+    },
+    "Ensnarer": {
+      "name": "缚敌者",
+      "description": ""
+    },
+    "High Elf Palinode": {
+      "name": "高等精灵忏悔诗",
+      "description": ""
+    },
+    "Crawling Claw": {
+      "name": "爬行爪",
+      "description": ""
+    },
+    "War Dog Subcommander": {
+      "name": "战犬副指挥官",
+      "description": ""
+    },
+    "Time Raider Mind Punk": {
+      "name": "时空奇袭者心灵朋克",
+      "description": ""
+    },
+    "Ghoul Craver": {
+      "name": "食尸鬼渴求者",
+      "description": ""
+    },
+    "Goblin Monarch": {
+      "name": "哥布林君主",
+      "description": ""
+    },
+    "Lizardfolk Grunt": {
+      "name": "蜥蜴人步兵",
+      "description": ""
+    },
+    "Servok War Engine": {
+      "name": "塞沃克战争引擎",
+      "description": ""
+    },
+    "Human Apprentice Mage": {
+      "name": "人类见习法师",
+      "description": ""
+    },
+    "Gnoll Chainflail": {
+      "name": "豺狼人链枷",
+      "description": ""
+    },
+    "Grulqin": {
+      "name": "格鲁尔金",
+      "description": ""
+    },
+    "High Elf Quiver": {
+      "name": "高等精灵箭袋",
+      "description": ""
+    },
+    "Radenwight Scrapper": {
+      "name": "雷登维特拆解者",
+      "description": ""
+    },
+    "Voiceless Talker Evolutionist": {
+      "name": "无言者进化论者",
+      "description": ""
+    },
+    "Mindkiller": {
+      "name": "心灵杀手",
+      "description": ""
+    },
+    "Predator A": {
+      "name": "掠食者A型",
+      "description": ""
+    },
+    "Voiceless Talker Artillerist": {
+      "name": "无声言者炮术师",
+      "description": ""
+    },
+    "Lightbender": {
+      "name": "光铸者",
+      "description": ""
+    },
+    "Goblin Runner": {
+      "name": "哥布林跑者",
+      "description": ""
+    },
+    "Predator B": {
+      "name": "捕食者B",
+      "description": ""
+    },
+    "War Dog Ground Commander": {
+      "name": "战地指挥犬",
+      "description": ""
+    },
+    "Minotaur Stampede": {
+      "name": "牛头人奔袭",
+      "description": ""
+    },
+    "Fiktin": {
+      "name": "菲克汀",
+      "description": ""
+    },
+    "Kingfissure Worm": {
+      "name": "裂地王虫",
+      "description": ""
+    },
+    "Bugbear Snare": {
+      "name": "熊地精陷阱",
+      "description": ""
+    },
+    "War Dog Geomancer": {
+      "name": "战犬地卜师",
+      "description": ""
+    },
+    "Hobgoblin Firerunner": {
+      "name": "火地精纵火者",
+      "description": ""
+    },
+    "Devil Legate": {
+      "name": "魔鬼使节",
+      "description": ""
+    },
+    "Orc Blitzer": {
+      "name": "兽人冲锋手",
+      "description": ""
+    },
+    "Bugbear Channeler": {
+      "name": "熊地精导能者",
+      "description": ""
+    },
+    "Shadow Elf Dusk Mage": {
+      "name": "暗影精灵暮光法师",
+      "description": ""
+    },
+    "Izyak": {
+      "name": "伊扎克",
+      "description": ""
+    },
+    "Zapper Eye": {
+      "name": "电击之眼",
+      "description": ""
+    },
+    "Soot Crow": {
+      "name": "煤烟鸦",
+      "description": ""
+    },
+    "Time Raider Armiger": {
+      "name": "时掠先锋战甲",
+      "description": ""
+    },
+    "Hobgoblin Grandguard": {
+      "name": "大地精禁卫",
+      "description": ""
+    },
+    "Human Trickshot": {
+      "name": "人类花式射击",
+      "description": ""
+    },
+    "Shadow Elf Noctis Mage": {
+      "name": "暗夜精灵诺克提斯法师",
+      "description": ""
+    },
+    "Bonecage": {
+      "name": "骨笼",
+      "description": ""
+    },
+    "Soulraker Soldier": {
+      "name": "噬魂士兵",
+      "description": ""
+    },
+    "Gloom Dragon": {
+      "name": "幽暗龙",
+      "description": ""
+    },
+    "High Elf Orbweaver": {
+      "name": "高等精灵织网者",
+      "description": ""
+    },
+    "High Elf Zephyr": {
+      "name": "高等精灵和风",
+      "description": ""
+    },
+    "Servok Miner": {
+      "name": "瑟沃克矿工",
+      "description": ""
+    },
+    "War Dog Blood Jumper": {
+      "name": "战犬血跃者",
+      "description": ""
+    },
+    "High Elf Dawn Mage": {
+      "name": "高等精灵晨曦法师",
+      "description": ""
+    },
+    "War Dog Thanatite": {
+      "name": "战犬萨那石",
+      "description": ""
+    },
+    "Ogre Goon": {
+      "name": "食人魔打手",
+      "description": ""
+    },
+    "Familiar": {
+      "name": "使魔",
+      "description": ""
+    },
+    "Gunge": {
+      "name": "枪械",
+      "description": ""
+    },
+    "Ajax the Leader": {
+      "name": "领袖埃阿斯",
+      "description": ""
+    },
+    "Lizardfolk Deathrex": {
+      "name": "蜥蜴人死神暴龙",
+      "description": ""
+    },
+    "Medusa": {
+      "name": "美杜莎",
+      "description": ""
+    },
+    "Human Rogue": {
+      "name": "人类潜行者",
+      "description": ""
+    },
+    "Xorannox the Tyract": {
+      "name": "提拉克特·索兰诺克斯",
+      "description": ""
+    },
+    "Lord Syuul": {
+      "name": "叙尔勋爵",
+      "description": ""
+    },
+    "Orc Bloodrunner": {
+      "name": "兽血奔袭者",
+      "description": ""
+    },
+    "Soulraker Praetorian": {
+      "name": "噬魂者禁卫",
+      "description": ""
+    },
+    "Lich": {
+      "name": "巫妖",
+      "description": ""
+    },
+    "Mummy Rotwrap": {
+      "name": "木乃伊腐尸裹布",
+      "description": ""
+    },
+    "Soulraker Hivequeen": {
+      "name": "噬魂蜂巢女王",
+      "description": ""
+    },
+    "Frost Giant Wind Sprinter": {
+      "name": "霜巨人风驰者",
+      "description": ""
+    },
+    "Mover Eye": {
+      "name": "移动之眼",
+      "description": ""
+    },
+    "High Elf Deathtouch": {
+      "name": "高等精灵死亡之触",
+      "description": ""
+    },
+    "Chimeron": {
+      "name": "奇美隆",
+      "description": ""
+    },
+    "Tyburaki": {
+      "name": "蒂布拉基",
+      "description": ""
+    },
+    "Remasch": {
+      "name": "雷马斯克",
+      "description": ""
+    },
+    "Angulotl Slink": {
+      "name": "安古洛特潜行者",
+      "description": ""
+    },
+    "Wode Elf Chirurgeon": {
+      "name": "沃德精灵外科医师",
+      "description": ""
+    },
+    "Soulraker Handmaiden": {
+      "name": "魂蚀侍女",
+      "description": ""
+    },
+    "Wode Elf Guerrilla": {
+      "name": "林地精灵游击兵",
+      "description": ""
+    },
+    "Kobold Princeps": {
+      "name": "狗头人王子",
+      "description": ""
+    },
+    "Phantom Bredbeddle": {
+      "name": "幻影布雷德贝德尔",
+      "description": ""
+    },
+    "Granite Stone Giant": {
+      "name": "花岗岩巨像",
+      "description": ""
+    },
+    "Human Blackguard": {
+      "name": "人类黑卫",
+      "description": ""
+    },
+    "Ghost": {
+      "name": "幽灵",
+      "description": ""
+    },
+    "Shieldscale Drangolin (Size 3)": {
+      "name": "盾鳞龙蜥（体型3）",
+      "description": ""
+    },
+    "Shieldscale Drangolin (Size 2)": {
+      "name": "盾鳞龙蜥（体型2）",
+      "description": ""
+    },
+    "Sand Stone Giant": {
+      "name": "沙石巨人",
+      "description": ""
+    },
+    "Human Knave": {
+      "name": "人类无赖",
+      "description": ""
+    },
+    "Basilisk Tonguesnapper": {
+      "name": "蛇蜥舌噬者",
+      "description": ""
+    },
+    "Troll Limbjumble": {
+      "name": "巨魔肢体乱舞",
+      "description": ""
+    },
+    "Unguloid": {
+      "name": "蹄形兽",
+      "description": ""
+    },
+    "Wraith": {
+      "name": "幽灵",
+      "description": ""
+    },
+    "Demolition Eye": {
+      "name": "爆破之眼",
+      "description": ""
+    },
+    "War Dog Firestarter": {
+      "name": "战犬纵火者",
+      "description": ""
+    },
+    "Hobgoblin Burning Witch": {
+      "name": "霍布林灼焰女巫",
+      "description": ""
+    },
+    "Kobold Veles": {
+      "name": "狗头人维勒斯",
+      "description": ""
+    },
+    "Human Storm Mage": {
+      "name": "人类风暴法师",
+      "description": ""
+    },
+    "War Dog Draconite": {
+      "name": "战犬龙晶",
+      "description": ""
+    },
+    "War Dog Hypokrite": {
+      "name": "伪善战犬",
+      "description": ""
+    },
+    "Shadow Elf Duskcaller": {
+      "name": "暗影精灵暮唤者",
+      "description": ""
+    },
+    "Hill Giant Clobberer": {
+      "name": "山丘巨人粉碎者",
+      "description": ""
+    },
+    "Bugbear Roughneck": {
+      "name": "熊地精暴徒",
+      "description": ""
+    },
+    "Fire Giant Red Fist": {
+      "name": "火焰巨人红拳",
+      "description": ""
+    },
+    "War Dog Phosphorite": {
+      "name": "战犬磷矿",
+      "description": ""
+    },
+    "Time Raider Helix": {
+      "name": "时空突袭者螺旋",
+      "description": ""
+    },
+    "Dwarf Launcher": {
+      "name": "矮人发射器",
+      "description": ""
+    },
+    "Radenwight Mischiever": {
+      "name": "雷登维特恶作剧者",
+      "description": ""
+    },
+    "Crucible Dragon": {
+      "name": "熔炉巨龙",
+      "description": ""
+    },
+    "Iron Champion Doru": {
+      "name": "钢铁冠军多鲁",
+      "description": ""
+    },
+    "Gnoll Abyssal Summoner": {
+      "name": "豺狼人深渊召唤师",
+      "description": ""
+    },
+    "Time Raider Tyrannis": {
+      "name": "时间掠夺者暴君",
+      "description": ""
+    },
+    "Pitling": {
+      "name": "坑道虫",
+      "description": ""
+    },
+    "Radenwight Maestro": {
+      "name": "雷登维特大师",
+      "description": ""
+    },
+    "Time Raider Nemesis": {
+      "name": "时空奇兵复仇女神",
+      "description": ""
+    },
+    "War Dog Neuronite": {
+      "name": "战犬神经石",
+      "description": ""
+    },
+    "Hulking Brain": {
+      "name": "巨型大脑",
+      "description": ""
+    },
+    "Noncombatant": {
+      "name": "非战斗人员",
+      "description": ""
+    },
+    "War Dog Eviscerite": {
+      "name": "战犬剔骨者",
+      "description": ""
+    },
+    "Lizardfolk Skyterror": {
+      "name": "蜥蜴人空怖龙",
+      "description": ""
+    },
+    "Lightbender Pouncer": {
+      "name": "光折跃者",
+      "description": ""
+    },
+    "War Dog Socialite": {
+      "name": "战犬交际花",
+      "description": ""
+    },
+    "Source of Earth": {
+      "name": "大地之源",
+      "description": ""
+    },
+    "Essence of Storms": {
+      "name": "风暴精华",
+      "description": ""
+    },
+    "Vampire Lord": {
+      "name": "吸血鬼领主",
+      "description": ""
+    },
+    "Dwarf Warden": {
+      "name": "矮人守望者",
+      "description": ""
+    },
+    "Soulbinder Psyche": {
+      "name": "缚魂者心灵",
+      "description": ""
+    },
+    "Lithgekh": {
+      "name": "利特格克",
+      "description": ""
+    },
+    "Vicisitator": {
+      "name": "维西西塔特",
+      "description": ""
+    },
+    "War Dog Amalgamite": {
+      "name": "战犬融合体",
+      "description": ""
+    },
+    "Phrrygalax the Subduer": {
+      "name": "征服者菲里加拉克斯",
+      "description": ""
+    },
+    "War Dog Doomthief": {
+      "name": "末日盗贼战犬",
+      "description": ""
+    },
+    "Blood-Starved Vampire": {
+      "name": "血渴吸血鬼",
+      "description": ""
+    },
+    "Trained Gummy Brick": {
+      "name": "训练有素的软糖砖",
+      "description": ""
+    },
+    "Time Raider Myriad": {
+      "name": "时空奇兵万化",
+      "description": ""
+    },
+    "Wode Elf Scout": {
+      "name": "林地精灵斥候",
+      "description": ""
+    },
+    "Giant Shambler Zombie": {
+      "name": "巨型蹒跚僵尸",
+      "description": ""
+    },
+    "Vortex": {
+      "name": "涡流",
+      "description": ""
+    },
+    "Dwarf Gunner": {
+      "name": "矮人枪手",
+      "description": ""
+    },
+    "Voiceless Talker Graywarper": {
+      "name": "无声言者灰境扭曲者",
+      "description": ""
+    },
+    "High Elf Wyrd": {
+      "name": "高等精灵先知",
+      "description": ""
+    },
+    "Clawfish": {
+      "name": "爪鱼",
+      "description": ""
+    },
+    "Optacus": {
+      "name": "奥普塔库斯",
+      "description": ""
+    },
+    "Thorn Dragon": {
+      "name": "棘龙",
+      "description": ""
+    },
+    "Fire Giant Fireballer": {
+      "name": "火焰巨人火球手",
+      "description": ""
+    },
+    "Kobold Centurion": {
+      "name": "狗头人百夫长",
+      "description": ""
+    },
+    "Wyvern Predator": {
+      "name": "翼龙掠食者",
+      "description": ""
+    },
+    "Minotaur Sunderer": {
+      "name": "牛头人破城者",
+      "description": ""
+    },
+    "Count Rhodar von Glauer": {
+      "name": "格劳尔伯爵罗达尔",
+      "description": ""
+    },
+    "Orliq": {
+      "name": "奥利克",
+      "description": ""
+    },
+    "Slaughter Demon": {
+      "name": "屠戮恶魔",
+      "description": ""
+    },
+    "War Dog Saboteur": {
+      "name": "战犬破坏者",
+      "description": ""
+    },
+    "Meteor Dragon": {
+      "name": "流星龙",
+      "description": ""
+    },
+    "Hobgoblin Redglare": {
+      "name": "红眼巨魔",
+      "description": ""
+    },
+    "Brush Stalker": {
+      "name": "刷丛潜猎者",
+      "description": ""
+    },
+    "Devil Jurist": {
+      "name": "魔鬼法学家",
+      "description": ""
+    },
+    "Orc Rampart": {
+      "name": "兽人壁垒",
+      "description": ""
+    },
+    "Aurumvas": {
+      "name": "金脉",
+      "description": ""
+    },
+    "Devil Scrivener": {
+      "name": "魔鬼书记官",
+      "description": ""
+    },
+    "Hobgoblin Recruit": {
+      "name": "大地精新兵",
+      "description": ""
+    },
+    "Olothec": {
+      "name": "奥洛塞克",
+      "description": ""
+    },
+    "War Dog Blackcap": {
+      "name": "战犬黑帽",
+      "description": ""
+    },
+    "Human Bandit Chief": {
+      "name": "人类强盗首领",
+      "description": "<p></p>\n<h3>[[/damage @M]]</h3>\n<p>你尝试对目标造成伤害。</p>\n<p><strong>攻击检定：</strong> 进行一次攻击检定，与目标的防御值对抗。</p>\n<p><strong>命中：</strong> 造成 __FORMULA_1__ 点伤害。</p>\n<p><strong>失手：</strong> 造成一半伤害。</p>\n<p><strong>特殊：</strong> 你可以消耗一次涌动来重掷此次攻击检定。</p>\n<table>\n<thead>\n<tr>\n<td><strong>属性</strong></td>\n<td><strong>值</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>范围</td>\n<td>近战武器</td>\n</tr>\n<tr>\n<td>目标</td>\n<td>一个生物</td>\n</tr>\n<tr>\n<td>攻击属性</td>\n<td>力量 或 敏捷</td>\n</tr>\n<tr>\n<td>防御</td>\n<td>AC</td>\n</tr>\n<tr>\n<td>伤害类型</td>\n<td>挥砍</td>\n</tr>\n</tbody>\n</table>\n<p>此能力由 @UUID[Compendium.pf2e.classfeatures.Item.0j1BZc4hBfS2qC2e]{战士武器大师} 授予。</p>"
+    },
+    "Bugbear Sneak": {
+      "name": "熊地精潜行者",
+      "description": ""
+    },
+    "Umbral Stalker": {
+      "name": "暗影潜行者",
+      "description": ""
+    },
+    "Hobgoblin Death Captain": {
+      "name": "大地精死亡队长",
+      "description": ""
+    },
+    "Wode Elf Yeoman": {
+      "name": "林地精灵自耕农",
+      "description": ""
+    },
+    "Shadow Elf Sniper": {
+      "name": "暗影精灵狙击手",
+      "description": ""
+    },
+    "War Dog Conscript": {
+      "name": "战犬征召兵",
+      "description": ""
+    },
+    "Waxen": {
+      "name": "蜡化",
+      "description": ""
+    },
+    "Shadow Elf Knightfell": {
+      "name": "影精灵骑士陨落",
+      "description": ""
+    },
+    "Orc Warleader": {
+      "name": "兽人战争领袖",
+      "description": ""
+    },
+    "Human Raider": {
+      "name": "人类掠夺者",
+      "description": ""
+    },
+    "Dwarf Shieldwall": {
+      "name": "矮人盾墙",
+      "description": ""
+    },
+    "War Dog Prismite": {
+      "name": "战犬棱晶",
+      "description": ""
+    },
+    "Kobold Signifer": {
+      "name": "狗头人旗手",
+      "description": ""
+    },
+    "Compulsion Eye": {
+      "name": "强迫之眼",
+      "description": ""
+    },
+    "Orc Garotter": {
+      "name": "兽人绞喉者",
+      "description": ""
+    },
+    "Bredbeddle": {
+      "name": "布雷德贝德尔",
+      "description": ""
+    },
+    "Gnoll Mage Mauler": {
+      "name": "豺狼人法师粉碎者",
+      "description": ""
+    },
+    "Wode Elf Druid": {
+      "name": "林地精灵德鲁伊",
+      "description": ""
+    },
+    "Chimera": {
+      "name": "奇美拉",
+      "description": ""
+    },
+    "Wode Elf Lookout": {
+      "name": "沃德精灵哨兵",
+      "description": ""
+    },
+    "Wode Elf Warleader": {
+      "name": "沃德精灵战帅",
+      "description": ""
+    },
+    "Mindkiller Whelp": {
+      "name": "心灵杀手幼龙",
+      "description": ""
+    },
+    "Dwarf Trapper": {
+      "name": "矮人捕手",
+      "description": ""
+    },
+    "Elemental Mote": {
+      "name": "元素微粒",
+      "description": ""
+    },
+    "Orc Eye of Grole": {
+      "name": "兽人巨眼",
+      "description": ""
+    },
+    "Wode Elf Gweiadur": {
+      "name": "林地精灵法典",
+      "description": ""
+    },
+    "Hobgoblin Smokebinder": {
+      "name": "豪格布林烟缚者",
+      "description": ""
+    },
+    "Ceramic Horse": {
+      "name": "陶瓷马",
+      "description": ""
+    },
+    "Dwarf Hunter": {
+      "name": "矮人猎人",
+      "description": ""
+    },
+    "Shadow Elf Panther": {
+      "name": "暗影精灵豹",
+      "description": ""
+    },
+    "Bale Eye": {
+      "name": "凶眼",
+      "description": ""
+    },
+    "Gnoll Carnage": {
+      "name": "豺狼人屠杀",
+      "description": ""
+    },
+    "Wode Elf Sentry": {
+      "name": "林地精灵哨兵",
+      "description": ""
+    },
+    "Lizardfolk Deathrex Shedded Skin": {
+      "name": "蜥蜴人死神雷克斯蜕皮",
+      "description": ""
+    },
+    "Troll Ravager": {
+      "name": "巨魔劫掠者",
+      "description": ""
+    }
+  }
+}

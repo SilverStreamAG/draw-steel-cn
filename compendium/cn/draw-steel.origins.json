@@ -1,0 +1,1395 @@
+{
+  "label": "DRAW_STEEL.COMPENDIUM.origins",
+  "mapping": {
+    "description": "system.description.value",
+    "advancements_anyLang000000000_name": "system.advancements.anyLang000000000.name",
+    "advancements_anyLang000000000_description": "system.advancements.anyLang000000000.description",
+    "advancements_kCB7HSiCX3uTo54n_name": "system.advancements.kCB7HSiCX3uTo54n.name",
+    "advancements_kCB7HSiCX3uTo54n_description": "system.advancements.kCB7HSiCX3uTo54n.description",
+    "advancements_LxbYhZRedNxowEUk_name": "system.advancements.LxbYhZRedNxowEUk.name",
+    "advancements_LxbYhZRedNxowEUk_description": "system.advancements.LxbYhZRedNxowEUk.description",
+    "advancements_4bIW72a9bbl9FAdv_name": "system.advancements.4bIW72a9bbl9FAdv.name",
+    "advancements_4bIW72a9bbl9FAdv_description": "system.advancements.4bIW72a9bbl9FAdv.description",
+    "advancements_HLtPzzJg6eLzUIyK_name": "system.advancements.HLtPzzJg6eLzUIyK.name",
+    "advancements_HLtPzzJg6eLzUIyK_description": "system.advancements.HLtPzzJg6eLzUIyK.description",
+    "advancements_PCLiTgPjG4l6hRmp_name": "system.advancements.PCLiTgPjG4l6hRmp.name",
+    "advancements_PCLiTgPjG4l6hRmp_description": "system.advancements.PCLiTgPjG4l6hRmp.description",
+    "advancements_93nNH4J2VKFHiPsZ_name": "system.advancements.93nNH4J2VKFHiPsZ.name",
+    "advancements_93nNH4J2VKFHiPsZ_description": "system.advancements.93nNH4J2VKFHiPsZ.description",
+    "advancements_7GRWkG9xsbeaXbVE_name": "system.advancements.7GRWkG9xsbeaXbVE.name",
+    "advancements_7GRWkG9xsbeaXbVE_description": "system.advancements.7GRWkG9xsbeaXbVE.description",
+    "advancements_6p2D0CoaC9XC7933_name": "system.advancements.6p2D0CoaC9XC7933.name",
+    "advancements_6p2D0CoaC9XC7933_description": "system.advancements.6p2D0CoaC9XC7933.description",
+    "advancements_iGwmGFuXqr0s66ld_name": "system.advancements.iGwmGFuXqr0s66ld.name",
+    "advancements_iGwmGFuXqr0s66ld_description": "system.advancements.iGwmGFuXqr0s66ld.description",
+    "advancements_6QeV1AgB4VaBXFC9_name": "system.advancements.6QeV1AgB4VaBXFC9.name",
+    "advancements_6QeV1AgB4VaBXFC9_description": "system.advancements.6QeV1AgB4VaBXFC9.description",
+    "advancements_wjCnH9cOfQON5aTl_name": "system.advancements.wjCnH9cOfQON5aTl.name",
+    "advancements_wjCnH9cOfQON5aTl_description": "system.advancements.wjCnH9cOfQON5aTl.description",
+    "advancements_uju3YcX0p8Uj12Eh_name": "system.advancements.uju3YcX0p8Uj12Eh.name",
+    "advancements_uju3YcX0p8Uj12Eh_description": "system.advancements.uju3YcX0p8Uj12Eh.description",
+    "advancements_KwlyNheQxpSDxePy_name": "system.advancements.KwlyNheQxpSDxePy.name",
+    "advancements_KwlyNheQxpSDxePy_description": "system.advancements.KwlyNheQxpSDxePy.description",
+    "advancements_uJKfnB86azE5PXUH_name": "system.advancements.uJKfnB86azE5PXUH.name",
+    "advancements_uJKfnB86azE5PXUH_description": "system.advancements.uJKfnB86azE5PXUH.description",
+    "advancements_UQjCQ1jQa3hRRsvL_name": "system.advancements.UQjCQ1jQa3hRRsvL.name",
+    "advancements_UQjCQ1jQa3hRRsvL_description": "system.advancements.UQjCQ1jQa3hRRsvL.description",
+    "advancements_E6YP3moczIW8MjUT_name": "system.advancements.E6YP3moczIW8MjUT.name",
+    "advancements_E6YP3moczIW8MjUT_description": "system.advancements.E6YP3moczIW8MjUT.description",
+    "advancements_TFxadIDx5JsYZ1Qe_name": "system.advancements.TFxadIDx5JsYZ1Qe.name",
+    "advancements_TFxadIDx5JsYZ1Qe_description": "system.advancements.TFxadIDx5JsYZ1Qe.description",
+    "advancements_UQDNzX9Xkx0Ae7iu_name": "system.advancements.UQDNzX9Xkx0Ae7iu.name",
+    "advancements_UQDNzX9Xkx0Ae7iu_description": "system.advancements.UQDNzX9Xkx0Ae7iu.description",
+    "advancements_yy3YUcR3hURUZxut_name": "system.advancements.yy3YUcR3hURUZxut.name",
+    "advancements_yy3YUcR3hURUZxut_description": "system.advancements.yy3YUcR3hURUZxut.description",
+    "advancements_pIY2kFm7st4LiPpf_name": "system.advancements.pIY2kFm7st4LiPpf.name",
+    "advancements_pIY2kFm7st4LiPpf_description": "system.advancements.pIY2kFm7st4LiPpf.description",
+    "advancements_68txRgawYVc98lcY_name": "system.advancements.68txRgawYVc98lcY.name",
+    "advancements_68txRgawYVc98lcY_description": "system.advancements.68txRgawYVc98lcY.description",
+    "advancements_3ePHqlbaaZpxGvKk_name": "system.advancements.3ePHqlbaaZpxGvKk.name",
+    "advancements_3ePHqlbaaZpxGvKk_description": "system.advancements.3ePHqlbaaZpxGvKk.description",
+    "advancements_ntysmrEIQ8Yky6AD_name": "system.advancements.ntysmrEIQ8Yky6AD.name",
+    "advancements_ntysmrEIQ8Yky6AD_description": "system.advancements.ntysmrEIQ8Yky6AD.description",
+    "advancements_ccY6542d4OHpNEcy_name": "system.advancements.ccY6542d4OHpNEcy.name",
+    "advancements_ccY6542d4OHpNEcy_description": "system.advancements.ccY6542d4OHpNEcy.description",
+    "advancements_b7CvBwtvYZtoQvBq_name": "system.advancements.b7CvBwtvYZtoQvBq.name",
+    "advancements_b7CvBwtvYZtoQvBq_description": "system.advancements.b7CvBwtvYZtoQvBq.description",
+    "advancements_64ar1vJ1ujaYvmVA_name": "system.advancements.64ar1vJ1ujaYvmVA.name",
+    "advancements_64ar1vJ1ujaYvmVA_description": "system.advancements.64ar1vJ1ujaYvmVA.description",
+    "advancements_7UFOc1UUzdwGiru7_name": "system.advancements.7UFOc1UUzdwGiru7.name",
+    "advancements_7UFOc1UUzdwGiru7_description": "system.advancements.7UFOc1UUzdwGiru7.description",
+    "advancements_89sKbGWG7LqWk7qF_name": "system.advancements.89sKbGWG7LqWk7qF.name",
+    "advancements_89sKbGWG7LqWk7qF_description": "system.advancements.89sKbGWG7LqWk7qF.description",
+    "advancements_ZzkRKTIP2wdXjFG0_name": "system.advancements.ZzkRKTIP2wdXjFG0.name",
+    "advancements_ZzkRKTIP2wdXjFG0_description": "system.advancements.ZzkRKTIP2wdXjFG0.description",
+    "advancements_JEeXIxxLKJHuqDcw_name": "system.advancements.JEeXIxxLKJHuqDcw.name",
+    "advancements_JEeXIxxLKJHuqDcw_description": "system.advancements.JEeXIxxLKJHuqDcw.description",
+    "advancements_BUztdrJwTOFszJSG_name": "system.advancements.BUztdrJwTOFszJSG.name",
+    "advancements_BUztdrJwTOFszJSG_description": "system.advancements.BUztdrJwTOFszJSG.description",
+    "advancements_l5rTbLwEPbtqSvn8_name": "system.advancements.l5rTbLwEPbtqSvn8.name",
+    "advancements_l5rTbLwEPbtqSvn8_description": "system.advancements.l5rTbLwEPbtqSvn8.description",
+    "advancements_lhkDf5C9HFSarlkU_name": "system.advancements.lhkDf5C9HFSarlkU.name",
+    "advancements_lhkDf5C9HFSarlkU_description": "system.advancements.lhkDf5C9HFSarlkU.description",
+    "advancements_phloB0LxDAmAb2Ri_name": "system.advancements.phloB0LxDAmAb2Ri.name",
+    "advancements_phloB0LxDAmAb2Ri_description": "system.advancements.phloB0LxDAmAb2Ri.description",
+    "advancements_r3jsrPXWNei3CulI_name": "system.advancements.r3jsrPXWNei3CulI.name",
+    "advancements_r3jsrPXWNei3CulI_description": "system.advancements.r3jsrPXWNei3CulI.description",
+    "advancements_5AWWiSG7Rhq8g3Gg_name": "system.advancements.5AWWiSG7Rhq8g3Gg.name",
+    "advancements_5AWWiSG7Rhq8g3Gg_description": "system.advancements.5AWWiSG7Rhq8g3Gg.description",
+    "advancements_vqHyAh9dBSu0Mzdx_name": "system.advancements.vqHyAh9dBSu0Mzdx.name",
+    "advancements_vqHyAh9dBSu0Mzdx_description": "system.advancements.vqHyAh9dBSu0Mzdx.description",
+    "advancements_u2SLUMKmi4NIzvkP_name": "system.advancements.u2SLUMKmi4NIzvkP.name",
+    "advancements_u2SLUMKmi4NIzvkP_description": "system.advancements.u2SLUMKmi4NIzvkP.description",
+    "advancements_annsjW0DjUbBkiKl_name": "system.advancements.annsjW0DjUbBkiKl.name",
+    "advancements_annsjW0DjUbBkiKl_description": "system.advancements.annsjW0DjUbBkiKl.description",
+    "advancements_hhXPoh9CBhaWqzfj_name": "system.advancements.hhXPoh9CBhaWqzfj.name",
+    "advancements_hhXPoh9CBhaWqzfj_description": "system.advancements.hhXPoh9CBhaWqzfj.description",
+    "advancements_nS8bobDV2p1szqhy_name": "system.advancements.nS8bobDV2p1szqhy.name",
+    "advancements_nS8bobDV2p1szqhy_description": "system.advancements.nS8bobDV2p1szqhy.description",
+    "advancements_yKdh8pJxZaKdQCfh_name": "system.advancements.yKdh8pJxZaKdQCfh.name",
+    "advancements_yKdh8pJxZaKdQCfh_description": "system.advancements.yKdh8pJxZaKdQCfh.description",
+    "advancements_daUqA5qvy1CScxgy_name": "system.advancements.daUqA5qvy1CScxgy.name",
+    "advancements_daUqA5qvy1CScxgy_description": "system.advancements.daUqA5qvy1CScxgy.description",
+    "advancements_JBVmu8Uhn68bqp4l_name": "system.advancements.JBVmu8Uhn68bqp4l.name",
+    "advancements_JBVmu8Uhn68bqp4l_description": "system.advancements.JBVmu8Uhn68bqp4l.description",
+    "advancements_ybgGD0NElVjcOuyk_name": "system.advancements.ybgGD0NElVjcOuyk.name",
+    "advancements_ybgGD0NElVjcOuyk_description": "system.advancements.ybgGD0NElVjcOuyk.description",
+    "advancements_NLVGCJYz4YhdBuNz_name": "system.advancements.NLVGCJYz4YhdBuNz.name",
+    "advancements_NLVGCJYz4YhdBuNz_description": "system.advancements.NLVGCJYz4YhdBuNz.description",
+    "advancements_YnnDBTjyv2TjK8gI_name": "system.advancements.YnnDBTjyv2TjK8gI.name",
+    "advancements_YnnDBTjyv2TjK8gI_description": "system.advancements.YnnDBTjyv2TjK8gI.description",
+    "advancements_laRRhOT6C197WeEc_name": "system.advancements.laRRhOT6C197WeEc.name",
+    "advancements_laRRhOT6C197WeEc_description": "system.advancements.laRRhOT6C197WeEc.description",
+    "advancements_wIDFLAsR45xf49om_name": "system.advancements.wIDFLAsR45xf49om.name",
+    "advancements_wIDFLAsR45xf49om_description": "system.advancements.wIDFLAsR45xf49om.description",
+    "advancements_baedeDOYe6K3ZQa9_name": "system.advancements.baedeDOYe6K3ZQa9.name",
+    "advancements_baedeDOYe6K3ZQa9_description": "system.advancements.baedeDOYe6K3ZQa9.description",
+    "advancements_MaEsyqUb2QzTHZqt_name": "system.advancements.MaEsyqUb2QzTHZqt.name",
+    "advancements_MaEsyqUb2QzTHZqt_description": "system.advancements.MaEsyqUb2QzTHZqt.description",
+    "advancements_PD9JCwqcjmHCBXDV_name": "system.advancements.PD9JCwqcjmHCBXDV.name",
+    "advancements_PD9JCwqcjmHCBXDV_description": "system.advancements.PD9JCwqcjmHCBXDV.description",
+    "advancements_VXBbKE86rRb6HggJ_name": "system.advancements.VXBbKE86rRb6HggJ.name",
+    "advancements_VXBbKE86rRb6HggJ_description": "system.advancements.VXBbKE86rRb6HggJ.description",
+    "advancements_5ltfATFcWOf5dJm8_name": "system.advancements.5ltfATFcWOf5dJm8.name",
+    "advancements_5ltfATFcWOf5dJm8_description": "system.advancements.5ltfATFcWOf5dJm8.description",
+    "advancements_NgAXaZ3RLVxtlQ0R_name": "system.advancements.NgAXaZ3RLVxtlQ0R.name",
+    "advancements_NgAXaZ3RLVxtlQ0R_description": "system.advancements.NgAXaZ3RLVxtlQ0R.description",
+    "advancements_RuRRdUi8BJMGFRyV_name": "system.advancements.RuRRdUi8BJMGFRyV.name",
+    "advancements_RuRRdUi8BJMGFRyV_description": "system.advancements.RuRRdUi8BJMGFRyV.description",
+    "advancements_NtEGlqGoqCegfjYx_name": "system.advancements.NtEGlqGoqCegfjYx.name",
+    "advancements_NtEGlqGoqCegfjYx_description": "system.advancements.NtEGlqGoqCegfjYx.description",
+    "advancements_z6PLxaTVi9eTf7oK_name": "system.advancements.z6PLxaTVi9eTf7oK.name",
+    "advancements_z6PLxaTVi9eTf7oK_description": "system.advancements.z6PLxaTVi9eTf7oK.description",
+    "advancements_b20JGDHDsKPK6PmI_name": "system.advancements.b20JGDHDsKPK6PmI.name",
+    "advancements_b20JGDHDsKPK6PmI_description": "system.advancements.b20JGDHDsKPK6PmI.description",
+    "advancements_Ry1yAVOoKwieHclx_name": "system.advancements.Ry1yAVOoKwieHclx.name",
+    "advancements_Ry1yAVOoKwieHclx_description": "system.advancements.Ry1yAVOoKwieHclx.description",
+    "advancements_bTtak9ddRCD86cNQ_name": "system.advancements.bTtak9ddRCD86cNQ.name",
+    "advancements_bTtak9ddRCD86cNQ_description": "system.advancements.bTtak9ddRCD86cNQ.description",
+    "advancements_Pr017E5pXhMwnknC_name": "system.advancements.Pr017E5pXhMwnknC.name",
+    "advancements_Pr017E5pXhMwnknC_description": "system.advancements.Pr017E5pXhMwnknC.description",
+    "advancements_JEfMdLeO8HHgv8hL_name": "system.advancements.JEfMdLeO8HHgv8hL.name",
+    "advancements_JEfMdLeO8HHgv8hL_description": "system.advancements.JEfMdLeO8HHgv8hL.description",
+    "advancements_erM2WJMkzTuGpiKF_name": "system.advancements.erM2WJMkzTuGpiKF.name",
+    "advancements_erM2WJMkzTuGpiKF_description": "system.advancements.erM2WJMkzTuGpiKF.description",
+    "advancements_nuMXjpqMu11xyn9d_name": "system.advancements.nuMXjpqMu11xyn9d.name",
+    "advancements_nuMXjpqMu11xyn9d_description": "system.advancements.nuMXjpqMu11xyn9d.description",
+    "advancements_0HRmARort6cvuDx1_name": "system.advancements.0HRmARort6cvuDx1.name",
+    "advancements_0HRmARort6cvuDx1_description": "system.advancements.0HRmARort6cvuDx1.description",
+    "advancements_xyLbkBtmdUNTeZEo_name": "system.advancements.xyLbkBtmdUNTeZEo.name",
+    "advancements_xyLbkBtmdUNTeZEo_description": "system.advancements.xyLbkBtmdUNTeZEo.description",
+    "advancements_fVPyi0SClfMLvH91_name": "system.advancements.fVPyi0SClfMLvH91.name",
+    "advancements_fVPyi0SClfMLvH91_description": "system.advancements.fVPyi0SClfMLvH91.description",
+    "advancements_OBqVOE5qfq237Biq_name": "system.advancements.OBqVOE5qfq237Biq.name",
+    "advancements_OBqVOE5qfq237Biq_description": "system.advancements.OBqVOE5qfq237Biq.description",
+    "advancements_I7sD76O1kt8K2CHJ_name": "system.advancements.I7sD76O1kt8K2CHJ.name",
+    "advancements_I7sD76O1kt8K2CHJ_description": "system.advancements.I7sD76O1kt8K2CHJ.description",
+    "advancements_0mxjmVHVZGn3TGXC_name": "system.advancements.0mxjmVHVZGn3TGXC.name",
+    "advancements_0mxjmVHVZGn3TGXC_description": "system.advancements.0mxjmVHVZGn3TGXC.description",
+    "advancements_XbdlctbG8Y7wqoid_name": "system.advancements.XbdlctbG8Y7wqoid.name",
+    "advancements_XbdlctbG8Y7wqoid_description": "system.advancements.XbdlctbG8Y7wqoid.description",
+    "advancements_vdTeirMuDhE1UQSl_name": "system.advancements.vdTeirMuDhE1UQSl.name",
+    "advancements_vdTeirMuDhE1UQSl_description": "system.advancements.vdTeirMuDhE1UQSl.description",
+    "advancements_fw3UVBEaHEQVlASY_name": "system.advancements.fw3UVBEaHEQVlASY.name",
+    "advancements_fw3UVBEaHEQVlASY_description": "system.advancements.fw3UVBEaHEQVlASY.description",
+    "advancements_IohuI0JZm7gBgFQy_name": "system.advancements.IohuI0JZm7gBgFQy.name",
+    "advancements_IohuI0JZm7gBgFQy_description": "system.advancements.IohuI0JZm7gBgFQy.description",
+    "advancements_Aaav42syRP8lBxqD_name": "system.advancements.Aaav42syRP8lBxqD.name",
+    "advancements_Aaav42syRP8lBxqD_description": "system.advancements.Aaav42syRP8lBxqD.description",
+    "advancements_GZkHVPTyLorqo5h8_name": "system.advancements.GZkHVPTyLorqo5h8.name",
+    "advancements_GZkHVPTyLorqo5h8_description": "system.advancements.GZkHVPTyLorqo5h8.description",
+    "advancements_kUEp5BCatSZrRDTm_name": "system.advancements.kUEp5BCatSZrRDTm.name",
+    "advancements_kUEp5BCatSZrRDTm_description": "system.advancements.kUEp5BCatSZrRDTm.description",
+    "advancements_4Ue5ZNT1dLtuVL6j_name": "system.advancements.4Ue5ZNT1dLtuVL6j.name",
+    "advancements_4Ue5ZNT1dLtuVL6j_description": "system.advancements.4Ue5ZNT1dLtuVL6j.description",
+    "advancements_tVKZxxDNAwwjcmmF_name": "system.advancements.tVKZxxDNAwwjcmmF.name",
+    "advancements_tVKZxxDNAwwjcmmF_description": "system.advancements.tVKZxxDNAwwjcmmF.description",
+    "advancements_6gc5yRJ4m4k9k6O4_name": "system.advancements.6gc5yRJ4m4k9k6O4.name",
+    "advancements_6gc5yRJ4m4k9k6O4_description": "system.advancements.6gc5yRJ4m4k9k6O4.description",
+    "advancements_HcaQzlKVPsWfFGZz_name": "system.advancements.HcaQzlKVPsWfFGZz.name",
+    "advancements_HcaQzlKVPsWfFGZz_description": "system.advancements.HcaQzlKVPsWfFGZz.description",
+    "advancements_ls50NFgnAb7mLYFz_name": "system.advancements.ls50NFgnAb7mLYFz.name",
+    "advancements_ls50NFgnAb7mLYFz_description": "system.advancements.ls50NFgnAb7mLYFz.description",
+    "advancements_AlOrDwMy2S589YIi_name": "system.advancements.AlOrDwMy2S589YIi.name",
+    "advancements_AlOrDwMy2S589YIi_description": "system.advancements.AlOrDwMy2S589YIi.description",
+    "advancements_Gg1rsCRTt4unGnB7_name": "system.advancements.Gg1rsCRTt4unGnB7.name",
+    "advancements_Gg1rsCRTt4unGnB7_description": "system.advancements.Gg1rsCRTt4unGnB7.description",
+    "advancements_K8wvi7fcYnrsRLVr_name": "system.advancements.K8wvi7fcYnrsRLVr.name",
+    "advancements_K8wvi7fcYnrsRLVr_description": "system.advancements.K8wvi7fcYnrsRLVr.description",
+    "advancements_lnPCnzLHH0HSPuZ0_name": "system.advancements.lnPCnzLHH0HSPuZ0.name",
+    "advancements_lnPCnzLHH0HSPuZ0_description": "system.advancements.lnPCnzLHH0HSPuZ0.description",
+    "advancements_S1qWpQvikYNro1ox_name": "system.advancements.S1qWpQvikYNro1ox.name",
+    "advancements_S1qWpQvikYNro1ox_description": "system.advancements.S1qWpQvikYNro1ox.description",
+    "advancements_1fDN8Qrp73TWjYDm_name": "system.advancements.1fDN8Qrp73TWjYDm.name",
+    "advancements_1fDN8Qrp73TWjYDm_description": "system.advancements.1fDN8Qrp73TWjYDm.description",
+    "advancements_Agp7gfcQ9CFjMJgY_name": "system.advancements.Agp7gfcQ9CFjMJgY.name",
+    "advancements_Agp7gfcQ9CFjMJgY_description": "system.advancements.Agp7gfcQ9CFjMJgY.description",
+    "advancements_naZdlT1bVvunetMK_name": "system.advancements.naZdlT1bVvunetMK.name",
+    "advancements_naZdlT1bVvunetMK_description": "system.advancements.naZdlT1bVvunetMK.description",
+    "advancements_og8i2kLFkS6stO04_name": "system.advancements.og8i2kLFkS6stO04.name",
+    "advancements_og8i2kLFkS6stO04_description": "system.advancements.og8i2kLFkS6stO04.description",
+    "advancements_QhnHaSd2adwBs64j_name": "system.advancements.QhnHaSd2adwBs64j.name",
+    "advancements_QhnHaSd2adwBs64j_description": "system.advancements.QhnHaSd2adwBs64j.description",
+    "advancements_bP3HgMvgAl8aM9K6_name": "system.advancements.bP3HgMvgAl8aM9K6.name",
+    "advancements_bP3HgMvgAl8aM9K6_description": "system.advancements.bP3HgMvgAl8aM9K6.description",
+    "advancements_rUEv1cZVO8FQYAng_name": "system.advancements.rUEv1cZVO8FQYAng.name",
+    "advancements_rUEv1cZVO8FQYAng_description": "system.advancements.rUEv1cZVO8FQYAng.description",
+    "advancements_LW1U7m79CcaTqpua_name": "system.advancements.LW1U7m79CcaTqpua.name",
+    "advancements_LW1U7m79CcaTqpua_description": "system.advancements.LW1U7m79CcaTqpua.description",
+    "advancements_ywby0wLMbjp3KAoe_name": "system.advancements.ywby0wLMbjp3KAoe.name",
+    "advancements_ywby0wLMbjp3KAoe_description": "system.advancements.ywby0wLMbjp3KAoe.description",
+    "advancements_6QSrwjUFfFcvjul0_name": "system.advancements.6QSrwjUFfFcvjul0.name",
+    "advancements_6QSrwjUFfFcvjul0_description": "system.advancements.6QSrwjUFfFcvjul0.description",
+    "advancements_XVb6IGYapdfNDcOS_name": "system.advancements.XVb6IGYapdfNDcOS.name",
+    "advancements_XVb6IGYapdfNDcOS_description": "system.advancements.XVb6IGYapdfNDcOS.description",
+    "advancements_rpfsfzOhw53PwsGE_name": "system.advancements.rpfsfzOhw53PwsGE.name",
+    "advancements_rpfsfzOhw53PwsGE_description": "system.advancements.rpfsfzOhw53PwsGE.description",
+    "advancements_cgbEGZUgMjN0genG_name": "system.advancements.cgbEGZUgMjN0genG.name",
+    "advancements_cgbEGZUgMjN0genG_description": "system.advancements.cgbEGZUgMjN0genG.description",
+    "advancements_FpJvRnheUbynp7cY_name": "system.advancements.FpJvRnheUbynp7cY.name",
+    "advancements_FpJvRnheUbynp7cY_description": "system.advancements.FpJvRnheUbynp7cY.description",
+    "advancements_igLgIG7UtPtvAwpP_name": "system.advancements.igLgIG7UtPtvAwpP.name",
+    "advancements_igLgIG7UtPtvAwpP_description": "system.advancements.igLgIG7UtPtvAwpP.description",
+    "advancements_8qVO1cQ86lB0PVEH_name": "system.advancements.8qVO1cQ86lB0PVEH.name",
+    "advancements_8qVO1cQ86lB0PVEH_description": "system.advancements.8qVO1cQ86lB0PVEH.description",
+    "advancements_NrOnyWpRHJYurm2Y_name": "system.advancements.NrOnyWpRHJYurm2Y.name",
+    "advancements_NrOnyWpRHJYurm2Y_description": "system.advancements.NrOnyWpRHJYurm2Y.description",
+    "advancements_mG08KGdUdTlTPddN_name": "system.advancements.mG08KGdUdTlTPddN.name",
+    "advancements_mG08KGdUdTlTPddN_description": "system.advancements.mG08KGdUdTlTPddN.description",
+    "advancements_g72HClS88FlO0Zrx_name": "system.advancements.g72HClS88FlO0Zrx.name",
+    "advancements_g72HClS88FlO0Zrx_description": "system.advancements.g72HClS88FlO0Zrx.description",
+    "advancements_0HmvTxm1AVafaQEX_name": "system.advancements.0HmvTxm1AVafaQEX.name",
+    "advancements_0HmvTxm1AVafaQEX_description": "system.advancements.0HmvTxm1AVafaQEX.description",
+    "advancements_rXmDJP6MrjqPKavX_name": "system.advancements.rXmDJP6MrjqPKavX.name",
+    "advancements_rXmDJP6MrjqPKavX_description": "system.advancements.rXmDJP6MrjqPKavX.description",
+    "advancements_S6oySPhZr6i3Ziop_name": "system.advancements.S6oySPhZr6i3Ziop.name",
+    "advancements_S6oySPhZr6i3Ziop_description": "system.advancements.S6oySPhZr6i3Ziop.description",
+    "advancements_wEGEeKwnlERCbUGG_name": "system.advancements.wEGEeKwnlERCbUGG.name",
+    "advancements_wEGEeKwnlERCbUGG_description": "system.advancements.wEGEeKwnlERCbUGG.description",
+    "advancements_vsHwsnRf7D2Y9l8z_name": "system.advancements.vsHwsnRf7D2Y9l8z.name",
+    "advancements_vsHwsnRf7D2Y9l8z_description": "system.advancements.vsHwsnRf7D2Y9l8z.description",
+    "advancements_5foDIQsDExw6rBOK_name": "system.advancements.5foDIQsDExw6rBOK.name",
+    "advancements_5foDIQsDExw6rBOK_description": "system.advancements.5foDIQsDExw6rBOK.description",
+    "advancements_iZUd4natt51ptGRl_name": "system.advancements.iZUd4natt51ptGRl.name",
+    "advancements_iZUd4natt51ptGRl_description": "system.advancements.iZUd4natt51ptGRl.description",
+    "advancements_ii6RtbMVAChFpZHG_name": "system.advancements.ii6RtbMVAChFpZHG.name",
+    "advancements_ii6RtbMVAChFpZHG_description": "system.advancements.ii6RtbMVAChFpZHG.description",
+    "advancements_PHeJawczYyVfG5JN_name": "system.advancements.PHeJawczYyVfG5JN.name",
+    "advancements_PHeJawczYyVfG5JN_description": "system.advancements.PHeJawczYyVfG5JN.description",
+    "advancements_OKf9KjzVtysDVwya_name": "system.advancements.OKf9KjzVtysDVwya.name",
+    "advancements_OKf9KjzVtysDVwya_description": "system.advancements.OKf9KjzVtysDVwya.description",
+    "advancements_DBDoHd2r8aEEmpwp_name": "system.advancements.DBDoHd2r8aEEmpwp.name",
+    "advancements_DBDoHd2r8aEEmpwp_description": "system.advancements.DBDoHd2r8aEEmpwp.description",
+    "advancements_3lwbvbPhv8Fj0nmU_name": "system.advancements.3lwbvbPhv8Fj0nmU.name",
+    "advancements_3lwbvbPhv8Fj0nmU_description": "system.advancements.3lwbvbPhv8Fj0nmU.description",
+    "advancements_TV4AP72vGiOHxG8w_name": "system.advancements.TV4AP72vGiOHxG8w.name",
+    "advancements_TV4AP72vGiOHxG8w_description": "system.advancements.TV4AP72vGiOHxG8w.description",
+    "advancements_q3lC41A4ikuZQsc5_name": "system.advancements.q3lC41A4ikuZQsc5.name",
+    "advancements_q3lC41A4ikuZQsc5_description": "system.advancements.q3lC41A4ikuZQsc5.description",
+    "advancements_TAOHjFLPZSIDVbOk_name": "system.advancements.TAOHjFLPZSIDVbOk.name",
+    "advancements_TAOHjFLPZSIDVbOk_description": "system.advancements.TAOHjFLPZSIDVbOk.description",
+    "advancements_pwchn6Y8mX9JztaJ_name": "system.advancements.pwchn6Y8mX9JztaJ.name",
+    "advancements_pwchn6Y8mX9JztaJ_description": "system.advancements.pwchn6Y8mX9JztaJ.description",
+    "advancements_WTNNcZnHNLHfU8AR_name": "system.advancements.WTNNcZnHNLHfU8AR.name",
+    "advancements_WTNNcZnHNLHfU8AR_description": "system.advancements.WTNNcZnHNLHfU8AR.description",
+    "advancements_WD8dKntqHxqtu8WU_name": "system.advancements.WD8dKntqHxqtu8WU.name",
+    "advancements_WD8dKntqHxqtu8WU_description": "system.advancements.WD8dKntqHxqtu8WU.description",
+    "advancements_3SETho8SiqVZfGuk_name": "system.advancements.3SETho8SiqVZfGuk.name",
+    "advancements_3SETho8SiqVZfGuk_description": "system.advancements.3SETho8SiqVZfGuk.description",
+    "advancements_6YCUNF2XURJ9b4kE_name": "system.advancements.6YCUNF2XURJ9b4kE.name",
+    "advancements_6YCUNF2XURJ9b4kE_description": "system.advancements.6YCUNF2XURJ9b4kE.description",
+    "advancements_R1MDyVsa7LzOy6FK_name": "system.advancements.R1MDyVsa7LzOy6FK.name",
+    "advancements_R1MDyVsa7LzOy6FK_description": "system.advancements.R1MDyVsa7LzOy6FK.description",
+    "advancements_oTPp7euYChQAKyOY_name": "system.advancements.oTPp7euYChQAKyOY.name",
+    "advancements_oTPp7euYChQAKyOY_description": "system.advancements.oTPp7euYChQAKyOY.description",
+    "advancements_owaluM1r3qqpTLuV_name": "system.advancements.owaluM1r3qqpTLuV.name",
+    "advancements_owaluM1r3qqpTLuV_description": "system.advancements.owaluM1r3qqpTLuV.description",
+    "advancements_oq0eBuDVm5vip8MY_name": "system.advancements.oq0eBuDVm5vip8MY.name",
+    "advancements_oq0eBuDVm5vip8MY_description": "system.advancements.oq0eBuDVm5vip8MY.description",
+    "advancements_Hr8UrWwyNaeL535D_name": "system.advancements.Hr8UrWwyNaeL535D.name",
+    "advancements_Hr8UrWwyNaeL535D_description": "system.advancements.Hr8UrWwyNaeL535D.description",
+    "advancements_r4ukphkeedBJWuOB_name": "system.advancements.r4ukphkeedBJWuOB.name",
+    "advancements_r4ukphkeedBJWuOB_description": "system.advancements.r4ukphkeedBJWuOB.description",
+    "advancements_8UlNfizx2eA8Evh4_name": "system.advancements.8UlNfizx2eA8Evh4.name",
+    "advancements_8UlNfizx2eA8Evh4_description": "system.advancements.8UlNfizx2eA8Evh4.description",
+    "advancements_tEHjwDGhYgjTRGSh_name": "system.advancements.tEHjwDGhYgjTRGSh.name",
+    "advancements_tEHjwDGhYgjTRGSh_description": "system.advancements.tEHjwDGhYgjTRGSh.description",
+    "advancements_0JKwdidOtxiffwcH_name": "system.advancements.0JKwdidOtxiffwcH.name",
+    "advancements_0JKwdidOtxiffwcH_description": "system.advancements.0JKwdidOtxiffwcH.description",
+    "advancements_wSyDfYeJ0uIqEW46_name": "system.advancements.wSyDfYeJ0uIqEW46.name",
+    "advancements_wSyDfYeJ0uIqEW46_description": "system.advancements.wSyDfYeJ0uIqEW46.description",
+    "advancements_Wl0sl4YdU5pMBf0z_name": "system.advancements.Wl0sl4YdU5pMBf0z.name",
+    "advancements_Wl0sl4YdU5pMBf0z_description": "system.advancements.Wl0sl4YdU5pMBf0z.description",
+    "advancements_mC9IWGVI31c4SkOL_name": "system.advancements.mC9IWGVI31c4SkOL.name",
+    "advancements_mC9IWGVI31c4SkOL_description": "system.advancements.mC9IWGVI31c4SkOL.description",
+    "advancements_5T4BvFmxVEiwp77W_name": "system.advancements.5T4BvFmxVEiwp77W.name",
+    "advancements_5T4BvFmxVEiwp77W_description": "system.advancements.5T4BvFmxVEiwp77W.description",
+    "advancements_HVKsQpbDrd7GuhJp_name": "system.advancements.HVKsQpbDrd7GuhJp.name",
+    "advancements_HVKsQpbDrd7GuhJp_description": "system.advancements.HVKsQpbDrd7GuhJp.description",
+    "advancements_B5BiDvEzQoAKUHvw_name": "system.advancements.B5BiDvEzQoAKUHvw.name",
+    "advancements_B5BiDvEzQoAKUHvw_description": "system.advancements.B5BiDvEzQoAKUHvw.description",
+    "advancements_VGdYbhiSIetIUeeQ_name": "system.advancements.VGdYbhiSIetIUeeQ.name",
+    "advancements_VGdYbhiSIetIUeeQ_description": "system.advancements.VGdYbhiSIetIUeeQ.description",
+    "advancements_jszhgYCA0kH3nopS_name": "system.advancements.jszhgYCA0kH3nopS.name",
+    "advancements_jszhgYCA0kH3nopS_description": "system.advancements.jszhgYCA0kH3nopS.description",
+    "advancements_pVW4bmS6PKC9XsqP_name": "system.advancements.pVW4bmS6PKC9XsqP.name",
+    "advancements_pVW4bmS6PKC9XsqP_description": "system.advancements.pVW4bmS6PKC9XsqP.description",
+    "advancements_egPaXQdZ4gPRc4q4_name": "system.advancements.egPaXQdZ4gPRc4q4.name",
+    "advancements_egPaXQdZ4gPRc4q4_description": "system.advancements.egPaXQdZ4gPRc4q4.description",
+    "advancements_N5EIjeb3Bde2JKtG_name": "system.advancements.N5EIjeb3Bde2JKtG.name",
+    "advancements_N5EIjeb3Bde2JKtG_description": "system.advancements.N5EIjeb3Bde2JKtG.description",
+    "advancements_nxm4CEs4PyrCuRYI_name": "system.advancements.nxm4CEs4PyrCuRYI.name",
+    "advancements_nxm4CEs4PyrCuRYI_description": "system.advancements.nxm4CEs4PyrCuRYI.description",
+    "advancements_l9PaJJNb8wsO8Gpl_name": "system.advancements.l9PaJJNb8wsO8Gpl.name",
+    "advancements_l9PaJJNb8wsO8Gpl_description": "system.advancements.l9PaJJNb8wsO8Gpl.description",
+    "advancements_hfBfdXuZCefP6e74_name": "system.advancements.hfBfdXuZCefP6e74.name",
+    "advancements_hfBfdXuZCefP6e74_description": "system.advancements.hfBfdXuZCefP6e74.description",
+    "advancements_pa0Hgfjo20fgXkZy_name": "system.advancements.pa0Hgfjo20fgXkZy.name",
+    "advancements_pa0Hgfjo20fgXkZy_description": "system.advancements.pa0Hgfjo20fgXkZy.description",
+    "advancements_rYZm6w0E1601WxI5_name": "system.advancements.rYZm6w0E1601WxI5.name",
+    "advancements_rYZm6w0E1601WxI5_description": "system.advancements.rYZm6w0E1601WxI5.description",
+    "advancements_M49yK88AEnoNVJUi_name": "system.advancements.M49yK88AEnoNVJUi.name",
+    "advancements_M49yK88AEnoNVJUi_description": "system.advancements.M49yK88AEnoNVJUi.description",
+    "advancements_iY8DK5AFbN14aYIY_name": "system.advancements.iY8DK5AFbN14aYIY.name",
+    "advancements_iY8DK5AFbN14aYIY_description": "system.advancements.iY8DK5AFbN14aYIY.description",
+    "advancements_GwVFoOI0sKN2KbdO_name": "system.advancements.GwVFoOI0sKN2KbdO.name",
+    "advancements_GwVFoOI0sKN2KbdO_description": "system.advancements.GwVFoOI0sKN2KbdO.description",
+    "advancements_XtDHNqCcXbifP1pu_name": "system.advancements.XtDHNqCcXbifP1pu.name",
+    "advancements_XtDHNqCcXbifP1pu_description": "system.advancements.XtDHNqCcXbifP1pu.description",
+    "advancements_HVzwmT8i2fyF75AW_name": "system.advancements.HVzwmT8i2fyF75AW.name",
+    "advancements_HVzwmT8i2fyF75AW_description": "system.advancements.HVzwmT8i2fyF75AW.description",
+    "advancements_ao5QN2zG8qBsGZJr_name": "system.advancements.ao5QN2zG8qBsGZJr.name",
+    "advancements_ao5QN2zG8qBsGZJr_description": "system.advancements.ao5QN2zG8qBsGZJr.description",
+    "advancements_mYNZixZKhQKqrYCh_name": "system.advancements.mYNZixZKhQKqrYCh.name",
+    "advancements_mYNZixZKhQKqrYCh_description": "system.advancements.mYNZixZKhQKqrYCh.description",
+    "advancements_uJPyr5ThoTkiVgRh_name": "system.advancements.uJPyr5ThoTkiVgRh.name",
+    "advancements_uJPyr5ThoTkiVgRh_description": "system.advancements.uJPyr5ThoTkiVgRh.description",
+    "advancements_jgbRGGYs0dwlbbo6_name": "system.advancements.jgbRGGYs0dwlbbo6.name",
+    "advancements_jgbRGGYs0dwlbbo6_description": "system.advancements.jgbRGGYs0dwlbbo6.description",
+    "advancements_M0sCxSH1EmFEgbgq_name": "system.advancements.M0sCxSH1EmFEgbgq.name",
+    "advancements_M0sCxSH1EmFEgbgq_description": "system.advancements.M0sCxSH1EmFEgbgq.description",
+    "advancements_OivTe7bRC3hYc8db_name": "system.advancements.OivTe7bRC3hYc8db.name",
+    "advancements_OivTe7bRC3hYc8db_description": "system.advancements.OivTe7bRC3hYc8db.description",
+    "advancements_z9bfJHaWzP3oVcoq_name": "system.advancements.z9bfJHaWzP3oVcoq.name",
+    "advancements_z9bfJHaWzP3oVcoq_description": "system.advancements.z9bfJHaWzP3oVcoq.description",
+    "advancements_jOlCbtUnt7d6rft6_name": "system.advancements.jOlCbtUnt7d6rft6.name",
+    "advancements_jOlCbtUnt7d6rft6_description": "system.advancements.jOlCbtUnt7d6rft6.description",
+    "advancements_zePZopp9csJF7e5F_name": "system.advancements.zePZopp9csJF7e5F.name",
+    "advancements_zePZopp9csJF7e5F_description": "system.advancements.zePZopp9csJF7e5F.description",
+    "advancements_HaAwDgN2tmfgrSEy_name": "system.advancements.HaAwDgN2tmfgrSEy.name",
+    "advancements_HaAwDgN2tmfgrSEy_description": "system.advancements.HaAwDgN2tmfgrSEy.description",
+    "advancements_I3Of5vFcJc2dmJmd_name": "system.advancements.I3Of5vFcJc2dmJmd.name",
+    "advancements_I3Of5vFcJc2dmJmd_description": "system.advancements.I3Of5vFcJc2dmJmd.description",
+    "advancements_BQUPYxKX6bSAwYoI_name": "system.advancements.BQUPYxKX6bSAwYoI.name",
+    "advancements_BQUPYxKX6bSAwYoI_description": "system.advancements.BQUPYxKX6bSAwYoI.description",
+    "advancements_yYFe8XjqnCuq0arQ_name": "system.advancements.yYFe8XjqnCuq0arQ.name",
+    "advancements_yYFe8XjqnCuq0arQ_description": "system.advancements.yYFe8XjqnCuq0arQ.description",
+    "advancements_WVygUyuzVToTgz0b_name": "system.advancements.WVygUyuzVToTgz0b.name",
+    "advancements_WVygUyuzVToTgz0b_description": "system.advancements.WVygUyuzVToTgz0b.description",
+    "advancements_ks8kBCdyjEtBmfjT_name": "system.advancements.ks8kBCdyjEtBmfjT.name",
+    "advancements_ks8kBCdyjEtBmfjT_description": "system.advancements.ks8kBCdyjEtBmfjT.description",
+    "advancements_4JRR64LO3FX3PYJl_name": "system.advancements.4JRR64LO3FX3PYJl.name",
+    "advancements_4JRR64LO3FX3PYJl_description": "system.advancements.4JRR64LO3FX3PYJl.description",
+    "advancements_OvDXYfqUJ9TMgIkd_name": "system.advancements.OvDXYfqUJ9TMgIkd.name",
+    "advancements_OvDXYfqUJ9TMgIkd_description": "system.advancements.OvDXYfqUJ9TMgIkd.description",
+    "advancements_9irT21rReWy51aje_name": "system.advancements.9irT21rReWy51aje.name",
+    "advancements_9irT21rReWy51aje_description": "system.advancements.9irT21rReWy51aje.description",
+    "advancements_V8CodbJBID0xVDtR_name": "system.advancements.V8CodbJBID0xVDtR.name",
+    "advancements_V8CodbJBID0xVDtR_description": "system.advancements.V8CodbJBID0xVDtR.description",
+    "advancements_oViST8ZDfKp0UKfc_name": "system.advancements.oViST8ZDfKp0UKfc.name",
+    "advancements_oViST8ZDfKp0UKfc_description": "system.advancements.oViST8ZDfKp0UKfc.description",
+    "advancements_69AHOn85TSUwc2JK_name": "system.advancements.69AHOn85TSUwc2JK.name",
+    "advancements_69AHOn85TSUwc2JK_description": "system.advancements.69AHOn85TSUwc2JK.description",
+    "advancements_2l0eIkltgaCcuYoC_name": "system.advancements.2l0eIkltgaCcuYoC.name",
+    "advancements_2l0eIkltgaCcuYoC_description": "system.advancements.2l0eIkltgaCcuYoC.description",
+    "advancements_vcoZK9Y2snBVct3Q_name": "system.advancements.vcoZK9Y2snBVct3Q.name",
+    "advancements_vcoZK9Y2snBVct3Q_description": "system.advancements.vcoZK9Y2snBVct3Q.description",
+    "advancements_DaPOw7r54v3gwi66_name": "system.advancements.DaPOw7r54v3gwi66.name",
+    "advancements_DaPOw7r54v3gwi66_description": "system.advancements.DaPOw7r54v3gwi66.description",
+    "advancements_I6WJLsH6socimoNY_name": "system.advancements.I6WJLsH6socimoNY.name",
+    "advancements_I6WJLsH6socimoNY_description": "system.advancements.I6WJLsH6socimoNY.description",
+    "advancements_NytOBOONMRE7ata0_name": "system.advancements.NytOBOONMRE7ata0.name",
+    "advancements_NytOBOONMRE7ata0_description": "system.advancements.NytOBOONMRE7ata0.description",
+    "advancements_Hteuncn7X1VpYDHk_name": "system.advancements.Hteuncn7X1VpYDHk.name",
+    "advancements_Hteuncn7X1VpYDHk_description": "system.advancements.Hteuncn7X1VpYDHk.description",
+    "advancements_p95yKfG4JUxDhVGU_name": "system.advancements.p95yKfG4JUxDhVGU.name",
+    "advancements_p95yKfG4JUxDhVGU_description": "system.advancements.p95yKfG4JUxDhVGU.description"
+  },
+  "folders": {
+    "3kt2CaD1XI5F5tws": "3kt2CaD1XI5F5tws",
+    "5ZNEzHj1srMQquH7": "5ZNEzHj1srMQquH7",
+    "8LShXtGwfnJ9YFAr": "8LShXtGwfnJ9YFAr",
+    "DKux4Xs4d5pHOeOQ": "DKux4Xs4d5pHOeOQ",
+    "DNgMG9rHu4ULguZr": "DNgMG9rHu4ULguZr",
+    "Dc3tgD6gCZDA5Ysd": "Dc3tgD6gCZDA5Ysd",
+    "Dxv0cMH5TvEgasZs": "Dxv0cMH5TvEgasZs",
+    "EbgLs9psWZ7DAzwb": "EbgLs9psWZ7DAzwb",
+    "FACFQjxnOrP1RX5o": "FACFQjxnOrP1RX5o",
+    "ISKOwnr7EpJ2YXDj": "ISKOwnr7EpJ2YXDj",
+    "JNMjz4DXxc07vswK": "JNMjz4DXxc07vswK",
+    "NF6h82vVHB3ZRWlF": "NF6h82vVHB3ZRWlF",
+    "RSkrwlIXmLNmD4MB": "RSkrwlIXmLNmD4MB",
+    "SNTVv8Z0uNTC8Wab": "SNTVv8Z0uNTC8Wab",
+    "YvziC9ysJqSFn1bb": "YvziC9ysJqSFn1bb",
+    "ZvuKltIHpPATpmQR": "ZvuKltIHpPATpmQR",
+    "bjdoFvLNiQYWPdg6": "bjdoFvLNiQYWPdg6",
+    "cRmntDE2VNDzurg2": "cRmntDE2VNDzurg2",
+    "dMTmeM8PrGfzX0Ur": "dMTmeM8PrGfzX0Ur",
+    "eTVTaGVRRrrni84u": "eTVTaGVRRrrni84u",
+    "hLn2WWmB4ypun9vP": "hLn2WWmB4ypun9vP",
+    "hUUwe14tKIf2bxBR": "hUUwe14tKIf2bxBR",
+    "jAT3sb3QtWQpc3iw": "jAT3sb3QtWQpc3iw",
+    "mPd18e6CWviYjr5A": "mPd18e6CWviYjr5A",
+    "nD7JFE93WSpXnadB": "nD7JFE93WSpXnadB",
+    "p3VxrQSz1mLJMRai": "p3VxrQSz1mLJMRai",
+    "skdKDpY7Jj1LKCz0": "skdKDpY7Jj1LKCz0",
+    "uEsiG5V8mKGCQDE4": "uEsiG5V8mKGCQDE4",
+    "uWYEH9fs5ogusKkP": "uWYEH9fs5ogusKkP",
+    "vI2lXvZhkhwHKLrz": "vI2lXvZhkhwHKLrz",
+    "x6Rfwwat4WIPoUjY": "x6Rfwwat4WIPoUjY",
+    "xaqg4nGWtsBeDMRG": "xaqg4nGWtsBeDMRG",
+    "yqtQM6iNMHT1AuCX": "yqtQM6iNMHT1AuCX"
+  },
+  "entries": {
+    "Nonstop": {
+      "name": "永不停歇",
+      "description": "<p>你的血火为你持续提供肾上腺素激增。你无法被施加缓慢状态。</p>"
+    },
+    "Polder Culture": {
+      "name": "圩田文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_kCB7HSiCX3uTo54n_name": "城市",
+      "advancements_kCB7HSiCX3uTo54n_description": "",
+      "advancements_LxbYhZRedNxowEUk_name": "公共",
+      "advancements_LxbYhZRedNxowEUk_description": "",
+      "advancements_4bIW72a9bbl9FAdv_name": "创造",
+      "advancements_4bIW72a9bbl9FAdv_description": ""
+    },
+    "Detect the Supernatural": {
+      "name": "侦测超自然",
+      "description": "",
+      "advancements_cgbEGZUgMjN0genG_name": "",
+      "advancements_cgbEGZUgMjN0genG_description": ""
+    },
+    "Dragon knight Culture": {
+      "name": "龙骑士文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_HLtPzzJg6eLzUIyK_name": "隐遁",
+      "advancements_HLtPzzJg6eLzUIyK_description": "",
+      "advancements_PCLiTgPjG4l6hRmp_name": "官僚",
+      "advancements_PCLiTgPjG4l6hRmp_description": "",
+      "advancements_93nNH4J2VKFHiPsZ_name": "武僧",
+      "advancements_93nNH4J2VKFHiPsZ_description": ""
+    },
+    "Merchant caravan": {
+      "name": "商队",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_7GRWkG9xsbeaXbVE_name": "游牧者",
+      "advancements_7GRWkG9xsbeaXbVE_description": "",
+      "advancements_6p2D0CoaC9XC7933_name": "官僚",
+      "advancements_6p2D0CoaC9XC7933_description": "",
+      "advancements_iGwmGFuXqr0s66ld_name": "创造",
+      "advancements_iGwmGFuXqr0s66ld_description": ""
+    },
+    "Hellsight": {
+      "name": "地狱视界",
+      "description": "<p>你的双眼能让你看透黑暗、迷雾及其他遮蔽效果。你对具有隐蔽效果的生物发起的攻击不会承受减益。</p>"
+    },
+    "Revenant": {
+      "name": "亡魂",
+      "description": "<p>亡者行走于我们之间。其中一些对此比另一些更为欣然。</p><p>与制造尸妖、怨灵和僵尸的死灵仪式不同，还魂者因不公的死亡与炽烈的复仇欲望结合而从坟墓中崛起。这些纯粹依靠意志维持的生物，无需食物、饮水或空气——并且，与它们那些僵尸化的同类不同，它们保留了生前所有的记忆和人格。</p><p>这些还魂者十分罕见。许多会被无知的村民猎杀，他们只看到其死去的躯壳便往最坏处设想。那些从草叉队手下幸存下来的还魂者，要么选择孤独的生活，通常是作为一个游荡的灵魂，既渴望活人的陪伴又时刻对其感到恐惧；要么迁移到诸如黑渊城或首都这样的大都市，在那里迷失的灵魂们聚集起来建立家园。</p><h4>还魂者特质</h4><p>还魂者英雄拥有以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.xXl9h7qyi4z91jYO]{前世之忆}</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.S2OsBBFHqBoHZYUu]{坚韧但枯朽}</p><h4>可购买的还魂者特质</h4><p>你有2点先祖点数可用于购买以下特质。（快速构建：选择无血之躯，若体型为1S则额外选择亡灵影响。）</p><p>@UUID[Compendium.draw-steel.origins.Item.77tLSEIDpNRpkwnn]{无血之躯（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.LhqV95QNJKZ4ItIU]{前世之忆：1点（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.M8hcInvmTs5DG902]{前世之忆：2点（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.UWNCLuMl8DljBsrN]{亡灵影响（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.4rkruRy4WbjyM7Vx]{复仇印记（2点）}</p>",
+      "advancements_6QeV1AgB4VaBXFC9_name": "标志性特质",
+      "advancements_6QeV1AgB4VaBXFC9_description": "",
+      "advancements_wjCnH9cOfQON5aTl_name": "已购特质",
+      "advancements_wjCnH9cOfQON5aTl_description": "<p>你拥有2点先祖点数可用于以下特质，若你的体型为1S则为3点。（快速构建：无血者，若体型为1S则额外选择亡灵影响。）</p>"
+    },
+    "Foresight": {
+      "name": "先见之明",
+      "description": "<p>你的感知超越了凡俗的遮蔽与未来的帷幕。你自动知晓20尺内任何具有隐蔽效果且未对你隐藏的生物的位置，并且你抵消了对这类生物进行打击时通常承受的减益。此外，每当你成为打击的目标时，你可以使用一个触发动作来对此次力量骰施加减益。</p>"
+    },
+    "Telepathic hive": {
+      "name": "心灵蜂巢",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_uju3YcX0p8Uj12Eh_name": "隐遁",
+      "advancements_uju3YcX0p8Uj12Eh_description": "",
+      "advancements_KwlyNheQxpSDxePy_name": "公共",
+      "advancements_KwlyNheQxpSDxePy_description": "",
+      "advancements_uJKfnB86azE5PXUH_name": "创造",
+      "advancements_uJKfnB86azE5PXUH_description": ""
+    },
+    "Revisit Memory": {
+      "name": "追忆",
+      "description": "<p>对你而言，回忆往事如同活在当下一般轻松。你在进行学识回忆检定时获得优势。</p>"
+    },
+    "Psychic Scar": {
+      "name": "心灵创伤",
+      "description": "<p>你的心智是一道强大的防御屏障。你拥有等同于你等级的心灵免疫。</p>"
+    },
+    "Four-Armed Athletics": {
+      "name": "四臂运动",
+      "description": "<p>你独特的生理构造增强了你的移动能力。当你能够在尝试中使用所有手臂时，你在使用攀爬、体操或游泳技能进行的检定中获得优势。</p>"
+    },
+    "Vengeance Mark": {
+      "name": "复仇印记",
+      "description": "<p>作为一项战技，你在一个10格范围内的生物身上放置一个魔法印记。当你放置印记时，你可以决定它出现在生物身体的哪个部位，以及该印记是仅对你可见还是对所有生物可见。</p><p>你总能感知到携带你印记且位于同一世界的生物的确切方位。你最多可以同时激活等同于你等级的印记数量，并且可以随意移除生物身上的印记（无需动作）。若你已激活了最大数量的印记并放置新的印记，则你最旧的印记会消失且无其他效果。</p><p>此外，你拥有以下标志性能力。标志性能力可随意使用。</p><p>@UUID[Compendium.draw-steel.origins.Item.ZIT7GAWbRXISR5Al]{引爆印记}</p>",
+      "advancements_UQjCQ1jQa3hRRsvL_name": "",
+      "advancements_UQjCQ1jQa3hRRsvL_description": ""
+    },
+    "Draconian Pride": {
+      "name": "龙族骄傲",
+      "description": "",
+      "advancements_laRRhOT6C197WeEc_name": "",
+      "advancements_laRRhOT6C197WeEc_description": ""
+    },
+    "Orc Culture": {
+      "name": "兽人文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_E6YP3moczIW8MjUT_name": "荒野",
+      "advancements_E6YP3moczIW8MjUT_description": "",
+      "advancements_TFxadIDx5JsYZ1Qe_name": "公共",
+      "advancements_TFxadIDx5JsYZ1Qe_description": "",
+      "advancements_UQDNzX9Xkx0Ae7iu_name": "创造",
+      "advancements_UQDNzX9Xkx0Ae7iu_description": ""
+    },
+    "Perseverance": {
+      "name": "坚韧",
+      "description": "<p>放弃是别人的事。你在使用耐力技能进行的检定中获得优势。此外，当你被减速时，你的速度降至3而非2。</p>"
+    },
+    "Remember Your Oath": {
+      "name": "铭记你的誓言",
+      "description": "",
+      "advancements_M49yK88AEnoNVJUi_name": "",
+      "advancements_M49yK88AEnoNVJUi_description": ""
+    },
+    "Unstoppable Mind": {
+      "name": "不可阻挡之心",
+      "description": "<p>你的心智使你能在任何情况下保持专注。你无法被震慑。</p>"
+    },
+    "Bloodless": {
+      "name": "无血者",
+      "description": "<p>对你而言，开放性伤口与擦伤并无区别。即使濒临死亡，你也不会陷入流血状态。</p>"
+    },
+    "Hakaan": {
+      "name": "哈坎",
+      "description": "<p>尽管哈坎人天性友善开朗，但他们在人类社会中的罕见出现仍被视为一种预兆。一个黑暗时代的凶兆。</p><p>哈坎人的先祖源自瓦尼加尔上层的巨人部落，最初的哈坎部落与瓦尼加尔的诡计之神霍尔卡提亚做了一笔交易。他们用部分巨人体型和力量换取了预见未来的能力。</p><p>但霍尔卡提亚背叛了他们，哈坎人被允许预见的唯一未来，就是自身死亡的时刻与方式。这些幻视从来不是平凡的悲剧。没有哈坎人会预见自己因葡萄窒息而死。这种\"末日视界\"总是意义重大，总是充满戏剧性。</p><p>末日视界可能在任何时刻发生。并非所有甚至大多数哈坎人都会经历，但当它降临时，忽视它被视为一种极度的傲慢。试图逃避末日视界意味着痛苦悲惨的死亡，并会让你的家族蒙羞受辱。</p><p>但普通人遇到的哈坎人，往往都是正在践行其宿命者。人类的迷信——认为一个或多个哈坎人出现在人类领地，是世界重大力量运作、时代更迭的征兆——字面意义上就是真实的。在黑暗时代，许多哈坎人会经历末日视界，离开族群踏入凡俗世界，追寻他们的命运。</p><p>瓦尼加尔的人类对这种个人命运的概念有自己的称呼：\"命途\"。传统的哈坎人有时将末日视界称为\"命途之知\"。</p><h4>哈坎种族特质</h4><p>哈坎英雄拥有以下特质。</p><p>标志性特质：@UUID[Compendium.draw-steel.origins.Item.Z029RWPeRo8KBXQd]{体型魁梧！}</p><h4>可选购的哈坎特质</h4><p>你有3点种族点数可用于购买以下特质。（快速构建推荐：末日视界、气势逼人。）</p><p>@UUID[Compendium.draw-steel.origins.Item.YvDr83SFMo5VmWJo]{举重若轻（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.J8VkGc9ikZNDfJb5]{末日视界（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.gaIIzsI313sAC206]{气势逼人（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.9zkEBdYr8jr9nsvj]{强健体魄（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.z43Eha9RiPkD9peB]{屹立不倒（1点）}</p>",
+      "advancements_yy3YUcR3hURUZxut_name": "标志性特质",
+      "advancements_yy3YUcR3hURUZxut_description": "",
+      "advancements_pIY2kFm7st4LiPpf_name": "已购特质",
+      "advancements_pIY2kFm7st4LiPpf_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em> 厄运视界，强力。）</p>"
+    },
+    "Runic Carving": {
+      "name": "符文雕刻",
+      "description": "<p>你可以花费10分钟不间断的工作时间，在皮肤上刻下一个符文，该符文由你体内的魔法激活。你刻下的符文决定了你获得的增益，可从以下选项中选择：</p><p><strong>侦测</strong>：选择一个特定类型的生物（例如地精或人类）或物体（例如宝石或药水）。当你位于任何该类型生物或物体20格范围内时，即使你与该生物或物体之间没有效果线，你的符文也会发出柔和的光芒。你可以通过一个战技动作来改变生物或物体的类型。</p><p><strong>光亮</strong>：你的皮肤会散发出照亮10格范围的光亮。你可以通过一个战技动作来开启或关闭此光亮。</p><p><strong>传音</strong>：作为一个战技动作，你可以与你曾见过、且位于你1英里范围内、自愿的生物进行心灵感应交流。你必须知道该生物的名字，并且他们必须会说并理解一门你所知的语言。你和该生物可以像进行口头对话一样相互回应。你可以通过改变符文来与不同的生物交流。</p><p>你一次只能激活一个符文，并且可以通过10分钟不间断的工作来更改或移除符文。</p>"
+    },
+    "Devil Culture": {
+      "name": "恶魔文化",
+      "description": "",
+      "advancements_68txRgawYVc98lcY_name": "语言",
+      "advancements_68txRgawYVc98lcY_description": "",
+      "advancements_3ePHqlbaaZpxGvKk_name": "都市",
+      "advancements_3ePHqlbaaZpxGvKk_description": "",
+      "advancements_ntysmrEIQ8Yky6AD_name": "官僚",
+      "advancements_ntysmrEIQ8Yky6AD_description": "",
+      "advancements_ccY6542d4OHpNEcy_name": "学者",
+      "advancements_ccY6542d4OHpNEcy_description": ""
+    },
+    "Politician": {
+      "name": "政治家",
+      "description": "<p>你曾在一个正式的官僚机构或政府中担任领导职务。你的职位可能是被任命、世袭或选举产生的，但让他人达成共识、为你所服务（或服务于你）的民众做出决策是你的职责。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你负责统治或代表的是哪些人？</p></li><li><p>你的正式头衔是什么？你是如何获得它的？</p></li><li><p>你最大的政治对手是谁？</p></li><li><p>你知道什么足以撕裂你所处整个体系的秘密？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 从人际技能组中选择两项技能（快速构建：领导，说谎。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>声望：</strong> +1</p><p><strong>财富：</strong> +1</p><p><strong>特长：</strong> 一项人际特长（快速构建：引人入胜的独白。）</p><h5>触发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.qyooMmsQljFvGpCE]{政客 - 触发事件}</p>",
+      "advancements_b7CvBwtvYZtoQvBq_name": "两项技能（人际交往）",
+      "advancements_b7CvBwtvYZtoQvBq_description": "",
+      "advancements_64ar1vJ1ujaYvmVA_name": "",
+      "advancements_64ar1vJ1ujaYvmVA_description": "",
+      "advancements_7UFOc1UUzdwGiru7_name": "专长",
+      "advancements_7UFOc1UUzdwGiru7_description": "<p>一项人际专长（<em>快速构建：</em>引人入胜的独白。）</p>"
+    },
+    "Great Fortitude": {
+      "name": "强韧",
+      "description": "<p>你强健的体魄使你免于力量流失。你无法被施加虚弱状态。</p>"
+    },
+    "Relentless": {
+      "name": "无情追击",
+      "description": "<p>每当一个生物对你造成伤害并使你陷入濒死状态时，你可以对任意生物进行一次自由打击。若该生物因你的打击而耐力降至0点，你可以消耗一次恢复。</p>"
+    },
+    "Knightly order": {
+      "name": "骑士团",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_89sKbGWG7LqWk7qF_name": "隐遁",
+      "advancements_89sKbGWG7LqWk7qF_description": "",
+      "advancements_ZzkRKTIP2wdXjFG0_name": "官僚",
+      "advancements_ZzkRKTIP2wdXjFG0_description": "",
+      "advancements_JEeXIxxLKJHuqDcw_name": "武僧",
+      "advancements_JEeXIxxLKJHuqDcw_description": ""
+    },
+    "Memonek Culture": {
+      "name": "梅莫内克文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_BUztdrJwTOFszJSG_name": "游牧者",
+      "advancements_BUztdrJwTOFszJSG_description": "",
+      "advancements_l5rTbLwEPbtqSvn8_name": "公共",
+      "advancements_l5rTbLwEPbtqSvn8_description": "",
+      "advancements_lhkDf5C9HFSarlkU_name": "学者",
+      "advancements_lhkDf5C9HFSarlkU_description": ""
+    },
+    "Silver Tongue": {
+      "name": "巧舌如簧",
+      "description": "<p>你与生俱来的魔法让你能够扭曲他人对你话语的感知，从而更好地解读他人并说服他们以你的方式看待事物。你可以从人际技能组中选择一项技能（见第9章：检定中的技能），并且在谈判中尝试发现NPC的动机与弱点时，你的检定获得优势（见第11章：谈判）。</p>",
+      "advancements_phloB0LxDAmAb2Ri_name": "",
+      "advancements_phloB0LxDAmAb2Ri_description": ""
+    },
+    "Fall Lightly": {
+      "name": "轻羽落",
+      "description": "<p>你的硅胶身躯密度较低。每当你坠落时，坠落距离会减少2格。</p>"
+    },
+    "Laborer neighborhood": {
+      "name": "劳工社区",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_r3jsrPXWNei3CulI_name": "城市",
+      "advancements_r3jsrPXWNei3CulI_description": "",
+      "advancements_5AWWiSG7Rhq8g3Gg_name": "公共",
+      "advancements_5AWWiSG7Rhq8g3Gg_description": "",
+      "advancements_vqHyAh9dBSu0Mzdx_name": "劳工",
+      "advancements_vqHyAh9dBSu0Mzdx_description": ""
+    },
+    "Shadowmeld": {
+      "name": "影遁",
+      "description": "<p>你拥有以下能力。</p><p>@UUID[Compendium.draw-steel.origins.Item.dm2hlPBUmlnN3Fxd]{影遁}</p>",
+      "advancements_u2SLUMKmi4NIzvkP_name": "",
+      "advancements_u2SLUMKmi4NIzvkP_description": ""
+    },
+    "Artisan": {
+      "name": "工匠",
+      "description": "<p>你曾制造并出售实用器具。在定义你的职业背景时，请思考以下问题：</p><ul><li><p>你曾创造什么？</p></li><li><p>谁传授了你这门手艺？</p></li><li><p>是否有令你闻名遐迩的特定作品？</p></li><li><p>你拥有自己的店铺，还是游走四方贩卖货物？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong>从制造技能组中选择两项技能（快速构建推荐：锻造、木工。）</p><p><strong>语言：</strong>一种语言</p><p><strong>项目点数：</strong>240</p><p><strong>专长：</strong>一项制造类专长（快速构建推荐：专精领域。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.YYfVOMgnyGfCz7o2]{工匠 - 导火索事件}</p>",
+      "advancements_annsjW0DjUbBkiKl_name": "2个技能（制造）",
+      "advancements_annsjW0DjUbBkiKl_description": "",
+      "advancements_hhXPoh9CBhaWqzfj_name": "",
+      "advancements_hhXPoh9CBhaWqzfj_description": "",
+      "advancements_nS8bobDV2p1szqhy_name": "专长",
+      "advancements_nS8bobDV2p1szqhy_description": "<p>一项制作专长（<em>快速建造：</em> 专精领域。）</p>"
+    },
+    "Travelling entertainers": {
+      "name": "旅行艺人",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_yKdh8pJxZaKdQCfh_name": "游牧者",
+      "advancements_yKdh8pJxZaKdQCfh_description": "",
+      "advancements_daUqA5qvy1CScxgy_name": "公共",
+      "advancements_daUqA5qvy1CScxgy_description": "",
+      "advancements_JBVmu8Uhn68bqp4l_name": "创造",
+      "advancements_JBVmu8Uhn68bqp4l_description": ""
+    },
+    "Polder Geist": {
+      "name": "圩田幽灵",
+      "description": "<p>避开他人的注意能让你自由移动。在战斗中你的每个回合开始时，若没有敌人对你具有效果线，或你对任何具有效果线的敌人处于隐蔽状态或拥有掩蔽，则你的速度获得+3加值，持续到你的回合结束。</p>"
+    },
+    "Otherwordly Grace": {
+      "name": "异界恩典",
+      "description": "<p>你的精灵之躯与心智难以被长久束缚。每当你进行豁免检定时，掷出5或更高的点数即视为成功。</p>"
+    },
+    "Concussive Slam": {
+      "name": "震荡猛击",
+      "description": ""
+    },
+    "Resist the Unnatural": {
+      "name": "抵抗非自然",
+      "description": "<p>你本能的韧性保护你免受超出常规的伤害。每当你受到非无类型的伤害时，你可以使用一个触发动作来承受一半伤害。</p>"
+    },
+    "Pirate crew": {
+      "name": "海盗团",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_ybgGD0NElVjcOuyk_name": "游牧者",
+      "advancements_ybgGD0NElVjcOuyk_description": "",
+      "advancements_NLVGCJYz4YhdBuNz_name": "公共",
+      "advancements_NLVGCJYz4YhdBuNz_description": "",
+      "advancements_YnnDBTjyv2TjK8gI_name": "不法之徒",
+      "advancements_YnnDBTjyv2TjK8gI_description": ""
+    },
+    "Beyondsight": {
+      "name": "超越视野",
+      "description": "",
+      "advancements_wIDFLAsR45xf49om_name": "",
+      "advancements_wIDFLAsR45xf49om_description": ""
+    },
+    "Passionate Artisan": {
+      "name": "热忱工匠",
+      "description": "<p>当你被创造的激情所激励时，你的血火能让你工作得更久更努力。当你从职业、文化、阶级或其他来源获得初始技能时，从工艺技能组中选择两项技能，无论你是否已拥有这些技能。每当你为使用这些技能的工艺项目进行项目检定时，该检定获得+2加值。</p>"
+    },
+    "Quick and Brutal": {
+      "name": "迅捷残暴",
+      "description": "<p>每当你造成重击时，你可以获得一个额外的主要动作和一个额外的移动动作，而不仅仅是一个主要动作。</p>"
+    },
+    "Barbed Tail": {
+      "name": "倒刺之尾",
+      "description": "<p>你尖尖的尾巴让你能为所有行动画上句点。每轮一次，当你进行近战打击时，你可以额外造成等同于[[/damage max(@M,@A,@R,@I,@P)]]{你最高属性值}的伤害。</p>"
+    },
+    "Agent": {
+      "name": "特工",
+      "description": "<p>你曾为某个政府或组织担任间谍工作。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你曾为谁效力？</p></li><li><p>你曾监视谁？</p></li><li><p>谁本不该知道你的真实身份与效忠对象，但却知晓了？</p></li><li><p>为了完成任务，你曾牺牲或抛弃了谁？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong>谋略技能组中的潜行技能，外加人际技能组中的一项技能以及谋略技能组中的另一项技能（快速构建推荐：伪装、说谎、潜行。）</p><p><strong>语言：</strong>两种语言</p><p><strong>专长：</strong>一项谋略专长（快速构建推荐：过目即忘。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.gJQM1MIN4KsGUXuh]{特工 - 导火索事件}</p>",
+      "advancements_baedeDOYe6K3ZQa9_name": "",
+      "advancements_baedeDOYe6K3ZQa9_description": "",
+      "advancements_MaEsyqUb2QzTHZqt_name": "专长",
+      "advancements_MaEsyqUb2QzTHZqt_description": "<p>一项密谋专长（<em>快速构建：</em> 平凡面孔。）</p>",
+      "advancements_PD9JCwqcjmHCBXDV_name": "潜行",
+      "advancements_PD9JCwqcjmHCBXDV_description": "",
+      "advancements_VXBbKE86rRb6HggJ_name": "社交技能",
+      "advancements_VXBbKE86rRb6HggJ_description": "",
+      "advancements_5ltfATFcWOf5dJm8_name": "密谋技能",
+      "advancements_5ltfATFcWOf5dJm8_description": ""
+    },
+    "Beast Legs": {
+      "name": "野兽腿",
+      "description": "<p>你强健的双腿让你更加迅捷。你的速度为6。</p>"
+    },
+    "Wode Elf Glamor": {
+      "name": "沃德精灵幻化",
+      "description": "<p>你可以通过魔法改变外貌，以更好地融入周围环境。你在躲藏和潜行检定上获得优势，而当你处于躲藏状态时，他人为搜寻你所进行的检定将承受劣势。</p>"
+    },
+    "Wings": {
+      "name": "翅膀",
+      "description": "<p>你拥有足以让你升空的强健翅膀。当你使用翅膀飞行时，你可以在空中停留等同于你力量值[[@M]]的轮数（至少1轮），之后便会坠落。当你在3级或更低等级使用翅膀飞行时，你具有伤害弱点5。</p>"
+    },
+    "Doomsight": {
+      "name": "末日视野",
+      "description": "<p>与你的导演合作，你可以预先设定一场自己将死亡的遭遇。当该遭遇开始时，你变为\"命定将死\"状态。处于命定将死状态时，你在检定和能力骰上自动获得第3级结果，且无论你的耐力值降至多低都不会死亡。随后，你将在遭遇结束时立即死亡，且无法以任何方式复活。</p><p>若你未预先设定死亡遭遇，在导演同意下，你可以在濒死时选择进入命定将死状态（无需动作）。此举应仅用于因恰当的英雄行为（例如与首领决一死战或拯救平民）而濒死的遭遇，或是当你行为的后果最终追上你之时——而不是因为你正在玩一次性模组且无所顾忌，哈卡尔。</p><p>此外，当你的耐力值降至负的\"喘息值\"且未处于命定将死状态时，你将化为碎石而非经历死亡。此状态下你无法感知周围环境，且不能恢复耐力值或以任何方式解除此效果。12小时后，你恢复等于[[/heal @recoveries.recoveryValue]]{恢复值}的耐力值。</p>"
+    },
+    "Monastic order": {
+      "name": "修道会",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_NgAXaZ3RLVxtlQ0R_name": "隐遁",
+      "advancements_NgAXaZ3RLVxtlQ0R_description": "",
+      "advancements_RuRRdUi8BJMGFRyV_name": "官僚",
+      "advancements_RuRRdUi8BJMGFRyV_description": "",
+      "advancements_NtEGlqGoqCegfjYx_name": "学者",
+      "advancements_NtEGlqGoqCegfjYx_description": ""
+    },
+    "Dwarf Culture": {
+      "name": "矮人文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_z6PLxaTVi9eTf7oK_name": "隐遁",
+      "advancements_z6PLxaTVi9eTf7oK_description": "",
+      "advancements_b20JGDHDsKPK6PmI_name": "官僚",
+      "advancements_b20JGDHDsKPK6PmI_description": "",
+      "advancements_Ry1yAVOoKwieHclx_name": "创造",
+      "advancements_Ry1yAVOoKwieHclx_description": ""
+    },
+    "Wyrmplate": {
+      "name": "龙鳞板",
+      "description": "<p>你坚硬的鳞片使你获得等同于你等级的伤害免疫，可从以下伤害类型中选择一种：强酸、冷冻、腐化、火焰、闪电或毒素。当你完成一次休整后，可以更改你的伤害免疫类型。</p>"
+    },
+    "Stand Tough": {
+      "name": "屹立不倒",
+      "description": "<p>你的身躯天生就能承受敌人的打击。在抵抗效能时，你的力量属性被视为提高1点，并且在抵抗环境效果或生物特性及能力所需的力量检定中获得优势。</p>"
+    },
+    "Previous Life: 1 Point": {
+      "name": "前世：1点",
+      "description": "<p>你从先前血统中选择一个已购买、消耗1点血统点的特质。你可以多次选择此特质，每次从先前血统中选取一个不同的1点特质。</p>"
+    },
+    "Dragon Breath": {
+      "name": "龙息",
+      "description": "<p>你拥有以下标志性能力。</p><p>@UUID[Compendium.draw-steel.origins.Item.RYZRvQHgfHFaZXCT]{龙息}</p>",
+      "advancements_bTtak9ddRCD86cNQ_name": "",
+      "advancements_bTtak9ddRCD86cNQ_description": ""
+    },
+    "Previous Life: 2 Points": {
+      "name": "前世：2点",
+      "description": "<p>你从先前种族中选择一个已购买的、消耗2点种族特性的特质。</p>"
+    },
+    "Mage's Apprentice": {
+      "name": "法师学徒",
+      "description": "<p>多年来，你在一名经验更丰富的法师指导下研习魔法。在界定你的职业背景时，请思考以下问题：</p><ul><li><p>你师从何人？他们是怎样的存在？</p></li><li><p>你的导师擅长哪些领域？</p></li><li><p>你在魔法的哪些方面难以领悟？</p></li><li><p>你目前与导师的关系如何？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong>魔法技能（来自学识技能组），以及学识组中另外两项技能（快速构建推荐：魔法、怪物、时空学识。）</p><p><strong>语言：</strong>一门语言</p><p><strong>声望：</strong>+1</p><p><strong>专长：</strong>一项超自然专长（快速构建推荐：奥术诡计。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.XhgNEoEekQhI4pJZ]{法师学徒 - 导火索事件}</p>",
+      "advancements_Pr017E5pXhMwnknC_name": "技能（魔法）",
+      "advancements_Pr017E5pXhMwnknC_description": "",
+      "advancements_JEfMdLeO8HHgv8hL_name": "2项技能（学识）",
+      "advancements_JEfMdLeO8HHgv8hL_description": "",
+      "advancements_erM2WJMkzTuGpiKF_name": "",
+      "advancements_erM2WJMkzTuGpiKF_description": "",
+      "advancements_nuMXjpqMu11xyn9d_name": "专长",
+      "advancements_nuMXjpqMu11xyn9d_description": "<p>一项超自然特性（<em>快速构建：</em>诡术师。）</p>"
+    },
+    "Dragon Knight": {
+      "name": "龙骑士",
+      "description": "<p>赋予创造一代龙骑士——亦被称为龙裔或龙骸——力量的龙源仪式极为晦涩，即使对于经验丰富的术士来说也极难掌握。凯姆哈拉、希加拉和库尔希尔地区稀少的龙裔人口便是明证。他们是数千年前由强大巫师创造的最初几代龙裔的后裔，其数量从未繁盛。一窝典型的龙蛋通常仅能孵出一枚。仅仅几代之后，这些龙裔便开始显现出新的适应性特征，例如羽毛或褶边脊突。</p><p>现存最大的龙裔群体是瓦洛里亚龙翼方阵的残余。由贤王奥蒙德的巫师维塔埃所创造，龙翼方阵曾一度拥有数千名国王麾下最杰出的骑士，确保了律法在整个国土上的施行。</p><p>骑士身份是那一代龙骑士中每一位成员都拥有的头衔。龙翼方阵之中有影卫、监察官、战术家与元素使。组成方阵的八个龙翼中，几乎可以找到所有英雄职业的成员。三十多年来，这些英雄是正义的象征，保护弱者免受强者欺凌，屹立于平民与那些企图凌驾于他人之上的势力之间。在那个时代、那片土地上成长起来的人们，无法想象除此之外的生活方式。</p><p>然后，阿贾克斯来了。</p><h4>龙骑士特质</h4><p>龙骑士英雄拥有以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.LBaGlsH1lqNVbcC5]{龙鳞板甲}</p><h4>可选购的龙骑士特质</h4><p>你有3点先祖点数可用于购买以下特质。（快速构建推荐：龙息，棱彩鳞甲。）</p><p>@UUID[Compendium.draw-steel.origins.Item.Vv642vcbeEXyvPyW]{龙裔守卫（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.HVeZcjU4yRPJVk73]{龙裔荣耀（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.M1NjI2MMsGBvYnYU]{龙息（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.iyieHhQ8wAB5godW]{棱彩鳞甲（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.mmO1ZfnKdcrWr2KF]{铭记誓言（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.nJVGFNiDbEuGv2ef]{龙翼（2点）}</p>",
+      "advancements_0HRmARort6cvuDx1_name": "标志性特质",
+      "advancements_0HRmARort6cvuDx1_description": "",
+      "advancements_xyLbkBtmdUNTeZEo_name": "已购特质",
+      "advancements_xyLbkBtmdUNTeZEo_description": "<p>你有3点血统点数可用于以下特质。（<em>快速构建：</em>龙息，棱光鳞片。）</p>"
+    },
+    "Unphased": {
+      "name": "无相",
+      "description": "<p>你井然有序的思维不会措手不及。你无法被突袭。</p>"
+    },
+    "Memonek": {
+      "name": "梅莫内克",
+      "description": "<p>公理位面——绝对法则之境的土著居民，记忆体栖息在一片拥有湖泊、树木、飞鸟与鲜花的土地上。但在这个异界，湖泊是水银的海洋，飞鸟闪耀着薄如蝉翼的玻璃翅膀，而花瓣则是虹彩金属，其柔韧与脆弱不亚于任何尘世玫瑰。</p><p>记忆体的思维高度有序。理性是他们的巨大骄傲。但当降临到下位面，包括像奥登这样律法与混沌交织的多元世界时，一种病症会侵袭他们——那是一种名为情感的不可控感受。</p><h4>记忆体特性</h4><p>记忆体英雄可使用以下特性。</p><p>标志特性：@UUID[Compendium.draw-steel.origins.Item.CtMlN4oLTmq7t9Ff]{轻盈坠落}</p><p>标志特性：@UUID[Compendium.draw-steel.origins.Item.g3Jj190yTU3DuEM0]{身轻如燕}</p><h4>可选购的记忆体特性</h4><p>你有4点先祖点数可用于购买以下特性。（快速构建推荐：闪电敏捷，永不停歇。）</p><p>@UUID[Compendium.draw-steel.origins.Item.mmBpEU7rkbKmoNJy]{我即律法（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.UvjXi5wXwSbtbzY4]{秩序守护者（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.mjJ4CRUPCfpb2Vuo]{闪电敏捷（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.zXJteUEoV9C65cMB]{永不停歇（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.oOYRsaTZCDp9OY6V]{系统化思维（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.MgNqH2CQEvtr4G8g]{不为所动（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.p8FB9d7mRSahMwtT]{有用之情绪（1点）}</p>",
+      "advancements_fVPyi0SClfMLvH91_name": "标志性特质",
+      "advancements_fVPyi0SClfMLvH91_description": "",
+      "advancements_OBqVOE5qfq237Biq_name": "已购特质",
+      "advancements_OBqVOE5qfq237Biq_description": "<p>你有4点血统点数可用于以下特质。（<em>快速构建：</em> 闪电灵巧，永不停歇。）</p>"
+    },
+    "Artisan guild": {
+      "name": "工匠公会",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_I7sD76O1kt8K2CHJ_name": "都市",
+      "advancements_I7sD76O1kt8K2CHJ_description": "",
+      "advancements_0mxjmVHVZGn3TGXC_name": "官僚",
+      "advancements_0mxjmVHVZGn3TGXC_description": "",
+      "advancements_XbdlctbG8Y7wqoid_name": "创造",
+      "advancements_XbdlctbG8Y7wqoid_description": ""
+    },
+    "Farming village": {
+      "name": "农耕村落",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_vdTeirMuDhE1UQSl_name": "乡村",
+      "advancements_vdTeirMuDhE1UQSl_description": "",
+      "advancements_fw3UVBEaHEQVlASY_name": "官僚",
+      "advancements_fw3UVBEaHEQVlASY_description": "",
+      "advancements_IohuI0JZm7gBgFQy_name": "劳工",
+      "advancements_IohuI0JZm7gBgFQy_description": ""
+    },
+    "The Wode Defends": {
+      "name": "沃德防御",
+      "description": "<p>你拥有以下标志性能力。标志性能力可随意使用。</p><p>@UUID[Compendium.draw-steel.origins.Item.ndfKDhG31IC5D8rq]{荒林守护}</p>",
+      "advancements_Aaav42syRP8lBxqD_name": "",
+      "advancements_Aaav42syRP8lBxqD_description": ""
+    },
+    "Psionic  Bolt": {
+      "name": "灵能箭",
+      "description": ""
+    },
+    "Gladiator": {
+      "name": "角斗士",
+      "description": "<p>过去，你曾在竞技场中以炫目的暴力表演取悦大众。在定义你的职业生涯时，思考以下问题：</p><ul><li><p>是什么让你走上了这种暴力娱乐的生活？</p></li><li><p>你的角斗士名号和形象是什么？</p></li><li><p>谁是你最大的对手？</p></li><li><p>在你最著名的那场比赛中发生了什么？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 从探索技能组中选择两项技能（快速构建：体操，跳跃。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>声望：</strong> +2</p><p><strong>专长：</strong> 一项探索专长（快速构建：好友弹射。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.uhaTlnZqFsIfDWDx]{角斗士 - 导火索事件}</p>",
+      "advancements_GZkHVPTyLorqo5h8_name": "2个技能（探索）",
+      "advancements_GZkHVPTyLorqo5h8_description": "",
+      "advancements_kUEp5BCatSZrRDTm_name": "",
+      "advancements_kUEp5BCatSZrRDTm_description": "",
+      "advancements_4Ue5ZNT1dLtuVL6j_name": "专长",
+      "advancements_4Ue5ZNT1dLtuVL6j_description": "<p>一项探索特长（<em>快速建造：</em>好友弹射器。）</p>"
+    },
+    "Forest Walk": {
+      "name": "森林漫步",
+      "description": "<p>你可以在困难地形中移动并保持在其中。</p>"
+    },
+    "Glowing Recovery": {
+      "name": "辉光复苏",
+      "description": "<p>你的血火之力让你能比他人更快恢复体力。每当你使用喘息机动时，你可以消耗任意数量的恢复力。</p>"
+    },
+    "Psionic Gift": {
+      "name": "灵能天赋",
+      "description": "<p>从以下选项中选择一项标志性能力。标志性能力可随意使用。</p><p>@UUID[Compendium.draw-steel.origins.Item.FRPORMdCeEONySxL]{震荡猛击（能力）}</p><p>@UUID[Compendium.draw-steel.origins.Item.NtmaR1wzwRtMt5LZ]{灵能箭（能力）}</p><p>@UUID[Compendium.draw-steel.origins.Item.sSWcFde8OLkWgksg]{轻微加速（能力）}</p>",
+      "advancements_tVKZxxDNAwwjcmmF_name": "",
+      "advancements_tVKZxxDNAwwjcmmF_description": ""
+    },
+    "Laborer": {
+      "name": "劳工",
+      "description": "<p>你曾从事农民、建筑工、洗衣工、林务员、矿工或其他需要繁重体力劳动的职业。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你从事的是哪种类型的体力劳动？</p></li><li><p>你在工作中建立了哪些重要的友谊？</p></li><li><p>工作结束后，你会和同事去哪里放松消遣？</p></li><li><p>这份工作中对你来说最困难的部分是什么？</p></li></ul><p>你获得以下职业福利：</p><p><strong>技能：</strong> 耐力技能（来自探索技能组），以及从制造组或探索组中任选两项技能（快速构建推荐：锻造、耐力、举重。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>项目点数：</strong> 120</p><p><strong>专长：</strong> 一项探索专长（快速构建推荐：强壮。）</p>",
+      "advancements_6gc5yRJ4m4k9k6O4_name": "技能（耐力）",
+      "advancements_6gc5yRJ4m4k9k6O4_description": "",
+      "advancements_HcaQzlKVPsWfFGZz_name": "双技能（制作或探索）",
+      "advancements_HcaQzlKVPsWfFGZz_description": "",
+      "advancements_ls50NFgnAb7mLYFz_name": "",
+      "advancements_ls50NFgnAb7mLYFz_description": "",
+      "advancements_AlOrDwMy2S589YIi_name": "专长",
+      "advancements_AlOrDwMy2S589YIi_description": "<p>一项探索特长（<em>快速构建：</em> 强壮。）</p>"
+    },
+    "Graceful Retreat": {
+      "name": "优雅撤退",
+      "description": "<p>你的娇小体型让你更容易从混战中脱身。当你采取脱离移动动作时，你能够位移的距离获得+1加值。</p>"
+    },
+    "Human Culture": {
+      "name": "人类文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_Gg1rsCRTt4unGnB7_name": "都市",
+      "advancements_Gg1rsCRTt4unGnB7_description": "",
+      "advancements_K8wvi7fcYnrsRLVr_name": "公共",
+      "advancements_K8wvi7fcYnrsRLVr_description": "",
+      "advancements_lnPCnzLHH0HSPuZ0_name": "劳工",
+      "advancements_lnPCnzLHH0HSPuZ0_description": ""
+    },
+    "Tough But Withered": {
+      "name": "坚韧而枯槁",
+      "description": "<p>你的亡灵之躯使你获得等同于你等级的寒冷、腐化、闪电和毒素伤害免疫，但你拥有火焰弱点5。你不会窒息，也不需要进食或饮水来维持生命。</p><p>此外，当你的耐力降至你气喘值的负值时，你会变为惰性而非死亡。你倒地且无法站起。你仍能观察周围环境，但无法说话、执行主要动作、战术动作、移动动作或触发动作。以此方式处于惰性状态时，若你受到任何火焰伤害，你的躯体将被摧毁并死亡。否则，12小时后，你将 [[/heal @recoveries.recoveryValue]]{恢复耐力}，数值等同于你的恢复值。</p>"
+    },
+    "Grounded": {
+      "name": "接地",
+      "description": "<p>你坚实的石质身躯与大地相连，使他人难以撼动。你在稳固性上获得+1加值。</p>"
+    },
+    "Small!": {
+      "name": "小型",
+      "description": "<p>你娇小的体型让你能轻易摆脱——或陷入——麻烦。你的体型为1S。</p>"
+    },
+    "College conclave": {
+      "name": "学院集会",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_S1qWpQvikYNro1ox_name": "都市",
+      "advancements_S1qWpQvikYNro1ox_description": "",
+      "advancements_1fDN8Qrp73TWjYDm_name": "官僚",
+      "advancements_1fDN8Qrp73TWjYDm_description": "",
+      "advancements_Agp7gfcQ9CFjMJgY_name": "学者",
+      "advancements_Agp7gfcQ9CFjMJgY_description": ""
+    },
+    "Undead Influence": {
+      "name": "亡灵统御",
+      "description": "<p>你的超自然天赋使你能够影响其他亡灵。在与亡灵生物互动时，你在进行理性、直觉和存在感检定时获得优势。</p>"
+    },
+    "Keeper of Order": {
+      "name": "秩序守护者",
+      "description": "<p>你与绝对法则位面——公理的连接，使你能够掌控周围的混沌。每轮一次，当你或一个相邻生物进行威能检定时，你可以使用一个自由触发动作来移除检定上的一个增益或减益，将双增益转化为增益，或将双减益转化为减益。</p>"
+    },
+    "Swift": {
+      "name": "迅捷",
+      "description": "<p>你的速度为6。</p>"
+    },
+    "Devil": {
+      "name": "恶魔",
+      "description": "<p>作为七狱之城的原生血裔，魔鬼是拥有红色或蓝色皮肤的人形生物，其色调变化广泛，从鲜红到深紫不一而足。每个魔鬼出生时都带有某种<em>地狱印记</em>——角、尾巴、分趾蹄、分叉的舌头、尖牙，甚至翅膀。</p><p>地狱由七狱之城统治，每座城市由一位不同的魔鬼大公管辖，他们彼此间不断策划阴谋、相互算计，以期登上地狱王座。</p><p>那些加入“行当”（即他们所谓的文职体系）的魔鬼，终日忙于官僚事务，或期盼或谋划着晋升。寻求快速爬上官僚阶梯的魔鬼会报名参加“交易所”——通过凡俗世界凡人进行的特定仪式，可以召唤出一位魔鬼，后者代表其所属的魔鬼大公与祈求者进行交易。魔鬼大公可以授予暂时的世俗力量，以换取祈求者的灵魂，而被召唤的魔鬼则充当中间人。</p><p>然而在极少数情况下，召唤过程会出错，祈求者可能在交易达成前死亡，导致被召唤的魔鬼永久滞留在奥登。一些滞留的魔鬼试图返回地狱，但大多数更愿意留在奥登生活，在那里“被同事背后捅刀”通常只是一种比喻。</p><p>奥登的大多数魔鬼并非来自七狱之城，也从未去过那里。他们是数十年前、数百年前甚至数千年前滞留于凡俗世界的魔鬼的后裔。</p><h4>魔鬼特性</h4><p>魔鬼英雄可使用以下特性。</p><p>标志特性：@UUID[Compendium.draw-steel.origins.Item.Ch6TwaIZ8MxXYzbn]{巧舌如簧}</p><h4>可购魔鬼特性</h4><p>你有3点血统点数可用于购买以下特性。（快速构建推荐：兽足，威仪之角。）</p><p>@UUID[Compendium.draw-steel.origins.Item.HZ79OavAF7SpzMYt]{倒刺尾巴（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.IWD4Pua2f8rKLLY3]{兽足（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.npLTlAWa8PqdUN0N]{发光眼瞳（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.2UBV1KK9O20000ty]{地狱视觉（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.YK7TDv4d7ZgODY3U]{威仪之角（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.nXmsu9ClzQpdQE0e]{抓握尾巴（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.J3ctTvIiRbzAEDw1]{翅膀（2点）}</p>",
+      "advancements_naZdlT1bVvunetMK_name": "标志性特质",
+      "advancements_naZdlT1bVvunetMK_description": "",
+      "advancements_og8i2kLFkS6stO04_name": "已购特质",
+      "advancements_og8i2kLFkS6stO04_description": "<p>你有3点血统点数可用于以下特质。（<em>快速构建：</em> 野兽之腿，威猛犄角。）</p>"
+    },
+    "Draconian Guard": {
+      "name": "龙族守卫",
+      "description": "<p>每当你或一个相邻生物因一次打击受到伤害时，你可以使用一个触发动作来格挡这次攻击。你将此次打击造成的任何伤害减少 [[/heal @level]]{数值等同于你的等级}。</p>"
+    },
+    "Disciple": {
+      "name": "门徒",
+      "description": "<p>你曾在一座教堂、神殿或其他宗教机构中担任神职人员。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你所在的机构供奉哪些神祇或圣徒？</p></li><li><p>你经历了哪些入职仪式才获得这份工作？</p></li><li><p>作为门徒，你的职责是什么？</p></li><li><p>当地文化成员如何看待你所在的机构？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 宗教技能（来自学识技能组），以及学识组中另外两项技能（快速构建推荐：文化、魔法、宗教。）</p><p><strong>项目点数：</strong> 240</p><p><strong>专长：</strong> 一项超自然专长（快速构建推荐：仪式专家。）</p><h5>触发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.aeNCksCErNKiCCkl]{门徒 - 触发事件}</p>",
+      "advancements_QhnHaSd2adwBs64j_name": "宗教技能",
+      "advancements_QhnHaSd2adwBs64j_description": "",
+      "advancements_bP3HgMvgAl8aM9K6_name": "2个技能（学识）",
+      "advancements_bP3HgMvgAl8aM9K6_description": "",
+      "advancements_rUEv1cZVO8FQYAng_name": "专长",
+      "advancements_rUEv1cZVO8FQYAng_description": "<p>一项超自然特性（<em>快速构建：</em>仪式师。）</p>"
+    },
+    "Wode elf Culture": {
+      "name": "沃德精灵文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_LW1U7m79CcaTqpua_name": "荒野",
+      "advancements_LW1U7m79CcaTqpua_description": "",
+      "advancements_ywby0wLMbjp3KAoe_name": "官僚",
+      "advancements_ywby0wLMbjp3KAoe_description": "",
+      "advancements_6QSrwjUFfFcvjul0_name": "武僧",
+      "advancements_6QSrwjUFfFcvjul0_description": ""
+    },
+    "Corruption Immunity": {
+      "name": "腐化免疫",
+      "description": "<p>你天生的暗影魔法赋予你对非自然力量的抵抗力。你获得等同于你等级+2的腐化免疫。</p>"
+    },
+    "Revenant (Small)": {
+      "name": "亡魂（小型）",
+      "description": "<p>亡者行走于我们之间。其中一些对此比另一些更为欣然。</p><p>与制造尸妖、怨魂和僵尸的死灵仪式不同，复仇亡魂的崛起源于不公的死亡与炽烈的复仇渴望相结合。这些纯粹依靠意志维持的生物，无需食物、饮水或空气——并且，与它们那些僵尸化的表亲不同，它们保留了生前的全部记忆与人格。</p><p>这类复仇亡魂十分罕见。许多会遭到无知村民的追猎，后者只看到它们死去的躯壳便往最坏处设想。那些从草叉队手中幸存下来的亡魂，要么选择孤独的生活，常常作为游荡的灵魂寻求活人陪伴却又始终心怀恐惧；要么迁徙至诸如黑渊城或首都这样的大都会，在那里，迷失的灵魂聚集起来建立家园。</p><h4>复仇亡魂特质</h4><p>复仇亡魂英雄拥有以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.xXl9h7qyi4z91jYO]{前世之忆}</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.S2OsBBFHqBoHZYUu]{坚韧而枯朽}</p><h4>可选购的复仇亡魂特质</h4><p>你有2点先祖点数可用于购买以下特质。（快速构建：选择无血之躯，若体型为1S则额外选择亡灵感应。）</p><p>@UUID[Compendium.draw-steel.origins.Item.77tLSEIDpNRpkwnn]{无血之躯（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.LhqV95QNJKZ4ItIU]{前世烙印：1点（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.M8hcInvmTs5DG902]{前世烙印：2点（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.UWNCLuMl8DljBsrN]{亡灵感应（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.4rkruRy4WbjyM7Vx]{复仇印记（2点）}</p>",
+      "advancements_6QeV1AgB4VaBXFC9_name": "标志性特质",
+      "advancements_6QeV1AgB4VaBXFC9_description": "",
+      "advancements_wjCnH9cOfQON5aTl_name": "已购特质",
+      "advancements_wjCnH9cOfQON5aTl_description": "<p>你拥有2点先祖点数可用于以下特质，若你的体型为1S则为3点。（快速构建：无血者，若体型为1S则额外选择亡灵影响。）</p>"
+    },
+    "Nimblestep": {
+      "name": "迅捷步法",
+      "description": "<p>当速度至关重要时，轻盈的步伐会让你如鱼得水。你可以忽略困难地形的影响，并且能在潜行时以全速移动。</p>"
+    },
+    "Dwarf": {
+      "name": "矮人",
+      "description": "<p>矮人拥有与其体型不符的力量，他们的血肉中融入了岩石——这种硅基有机混合特质使其生理密度高于其他人形种族。得益于从早已灭绝的钢铁矮人兄长们那里继承的知识，他们在奥登世界享有精明工程师与技术专家的声誉。</p><p>矮人是上古神祇奥德的后裔，他们常说的谚语“奥德铸造世界”即意味着“该发生的终将发生”。他们深知自己的神祇与安神、埃斯神、库尔神共同创造了凡俗世界，并为此深感自豪，许多矮人离开家园去见识世界，并以奥德之名追寻荣耀。</p><h4>矮人特质</h4><p>矮人英雄拥有以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.7UBJoBRNKS0DseiW]{符文雕琢}</p><h4>可选矮人特质</h4><p>你拥有3点先祖点数可用于下列特质。（快速构建推荐：接地体质，迸发火花。）</p><p>@UUID[Compendium.draw-steel.origins.Item.IgT9T3b93zMIDDDO]{强健体魄（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.SRXimbhqaB29laQU]{接地体质（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.cUb18dpzvSq6VCyL]{迸发火花（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.LQkL2QlukiEFM3pb]{坚韧立场（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.cfczhzh90Q8R2iG0]{岩石歌者（1点）}</p>",
+      "advancements_XVb6IGYapdfNDcOS_name": "标志性特质",
+      "advancements_XVb6IGYapdfNDcOS_description": "",
+      "advancements_rpfsfzOhw53PwsGE_name": "已购特质",
+      "advancements_rpfsfzOhw53PwsGE_description": "<p>你有3点血统点数可用于以下特质。（<em>快速构建</em>：脚踏实地，火花迸发。）</p>"
+    },
+    "Hakaan Culture": {
+      "name": "哈坎文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_FpJvRnheUbynp7cY_name": "乡村",
+      "advancements_FpJvRnheUbynp7cY_description": "",
+      "advancements_igLgIG7UtPtvAwpP_name": "公共",
+      "advancements_igLgIG7UtPtvAwpP_description": "",
+      "advancements_8qVO1cQ86lB0PVEH_name": "劳工",
+      "advancements_8qVO1cQ86lB0PVEH_description": ""
+    },
+    "Polder": {
+      "name": "圩田",
+      "description": "<p>在人类之后，波尔德人是奥登中数量最多、种类最丰富的种族。他们并非人类，但与人类共同生活，共享神祇与文化。奥登几乎每个人类文化中，都有一位波尔德圣人或一位受波尔德人敬仰的人类圣人。</p><p>波尔德人身材矮小，平均身高约3.5英尺，其起源模糊不清。这是一个年轻的物种，与人类一样，没有单一的守护神。他们影融的能力使其享有卓越间谍与盗贼的声誉。许多波尔德人视此为卑劣的诽谤，并指出他们同样以厨师身份闻名——尽管波尔德人遍布各行各业，尤其在城市中。</p><h4>波尔德人特质</h4><p>波尔德人英雄拥有以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.DbpK06fEyJxin1tA]{影融}</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.Sk03bZTV24MzxYVT]{小型体型！}</p><h4>可选购的波尔德人特质</h4><p>你有4点种族点数可用于购买以下特质。（快速构建推荐：腐化免疫、无畏、优雅撤退。）</p><p>@UUID[Compendium.draw-steel.origins.Item.WFaKeDhxONumCRek]{腐化免疫（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.sAzlkp3b67AYwucx]{无畏（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.Rv80kYretCbPaguq]{优雅撤退（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.WrLBhTDLbX80T7hN]{灵巧步法（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.EsJYMF39KZwneS4F]{波尔德精魂（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.n9J7I0TzxJOYgucN]{反应翻滚（1点）}</p>",
+      "advancements_NrOnyWpRHJYurm2Y_name": "标志性特质",
+      "advancements_NrOnyWpRHJYurm2Y_description": "",
+      "advancements_mG08KGdUdTlTPddN_name": "已购特质",
+      "advancements_mG08KGdUdTlTPddN_description": "<p>你有4点血统点数可用于以下特质。（<em>快速构建：</em>腐化免疫、无所畏惧、优雅撤退。）</p>"
+    },
+    "Impressive Horns": {
+      "name": "威猛犄角",
+      "description": "<p>你珍视的犄角比寻常魔鬼的更为硕大，是你意志力量的坚硬体现。每当你进行豁免检定时，掷出5点或更高即视为成功。</p>"
+    },
+    "Otherworldly Grace": {
+      "name": "异界恩典",
+      "description": "<p>你的精灵之躯与心智难以被长久束缚。每当你进行豁免检定时，掷出5或更高的点数即视为成功。</p>"
+    },
+    "All Is A Feather": {
+      "name": "万物皆羽",
+      "description": "<p>你拥有异于常人的力量。你在举起和拖拽重物时获得优势。</p>"
+    },
+    "Big!": {
+      "name": "大！",
+      "description": "<p>你的体型反映了你的巨人先祖。你的体型为1L。</p>"
+    },
+    "Detonate Sigil": {
+      "name": "引爆符文",
+      "description": ""
+    },
+    "High Elf Glamor": {
+      "name": "高等精灵魅影",
+      "description": "<p>一道魔法魅影让他人觉得你风趣迷人，使你在使用调情或说服技能进行风度检定时获得优势。这道魅影让你在每个遇到的生物眼中呈现出略微不同的外貌与声音，因为对甲有吸引力的特质对乙未必相同。然而，你永远不会被认作自己以外的任何人。</p>"
+    },
+    "Outlaw band": {
+      "name": "亡命之徒帮",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_g72HClS88FlO0Zrx_name": "荒野",
+      "advancements_g72HClS88FlO0Zrx_description": "",
+      "advancements_0HmvTxm1AVafaQEX_name": "公共",
+      "advancements_0HmvTxm1AVafaQEX_description": "",
+      "advancements_rXmDJP6MrjqPKavX_name": "不法之徒",
+      "advancements_rXmDJP6MrjqPKavX_description": ""
+    },
+    "Watch Officer": {
+      "name": "监视官",
+      "description": "<p>你曾为地方政府担任执法官员。你可能是一座大都市卫队中的一员，也可能是巡逻小村庄的唯一警员。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你保护的是哪种类型的定居点？</p></li><li><p>你的执法风格是怎样的？你是照章办事的官员，还是更宽容但公正的类型，或是完全腐败？</p></li><li><p>至今仍有哪个罪犯逍遥法外？</p></li><li><p>你在执勤时拯救了谁的性命？</p></li><li><p>你曾处理过的最荒谬的报警是什么？你是如何应对的？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 警觉（来自阴谋技能组），以及阴谋组中的另外两项技能（快速构建：警觉、搜索、追踪。）</p><p><strong>语言：</strong> 两种语言</p><p><strong>专长：</strong> 一项探索专长（快速构建：团队领袖。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.4lgaSleWztFO7Hik]{警员 - 导火索事件}</p>",
+      "advancements_S6oySPhZr6i3Ziop_name": "警觉技能",
+      "advancements_S6oySPhZr6i3Ziop_description": "",
+      "advancements_wEGEeKwnlERCbUGG_name": "2个技能（密谋）",
+      "advancements_wEGEeKwnlERCbUGG_description": "",
+      "advancements_vsHwsnRf7D2Y9l8z_name": "两种语言",
+      "advancements_vsHwsnRf7D2Y9l8z_description": "",
+      "advancements_5foDIQsDExw6rBOK_name": "专长",
+      "advancements_5foDIQsDExw6rBOK_description": "<p>一项探索特长（<em>快速构建：</em>团队领袖。）</p>"
+    },
+    "Herding community": {
+      "name": "放牧社群",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_iZUd4natt51ptGRl_name": "游牧者",
+      "advancements_iZUd4natt51ptGRl_description": "",
+      "advancements_ii6RtbMVAChFpZHG_name": "公共",
+      "advancements_ii6RtbMVAChFpZHG_description": "",
+      "advancements_PHeJawczYyVfG5JN_name": "劳工",
+      "advancements_PHeJawczYyVfG5JN_description": ""
+    },
+    "Sailor": {
+      "name": "水手",
+      "description": "<p>你曾在一艘船上工作，无论是商船、雇佣兵或军用船只，还是海盗船。你可能当过水手、大副，甚至船长。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你曾航行的船只叫什么名字？船员们从事的是何种业务？</p></li><li><p>你在船上的工作是什么？</p></li><li><p>你在海上连续度过的最长时间是多久？</p></li><li><p>在你的航海旅程中，你失去了谁或什么？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 游泳（来自探索技能组），以及探索组中的另外两项技能（快速构建推荐：攀爬、体操、游泳。）</p><p><strong>语言：</strong> 两种语言</p><p><strong>专长：</strong> 一项探索专长（快速构建推荐：全力以赴！）</p><h5>诱发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.ykyoSNgfYuBHWoL7]{水手 - 诱发事件}</p>",
+      "advancements_OKf9KjzVtysDVwya_name": "游泳技能",
+      "advancements_OKf9KjzVtysDVwya_description": "",
+      "advancements_DBDoHd2r8aEEmpwp_name": "2个技能（探索）",
+      "advancements_DBDoHd2r8aEEmpwp_description": "",
+      "advancements_3lwbvbPhv8Fj0nmU_name": "两种语言",
+      "advancements_3lwbvbPhv8Fj0nmU_description": "",
+      "advancements_TV4AP72vGiOHxG8w_name": "专长",
+      "advancements_TV4AP72vGiOHxG8w_description": "<p>一项探索特长（<em>快速构筑：</em>全力以赴！）</p>"
+    },
+    "High elf Culture": {
+      "name": "高等精灵文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_q3lC41A4ikuZQsc5_name": "隐遁",
+      "advancements_q3lC41A4ikuZQsc5_description": "",
+      "advancements_TAOHjFLPZSIDVbOk_name": "官僚",
+      "advancements_TAOHjFLPZSIDVbOk_description": "",
+      "advancements_pwchn6Y8mX9JztaJ_name": "武僧",
+      "advancements_pwchn6Y8mX9JztaJ_description": ""
+    },
+    "Spark Off Your Skin": {
+      "name": "肤上星火",
+      "description": "<p>你的石肤为你提供了强大的保护。你在耐力上获得+6加值，该加值在4级、7级和10级时各增加6点。</p>"
+    },
+    "Stone Singer": {
+      "name": "石歌者",
+      "description": "<p>你与大地有着魔法连接。当你花费1小时不间断地歌唱时，你可以重塑3格范围内任何未经加工的普通石头。你无法摧毁这些石头，但可以将每格石头移动到3格范围内的任何位置，将其堆叠到一侧以挖掘坑洞，或垒砌起来形成墙壁。</p>"
+    },
+    "Borderland homestead": {
+      "name": "边境家园",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_WTNNcZnHNLHfU8AR_name": "荒野",
+      "advancements_WTNNcZnHNLHfU8AR_description": "",
+      "advancements_WD8dKntqHxqtu8WU_name": "公共",
+      "advancements_WD8dKntqHxqtu8WU_description": "",
+      "advancements_3SETho8SiqVZfGuk_name": "劳工",
+      "advancements_3SETho8SiqVZfGuk_description": ""
+    },
+    "Noble house": {
+      "name": "贵族世家",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_6YCUNF2XURJ9b4kE_name": "城市",
+      "advancements_6YCUNF2XURJ9b4kE_description": "",
+      "advancements_R1MDyVsa7LzOy6FK_name": "官僚",
+      "advancements_R1MDyVsa7LzOy6FK_description": "",
+      "advancements_oTPp7euYChQAKyOY_name": "贵族",
+      "advancements_oTPp7euYChQAKyOY_description": ""
+    },
+    "Criminal": {
+      "name": "罪犯",
+      "description": "<p>你曾当过强盗、叛乱分子、走私犯、法外之徒，甚至刺客。在定义你的职业生涯时，思考以下问题：</p><ul><li><p>你犯过哪些罪行，原因是什么？</p></li><li><p>是否有人协助你进行非法活动？</p></li><li><p>你搞砸过哪一次犯罪？</p></li><li><p>在你作为罪犯期间，谁是你的死对头？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 犯罪世界技能（来自学识技能组），以及两项谋略组技能（快速构建：犯罪世界、开锁、扒窃。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>项目点数：</strong> 120</p><p><strong>专长：</strong> 一项谋略专长（快速构建：罪犯联系人。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.QqTzW7yT5EAtObRX]{罪犯 - 导火索事件}</p>",
+      "advancements_owaluM1r3qqpTLuV_name": "犯罪世界技能",
+      "advancements_owaluM1r3qqpTLuV_description": "",
+      "advancements_oq0eBuDVm5vip8MY_name": "2个技能（密谋）",
+      "advancements_oq0eBuDVm5vip8MY_description": "",
+      "advancements_Hr8UrWwyNaeL535D_name": "",
+      "advancements_Hr8UrWwyNaeL535D_description": "",
+      "advancements_r4ukphkeedBJWuOB_name": "专长",
+      "advancements_r4ukphkeedBJWuOB_description": "<p>一项密谋专长（<em>快速构建：</em>犯罪联系人。）</p>"
+    },
+    "Warden": {
+      "name": "守望者",
+      "description": "<p>你保护了一片荒野区域，使其免受那些意图伤害它的人侵扰，例如偷猎者和一心毁灭自然世界的邪教徒。由于对这片土地了如指掌，你也可以作为向导或救援队的领队，帮助那些在荒野中迷途的人。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你保护的是何种环境？</p></li><li><p>你是正式护林员组织的一员，还是独自承担了这份职责？</p></li><li><p>在荒野工作中，哪种动物成为了你忠实的伙伴？</p></li><li><p>你在森林中遇到了何种神秘生物或流浪者，他们向你透露了怎样的预言？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 自然（来自学识技能组），外加一项探索组技能和一项谋略组技能（快速构建：自然、导航、追踪。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>项目点数：</strong> 120</p><p><strong>专长：</strong> 一项探索专长（快速构建：伪装猎手。）</p><h5>触发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.p4779pGPJw2flO4e]{护林员 - 触发事件}</p>",
+      "advancements_8UlNfizx2eA8Evh4_name": "自然技能",
+      "advancements_8UlNfizx2eA8Evh4_description": "",
+      "advancements_tEHjwDGhYgjTRGSh_name": "探索技能",
+      "advancements_tEHjwDGhYgjTRGSh_description": "",
+      "advancements_0JKwdidOtxiffwcH_name": "密谋技能",
+      "advancements_0JKwdidOtxiffwcH_description": "",
+      "advancements_wSyDfYeJ0uIqEW46_name": "",
+      "advancements_wSyDfYeJ0uIqEW46_description": "",
+      "advancements_Wl0sl4YdU5pMBf0z_name": "专长",
+      "advancements_Wl0sl4YdU5pMBf0z_description": "<p>一项探索特长（<em>快速构筑：</em>伪装猎手。）</p>"
+    },
+    "Lightweight": {
+      "name": "轻量化",
+      "description": "<p>你的身躯相对于你的身高而言十分轻盈。每当其他生物试图强制移动你时，你的体型被视为比实际小一级。</p>"
+    },
+    "Forceful": {
+      "name": "强力",
+      "description": "<p>每当你强制移动一个生物或物体时，强制移动距离获得+1加值。</p>"
+    },
+    "High Elf": {
+      "name": "高等精灵",
+      "description": "<p>作为太阳神族后裔而被创造，用以照管图书馆并作为传令官侍奉真精灵，高等精灵的历史描述了一个更美好的时代——那是在人类到来与战争爆发之前。那时神族仍驻留世间，唯有艺术与美才是要事。</p><p>自创造者退隐至阿卡迪亚以来的数千年间，高等精灵建立了属于自己的文明，主要居住于坠落的天空神城之中及其周边。由于无需再取悦创造者，精灵们延续着过往的生活方式——收集传说与知识、崇拜艺术，并且随着世代更迭，愈发内向多疑，不信任外来者。</p><h4>高等精灵特质</h4><p>高等精灵英雄拥有以下特质。</p><p>标志性特质：@UUID[Compendium.draw-steel.origins.Item.Zh8ZNVJqtJgJpW7m]{高等精灵魅影}</p><h4>可选高等精灵特质</h4><p>你拥有3点先祖点数，可用于购买以下特质。（快速构建推荐：高等感知，超凡优雅。）</p><p>@UUID[Compendium.draw-steel.origins.Item.uHpwLB8wTL47WJr5]{惊骇魅影（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.VF6zaUKLsLN1Im3W]{优雅撤退（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.m1tQ43tT1hnixVBn]{高等感知（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.YrnkrcvZSkecn21f]{超凡优雅（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.3Y0oPwqk2tDFlaTp]{记忆重溯（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.cs8jldLJrjpmpRfl]{不可撼动之心（2点）}</p>",
+      "advancements_mC9IWGVI31c4SkOL_name": "标志性特质",
+      "advancements_mC9IWGVI31c4SkOL_description": "",
+      "advancements_5T4BvFmxVEiwp77W_name": "已购特质",
+      "advancements_5T4BvFmxVEiwp77W_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em> 高等感知，异界优雅。）</p>"
+    },
+    "Determination": {
+      "name": "决意",
+      "description": "<p>对痛苦与困境的忍耐力使你能够挺过艰难处境。若你陷入恐慌、迟缓或虚弱状态，可以使用一个机动动作来立即解除其中一种状态。</p>",
+      "advancements_HVKsQpbDrd7GuhJp_name": "",
+      "advancements_HVKsQpbDrd7GuhJp_description": ""
+    },
+    "Sage": {
+      "name": "贤者",
+      "description": "<p>自年少时起，你便致力于求知，无论是与他人分享世间学识，还是仅为己身探寻隐秘知识。在定义你的职业背景时，请思考以下问题：</p><ul><li><p>你曾研习哪些学科？</p></li><li><p>你的求学之地在何处？</p></li><li><p>你是如何获取工作所需的书籍与其他资料的？</p></li><li><p>谁从你的研究中获益最多？</p></li></ul><p>你获得以下职业背景收益：</p><p><strong>技能：</strong>从学识技能组中选择两项技能（快速构建推荐：历史、魔法。）</p><p><strong>语言：</strong>一门语言</p><p><strong>项目点数：</strong>240</p><p><strong>专长：</strong>一项学识专长（快速构建推荐：专家学者。）</p><h5>触发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.xHUzjU2JpK8HWyOx]{学者 - 触发事件}</p>",
+      "advancements_B5BiDvEzQoAKUHvw_name": "2个技能（学识）",
+      "advancements_B5BiDvEzQoAKUHvw_description": "",
+      "advancements_VGdYbhiSIetIUeeQ_name": "",
+      "advancements_VGdYbhiSIetIUeeQ_description": "",
+      "advancements_jszhgYCA0kH3nopS_name": "专长",
+      "advancements_jszhgYCA0kH3nopS_description": "<p>一个学识专长（<em>快速构建：</em> 专家贤者。）</p>"
+    },
+    "Prismatic Scales": {
+      "name": "棱彩鳞片",
+      "description": "<p>选择一项由你的龙鳞板特性提供的伤害免疫。除了龙鳞板赋予的免疫外，你始终拥有此免疫。</p>"
+    },
+    "Explorer": {
+      "name": "探险家",
+      "description": "<p>你曾涉足未知领域，以制图师、研究员、资源探寻者或宝藏猎人的身份谋生。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你探索未知的目的是什么？</p></li><li><p>你的探险团队中还有哪些成员？</p></li><li><p>你探索过哪些类型的环境？</p></li><li><p>你曾追寻过但始终未曾找到的传说或谣言是什么？</p></li><li><p>你最大的发现是什么？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 导航技能（来自探索技能组），以及探索组中的另外两项技能（快速构建推荐：攀爬、医疗、导航。）</p><p><strong>语言：</strong> 两种语言</p><p><strong>专长：</strong> 一项探索专长（快速构建推荐：森林智慧。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.tvt22JQxxFoZ1573]{探索者 - 导火索事件}</p>",
+      "advancements_pVW4bmS6PKC9XsqP_name": "技能（导航）",
+      "advancements_pVW4bmS6PKC9XsqP_description": "",
+      "advancements_egPaXQdZ4gPRc4q4_name": "2项技能（探索）",
+      "advancements_egPaXQdZ4gPRc4q4_description": "",
+      "advancements_N5EIjeb3Bde2JKtG_name": "双语",
+      "advancements_N5EIjeb3Bde2JKtG_description": "",
+      "advancements_nxm4CEs4PyrCuRYI_name": "专长",
+      "advancements_nxm4CEs4PyrCuRYI_description": "<p>一项探索专长（<em>快速建造：</em> 木料通晓。）</p>"
+    },
+    "Orc": {
+      "name": "兽人",
+      "description": "<p>一种无法隐藏的愤怒。一种驱使他们在战斗中奋战的狂怒。兽人作为顶尖战士闻名于世——这一声誉让热爱和平的兽人感到厌恶。</p><p>作为第五个会说话的种族，兽人在人类和精灵之后抵达奥登。他们在两种文化的交界地带安家，偏爱天然森林，避开精灵萦绕的古林。数代以来，这使他们直接处于人类砍伐树木、修建道路和农田的扩张路径上。</p><p>每个兽人体内都有一团火焰，一旦见血就会让他们的血管发光。这种愤怒将他们推向死亡的边缘。他们渴望独处却又在战斗中充满热忱的矛盾性，可以用一句矮人谚语概括：</p><p>“庆幸兽人不记仇吧。”</p><h4>兽人特质</h4><p>兽人英雄可使用以下特质。</p><p>标志特质：@UUID[Compendium.draw-steel.origins.Item.AL0IjPuMhACpsiks]{不屈不挠}</p><h4>可选购的兽人特质</h4><p>你有3点先祖点数可用于购买以下特质。（快速构建推荐：辉光复苏，脚踏实地。）</p><p>@UUID[Compendium.draw-steel.origins.Item.y1I1Gf3KcQ7WK9TE]{血火冲锋（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.PHzBW0LBXgdi5m09]{辉光复苏（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.hBUbWGbAShFqARiX]{脚踏实地（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.0WfVcJfD3mhne26S]{永不停歇（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.HKz73mFMk3cwWIyN]{激情匠人（1点）}</p>",
+      "advancements_l9PaJJNb8wsO8Gpl_name": "标志性特质",
+      "advancements_l9PaJJNb8wsO8Gpl_description": "",
+      "advancements_hfBfdXuZCefP6e74_name": "已购特质",
+      "advancements_hfBfdXuZCefP6e74_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em> 辉光复苏，接地。）</p>"
+    },
+    "High Senses": {
+      "name": "高等感知",
+      "description": "<p>你的感官格外敏锐且富有洞察力。你在察觉威胁的检定中获得优势。</p>"
+    },
+    "Wode Elf": {
+      "name": "林地精灵",
+      "description": "<p>森林天界生物的后裔，被称为幽林（wodes）的精灵出没之林的主宰，幽林精灵视所有森林为他们与生俱来的领地。他们知晓并乐见于自己在人类中因掳走深入森林的孩童而获得的声名。人类应当畏惧树木。</p><p>幽林精灵与生俱来的、被称为魅影（glamor）的隐匿能力，与他们游击式的战斗风格相得益彰，使其能从掩蔽处快速出击，随后又融入灌木丛中。这些特质也让少数居住在城市中的幽林精灵天生擅长城市作战。</p><h4>幽林精灵特质</h4><p>幽林精灵英雄拥有以下特质。</p><p>标志性特质：@UUID[Compendium.draw-steel.origins.Item.Ixiq7cFNRLjbd1ZX]{幽林精灵魅影}</p><h4>可购买的幽林精灵特质</h4><p>你有3点先祖点数可用于购买以下特质。（快速构建推荐：迅捷，超凡优雅。）</p><p>@UUID[Compendium.draw-steel.origins.Item.PHL5m176Z04OddCZ]{森林行走（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.HMO2DpVxFvI124KZ]{迅捷而残忍（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.F2JlPVFs8n7vWJOI]{超凡优雅（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.HAPtKnmBEjjWYFBX]{重温记忆（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.VXwDHExr9y44UrWT]{迅捷（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.NeQebjBMtSfCPP1H]{幽林守护（2点）}</p>",
+      "advancements_pa0Hgfjo20fgXkZy_name": "标志性特质",
+      "advancements_pa0Hgfjo20fgXkZy_description": "",
+      "advancements_rYZm6w0E1601WxI5_name": "已购特质",
+      "advancements_rYZm6w0E1601WxI5_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em> 迅捷，超凡优雅。）</p>"
+    },
+    "Lightning Nimbleness": {
+      "name": "闪电迅捷",
+      "description": "<p>你可以驱使身体以惊人的速度移动。你的速度为7。</p>"
+    },
+    "I Am Law": {
+      "name": "我即法律",
+      "description": "<p>你守序的天性与迅捷的反应意味着你不会给试图越过你的生物任何可乘之机。除非你允许，否则敌人无法穿过你所在的空间。</p>"
+    },
+    "Reactive Tumble": {
+      "name": "反应翻滚",
+      "description": "<p>步履轻盈让你能迅速回到原位。每当你被强制移动时，可在强制移动结算后使用一次免费的触发动作来快步移动1格。</p>"
+    },
+    "Prehensile Tail": {
+      "name": "抓握尾",
+      "description": "<p>你灵巧的尾巴让你能够应对来自各方的敌人。你不会被夹击。</p>"
+    },
+    "Glowing Eyes": {
+      "name": "发光之眼",
+      "description": "<p>你的双眼呈现出一种纯粹而鲜艳的色彩，会在你兴奋或愤怒时闪烁光芒。每当你受到一个生物造成的伤害时，你可以使用一个触发动作，对该生物造成等同于[[/damage 1d10+@level]]{1d10 + 你的等级}的心灵伤害。</p>"
+    },
+    "Systematic Mind": {
+      "name": "系统化思维",
+      "description": "<p>你在解析示意图、地图以及其他本质上并非混乱的系统性文件时获得优势。此外，你将任何你不懂的语言视为你懂一门相关语言。</p>"
+    },
+    "Useful Emotion": {
+      "name": "实用情绪",
+      "description": "<p>维洛帕拉萨——世界病——或许会阻碍你，但你懂得如何将自身的痛苦转化为敌人承受的伤害。在任何战斗开始时，你获得1点涌动。</p>"
+    },
+    "Aristocrat": {
+      "name": "贵族",
+      "description": "<p>事业？当你生来富贵，谁还需要事业！或是嫁入豪门！或是骗得家财！无论如何，多亏了（某人的）世代财富，你无需工作。在定义你的事业时，思考以下问题：</p><ul><li><p>你是如何成为贵族的？</p></li><li><p>你过去如何打发时日？</p></li><li><p>哪些贵族以及为你工作的人曾是你最好的朋友和最大的敌人？</p></li><li><p>你随身携带来自旧庄园的哪件具有情感意义的传家宝，它对你意味着什么？</p></li></ul><p>你获得以下事业收益：</p><p><strong>技能：</strong> 从人际技能组中选择一项技能，并从学识组中选择一项技能（快速构建：吹嘘，社会。）</p><p><strong>语言：</strong> 一种语言</p><p><strong>声望：</strong> +1</p><p><strong>财富：</strong> +1</p><p><strong>专长：</strong> 一项学识专长（快速构建：我读过关于这个地方的资料。）</p><h5>诱发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.08yGXC1xypocG5UQ]{贵族 - 诱发事件}</p>",
+      "advancements_iY8DK5AFbN14aYIY_name": "社交技能",
+      "advancements_iY8DK5AFbN14aYIY_description": "",
+      "advancements_GwVFoOI0sKN2KbdO_name": "学识技能",
+      "advancements_GwVFoOI0sKN2KbdO_description": "",
+      "advancements_baedeDOYe6K3ZQa9_name": "",
+      "advancements_baedeDOYe6K3ZQa9_description": "",
+      "advancements_XtDHNqCcXbifP1pu_name": "专长",
+      "advancements_XtDHNqCcXbifP1pu_description": "<p>一个学识专长（<em>快速构建：</em>我读过关于这个地方的资料。）</p>"
+    },
+    "Human": {
+      "name": "人类",
+      "description": "<p>人类属于这个世界的方式，是其他有灵智种族所不具备的。你能感知到超自然的存在——就像我听到过的那种描述，空气中那股……油腻的气味。而不死生物的存在会让你颈后的汗毛倒竖。不然你以为墓地为何对你影响如此之大？无论魔法是什么，它对你们的掌控都很轻微。无论是什么驱动着不死生物，你们的本性都在抗拒它。</p><p>“没人知道这是为什么。我们精灵没有这样的感知力。元素生物或卡宁族……也就是你们说的矮人和兽人，也没有。究竟是什么让人类与众不同？我是历史学家，不是医师。我说不清。也许有一天你们中的一些人会找到答案，并告诉我们所有人原因。”</p><h4>人类特质</h4><p>人类英雄可使用以下特质。</p><p>标志性特质：@UUID[Compendium.draw-steel.origins.Item.X40Vg1cP1ze1FeBL]{感知超自然}</p><h4>可选人类特质</h4><p>你有3点先祖点数可用于购买以下特质。（快速构建推荐：坚韧不拔，持久耐力。）</p><p>@UUID[Compendium.draw-steel.origins.Item.sApldmo4F6eoArMh]{无法附身（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.hcAmOtDXMqCpcyI4]{决心（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.5eR1iLU6P8ogobGB]{坚韧不拔（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.FUrxZYvocf8fmdnv]{抗拒非自然（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.r0zaFM82zkl4tMnC]{持久耐力（2点）}</p>",
+      "advancements_HVzwmT8i2fyF75AW_name": "标志性特质",
+      "advancements_HVzwmT8i2fyF75AW_description": "",
+      "advancements_ao5QN2zG8qBsGZJr_name": "已购特质",
+      "advancements_ao5QN2zG8qBsGZJr_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em> 坚韧不拔，持久耐力。）</p>"
+    },
+    "Time raider Culture": {
+      "name": "时间掠夺者文化",
+      "description": "",
+      "advancements_anyLang000000000_name": "语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_mYNZixZKhQKqrYCh_name": "游牧者",
+      "advancements_mYNZixZKhQKqrYCh_description": "",
+      "advancements_uJPyr5ThoTkiVgRh_name": "公共",
+      "advancements_uJPyr5ThoTkiVgRh_description": "",
+      "advancements_jgbRGGYs0dwlbbo6_name": "武僧",
+      "advancements_jgbRGGYs0dwlbbo6_description": ""
+    },
+    "Time Raider": {
+      "name": "时间潜行者",
+      "description": "<p>作为辛利洛伊——那些拥有近乎神力的邪恶灵能者——最初的仆从种族，库兰佐伊在第一次灵能战争中解放了自己。自那以后的数个世纪里，他们作为时间景观的游牧者，建立了自己的文化与文明。“时间掠夺者”这个外号是由下层世界的居民赋予的，他们看到库兰佐伊掌握的先进技术，断定他们必定来自未来。</p><p>时间掠夺者在奥登极为罕见，却在星界之海——世界之间的海洋，灵薄狱之风咆哮之处——繁衍生息。</p><p>库兰佐伊没有眼睛，取而代之的是晶体视觉传感器，这赋予了他们高光谱视觉，并能抵御星界之海中遇到的极端辐射，使他们仅凭便携式呼吸器就能在飞船外自由活动。时间掠夺者还拥有两对手臂，可以同时使用近战武器和远程武器。一个训练有素的库兰佐伊本身就堪比一支小队。</p><h4>时间掠夺者特质</h4><p>时间掠夺者英雄拥有以下特质。</p><p>标志性特质：@UUID[Compendium.draw-steel.origins.Item.3va7ie8M9HbPtSIe]{灵能伤疤}</p><h4>可购买的时间掠夺者特质</h4><p>你有3点先祖点数可用于购买以下特质。（快速构建：超然视界，灵能天赋搭配灵能箭。）</p><p>@UUID[Compendium.draw-steel.origins.Item.IKuZJ4xQursPczZ8]{超然视界（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.39xUjIrLf0Dy7P3t]{预见力（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.4Y4EXGkS244LYmEH]{四臂运动（1点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.uAhU9gIqav2nLXAJ]{四臂武艺（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.QmQ1bhbT1F6hc8Gt]{灵能天赋（2点）}</p><p>@UUID[Compendium.draw-steel.origins.Item.6YlNYWUGvqYzNjVI]{不可阻挡之心（2点）}</p>",
+      "advancements_M0sCxSH1EmFEgbgq_name": "标志性特质",
+      "advancements_M0sCxSH1EmFEgbgq_description": "",
+      "advancements_OivTe7bRC3hYc8db_name": "已购特质",
+      "advancements_OivTe7bRC3hYc8db_description": "<p>你有3点族裔点数可用于以下特质。（<em>快速构建：</em>超然视野，附带灵能箭的灵能天赋。）</p>"
+    },
+    "Staying Power": {
+      "name": "持续之力",
+      "description": "<p>你的人类生理构造使你能够比他人战斗更久、奔跑更远、保持清醒更长时间。你的恢复次数增加2次。</p>"
+    },
+    "Beggar": {
+      "name": "乞丐",
+      "description": "<p>你曾依靠前往酒馆、十字路口、城市街道或其他繁忙区域，向路人乞讨钱财或食物为生。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>是什么不幸的境遇导致你沦为乞丐？</p></li><li><p>你在何处行乞？</p></li><li><p>谁曾以欺凌你为乐？</p></li><li><p>谁对你展现了最大的善意？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 传闻技能（来自学识技能组），外加一项探索组技能和一项人际组技能（快速构建：共情、耐力、传闻。）</p><p><strong>语言：</strong> 两种语言</p><p><strong>专长：</strong> 一项人际专长（快速构建：察言观色。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.5UMGjo1Z8RgXJrIQ]{乞丐 - 导火索事件}</p>",
+      "advancements_z9bfJHaWzP3oVcoq_name": "传闻技能",
+      "advancements_z9bfJHaWzP3oVcoq_description": "",
+      "advancements_jOlCbtUnt7d6rft6_name": "探索技能",
+      "advancements_jOlCbtUnt7d6rft6_description": "",
+      "advancements_zePZopp9csJF7e5F_name": "社交技能",
+      "advancements_zePZopp9csJF7e5F_description": "",
+      "advancements_HaAwDgN2tmfgrSEy_name": "两种语言",
+      "advancements_HaAwDgN2tmfgrSEy_description": "",
+      "advancements_I3Of5vFcJc2dmJmd_name": "专长",
+      "advancements_I3Of5vFcJc2dmJmd_description": "<p>一项人际专长（<em>快速构建：</em> 察觉破绽。）</p>"
+    },
+    "Can't Take Hold": {
+      "name": "无法掌控",
+      "description": "<p>你与自然世界的联系使你能够抵抗某些超自然效应。你忽略由魔法和灵能能力创造的临时困难地形。此外，当你被魔法或灵能能力强制移动时，你可以将强制移动距离减少1。</p>"
+    },
+    "Fearless": {
+      "name": "无畏",
+      "description": "<p>勇气是你所知的一切。你无法被惊吓。</p>"
+    },
+    "Minor Acceleration": {
+      "name": "次级加速",
+      "description": ""
+    },
+    "Performer": {
+      "name": "演者",
+      "description": "<p>你的歌唱、表演或舞蹈技艺足以让人们愿意为此付费。想象一下吧！在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你表演的风格是怎样的？</p></li><li><p>你最出名的是哪首歌、哪个角色或哪支舞蹈？</p></li><li><p>你的职业生涯是在同一个地方表演，还是四处巡演？</p></li><li><p>你是剧团的一员，还是单人表演者？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 音乐或表演技能（来自人际技能组），以及人际技能组中的另外两项技能（快速构建建议：调情、音乐、表演。）</p><p><strong>声望：</strong> +2</p><p><strong>专长：</strong> 一项人际专长（快速构建建议：和声者。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.LFVKEppn81QOu1Sc]{表演者 - 导火索事件}</p>",
+      "advancements_BQUPYxKX6bSAwYoI_name": "技能（音乐或表演）",
+      "advancements_BQUPYxKX6bSAwYoI_description": "",
+      "advancements_yYFe8XjqnCuq0arQ_name": "两项技能（人际交往）",
+      "advancements_yYFe8XjqnCuq0arQ_description": "",
+      "advancements_WVygUyuzVToTgz0b_name": "专长",
+      "advancements_WVygUyuzVToTgz0b_description": "<p>一项人际专长（<em>快速构建：</em> 调和者。）</p>"
+    },
+    "Four-Armed Martial Arts": {
+      "name": "四臂格斗术",
+      "description": "<p>你的多条手臂让你能同时处理多项任务。每当你对相邻生物使用擒抱或击退战技时，你可以额外以另一个相邻生物为目标，并对两个目标使用相同的威能骰。此外，你最多可以同时擒抱两个生物。</p>"
+    },
+    "Farmer": {
+      "name": "农夫",
+      "description": "<p>你曾种植作物或照料牲畜。在定义你的职业时，思考以下问题：</p><ul><li><p>你耕种的土地是属于自己的，还是为他人耕作？</p></li><li><p>你种植了何种作物或饲养了何种牲畜？</p></li><li><p>还有谁与你一同在农场劳作？</p></li><li><p>你目睹了何种不祥之兆，导致你经历了一个歉收的农季？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 驯兽技能（来自人际技能组），以及两项探索组技能（快速构建推荐：驾驶、驯兽、举重。）</p><p><strong>语言：</strong> 一门语言</p><p><strong>项目点数：</strong> 120</p><p><strong>专长：</strong> 一项探索专长（快速构建推荐：怪物低语者。）</p><h5>触发事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.EEQEZpfF5fhQwpTx]{农夫 - 触发事件}</p>",
+      "advancements_ks8kBCdyjEtBmfjT_name": "驯养动物技能",
+      "advancements_ks8kBCdyjEtBmfjT_description": "",
+      "advancements_4JRR64LO3FX3PYJl_name": "2个技能（探索）",
+      "advancements_4JRR64LO3FX3PYJl_description": "",
+      "advancements_OvDXYfqUJ9TMgIkd_name": "",
+      "advancements_OvDXYfqUJ9TMgIkd_description": "",
+      "advancements_9irT21rReWy51aje_name": "专长",
+      "advancements_9irT21rReWy51aje_description": "<p>一项探索特长（<em>快速构筑：</em>怪物低语者。）</p>"
+    },
+    "Glamor of Terror": {
+      "name": "恐怖魅影",
+      "description": "<p>当敌人攻击时，你逆转魅影的魔力，将恐惧注入其心中。每当你受到一个生物造成的伤害时，你可以使用一个触发动作，使该生物对你陷入恐惧状态，直至其下一回合结束。</p>"
+    },
+    "Former Life": {
+      "name": "前世",
+      "description": "<p>选择你死亡前所属的种族。你的体型为该种族的体型，且你的速度为5。除非你选择一项前世特质（见下文），否则你不会获得原始种族的任何其他种族特质。</p>"
+    },
+    "Bloodfire Rush": {
+      "name": "血火奔涌",
+      "description": "<p>流淌在你血管中的魔力使你在激战中跑得更快。在任何战斗轮中首次受到伤害时，你的速度获得+2加值，持续至该轮结束。</p><p>@UUID[Compendium.draw-steel.origins.Item.y1I1Gf3KcQ7WK9TE.ActiveEffect.pXrWXXx7phI4pFkI]</p>"
+    },
+    "Soldier": {
+      "name": "士兵",
+      "description": "<p>在你成长的岁月里，你曾在与敌对势力的冲突和战役中不懈奋战。在定义你的职业生涯时，请思考以下问题：</p><ul><li><p>你曾在哪支军队和哪个连队服役？</p></li><li><p>你参与了哪些冲突？</p></li><li><p>你达到了什么军衔？</p></li><li><p>在激烈的战斗中，你曾有过哪些英勇事迹？</p></li></ul><p>你获得以下职业收益：</p><p><strong>技能：</strong> 从探索技能组中选择一项技能，并从谋略技能组中选择一项技能（快速构建：警觉，耐力。）</p><p><strong>语言：</strong> 两种语言</p><p><strong>声望：</strong> +1</p><p><strong>专长：</strong> 一项探索专长（快速构建：团队协作。）</p><h5>导火索事件</h5><p>@UUID[Compendium.draw-steel.tables.RollTable.hVK7CxZv0jW1gmu3]{士兵 - 导火索事件}</p>",
+      "advancements_V8CodbJBID0xVDtR_name": "探索技能",
+      "advancements_V8CodbJBID0xVDtR_description": "",
+      "advancements_oViST8ZDfKp0UKfc_name": "密谋技能",
+      "advancements_oViST8ZDfKp0UKfc_description": "",
+      "advancements_69AHOn85TSUwc2JK_name": "双语",
+      "advancements_69AHOn85TSUwc2JK_description": "",
+      "advancements_2l0eIkltgaCcuYoC_name": "专长",
+      "advancements_2l0eIkltgaCcuYoC_description": "<p>一项探索特长（<em>快速建造：</em>团队协作。）</p>"
+    },
+    "Criminal gang": {
+      "name": "犯罪团伙",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_vcoZK9Y2snBVct3Q_name": "都市",
+      "advancements_vcoZK9Y2snBVct3Q_description": "",
+      "advancements_DaPOw7r54v3gwi66_name": "公共",
+      "advancements_DaPOw7r54v3gwi66_description": "",
+      "advancements_I6WJLsH6socimoNY_name": "不法之徒",
+      "advancements_I6WJLsH6socimoNY_description": ""
+    },
+    "Mercenary band": {
+      "name": "佣兵团",
+      "description": "",
+      "advancements_anyLang000000000_name": "通晓语言",
+      "advancements_anyLang000000000_description": "<p>你通晓所选文化的语言。</p>",
+      "advancements_NytOBOONMRE7ata0_name": "游牧者",
+      "advancements_NytOBOONMRE7ata0_description": "",
+      "advancements_Hteuncn7X1VpYDHk_name": "官僚",
+      "advancements_Hteuncn7X1VpYDHk_description": "",
+      "advancements_p95yKfG4JUxDhVGU_name": "武僧",
+      "advancements_p95yKfG4JUxDhVGU_description": ""
+    }
+  }
+}

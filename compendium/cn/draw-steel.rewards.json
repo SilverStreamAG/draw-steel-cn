@@ -1,0 +1,1486 @@
+{
+  "label": "DRAW_STEEL.COMPENDIUM.rewards",
+  "mapping": {
+    "description": "system.description.value"
+  },
+  "folders": {
+    "3Jr2Z1HtiMM7GURB": "3Jr2Z1HtiMM7GURB",
+    "5EH4VZFScdM4Vttp": "5EH4VZFScdM4Vttp",
+    "5KJmrjbJfvNBgjYp": "5KJmrjbJfvNBgjYp",
+    "94Zc19TBJw1ywAr0": "94Zc19TBJw1ywAr0",
+    "BENe8K7l3sgJhHyY": "BENe8K7l3sgJhHyY",
+    "GbJ95cA5I5QZ4Sz5": "GbJ95cA5I5QZ4Sz5",
+    "JxrTEKmxn4nQygxm": "JxrTEKmxn4nQygxm",
+    "M0xNtYu0IzR83TAL": "M0xNtYu0IzR83TAL",
+    "T4atnhMHm4PGlGhs": "T4atnhMHm4PGlGhs",
+    "UsDpUuVhaw2YbYFj": "UsDpUuVhaw2YbYFj",
+    "XMfrqjoLyY6P6KWl": "XMfrqjoLyY6P6KWl",
+    "XSiTcTleGKKWNgo2": "XSiTcTleGKKWNgo2",
+    "boCFMPsgL0Py8wzo": "boCFMPsgL0Py8wzo",
+    "d4ZRwtKptm3Rr4F6": "d4ZRwtKptm3Rr4F6",
+    "lZSJmajXEs1EPrmq": "lZSJmajXEs1EPrmq",
+    "qFlhvqluapVc3bpR": "qFlhvqluapVc3bpR",
+    "rusZqMj7kWieXI2t": "rusZqMj7kWieXI2t",
+    "ttkxHDNXcwxXS5j5": "ttkxHDNXcwxXS5j5",
+    "vR0BEmuoYF6xlg6J": "vR0BEmuoYF6xlg6J",
+    "vp0GIthFN6mKcMWF": "vp0GIthFN6mKcMWF"
+  },
+  "entries": {
+    "Stink of Magic": {
+      "name": "魔法恶臭",
+      "description": "<p>作为一项战技，你开启感知以探查魔法的残留。直到你的下一回合结束，你能感知到5格内的每个生物是否为构装体、亡灵或来自其他世界的生物，以及它们在过去一小时内是否使用过魔法能力。此外，你不会被构装体、亡灵或来自其他世界的生物突袭。</p>"
+    },
+    "Necklace of the Bayou": {
+      "name": "沼泽项链",
+      "description": "<p><em>一顶陈旧的皮革头环上，悬挂着一枚蜥蜴形状的腐朽木制吊坠。</em></p><p><strong>效果：</strong>当你佩戴这条项链时，你可以在水下呼吸，移动时可自动以全速游泳，并且无视由水、沼泽或类似地形造成的困难地形。</p>"
+    },
+    "Boffin": {
+      "name": "博学家",
+      "description": "<p>你获得一个名为“博芬”的小型魔法间谍装置。每次遭遇一次，你可以以一个移动动作激活一项博芬特性。</p><p><strong>博芬特性</strong></p><p>选择博芬益处后，你可以将以下博芬特性作为移动动作使用：</p><ul><li><p>进行一次使用易容技能的检定。你在该检定中获得优势。</p></li><li><p>你触碰的一把普通锁被解锁。</p></li><li><p>选择一个10格内的方格，即使你对其没有效果线。你可以如同身处该方格一般观察其周围区域。</p></li><li><p>你将博芬投掷至最多10格外，它会在一个5立方格区域内爆炸。区域内的每个生物受到等于2d10 + 你等级的火伤害。博芬被永久摧毁，但可由你的间谍主管更换……尽管他们不喜欢太频繁地这么做。</p></li></ul>"
+    },
+    "Monster Soother": {
+      "name": "怪物安抚者",
+      "description": "<p>你在安抚或驯服非智慧生物时进行的检定获得优势。</p>"
+    },
+    "Prismacore Eyes": {
+      "name": "棱镜核心之眼",
+      "description": "<p>接触棱镜核心使你的眼睛呈现出镜面般的光泽。你获得10点心灵免疫，除非你允许，否则生物无法使用魔法或灵能能力或其他效果来确定你的位置或读取你的思想，并且你在对抗魔法或灵能能力时获得+3的稳定性加值。</p>"
+    },
+    "Spy Faction": {
+      "name": "间谍阵营",
+      "description": "<p>你找到一位能为你提供三则关于当前定居点信息的线人，例如某个隐藏人物的位置、进入守卫区域的秘密通道，或是重要人物的谈判动机或弱点。</p>"
+    },
+    "Buzz Balm": {
+      "name": "蜂鸣膏",
+      "description": "<p><em>这种清凉的橙色药膏暴露在空气中时会发出噼啪作响的声音。</em></p><p><strong>效果：</strong>作为一次战技动作，你将药膏涂抹在身上，感受它在皮肤上产生刺痛感。你立即终止自己身上的流血与虚弱状态，并且直到你的下一回合开始前，你的速度获得+2加值。</p>"
+    },
+    "Work the Crowd": {
+      "name": "调动观众",
+      "description": "<p>当你的任意盟友正在演奏音乐或进行表演时，你在藏匿物品、躲藏、扒窃或潜行时进行的检定获得优势。</p>"
+    },
+    "Heedless Pursuer": {
+      "name": "轻率追猎者",
+      "description": "<p>在你的每个回合中一次，你可以使用一个自由动作对自己造成[[/damage 1d6]]点伤害，此伤害无法以任何方式减免。当你这样做时，你忽略困难地形，并且可以将你进行的任何跳跃距离增加1格，这两个效果均持续到你的回合结束。</p>"
+    },
+    "Bottled Paradox": {
+      "name": "瓶装悖论",
+      "description": "<p><em>液体在切割玻璃瓶中不断旋动，触感冰冷如冰。</em></p><p><strong>效果：</strong>作为一次战技，你可以饮下这瓶药水或将其投掷至多10格。若你饮下它，选择你在过去一分钟内进行的一次检定，然后重复重掷该检定直至结果改变。若药水被投掷，它会形成一个3立方格的闪烁魔法区域。过去一分钟内发生在该区域的任何事件，将由主持人全权决定如何改变。随后能量消散。</p>"
+    },
+    "Slippery": {
+      "name": "滑溜",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你不会被违背意愿地擒抱。</span></p>"
+    },
+    "Elemental Dabbler": {
+      "name": "元素涉猎者",
+      "description": "<p><strong>效果：</strong>选择一种被击败生物所免疫的伤害类型（例如火焰）。然后选择以下一项增益：</p><ul><li><p><em>元素轰击者：</em> @Embed[Compendium.draw-steel.rewards.Item.Sy658JkqFbzyqu08 inline]</p></li><li><p><em>元素免疫：</em> @Embed[Compendium.draw-steel.rewards.Item.C70d0Ct9cYcCOSlj inline]</p></li><li><p><em>元素武器：</em> @Embed[Compendium.draw-steel.rewards.Item.XBaTN8xnIARv08OK inline]</p></li></ul>",
+      "advancements_Ulq7GBLmQxrpnasm_name": "Benefit",
+      "advancements_Ulq7GBLmQxrpnasm_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Retinue": {
+      "name": "随从",
+      "description": "<p>你可以招募的追随者数量增加两名。</p>"
+    },
+    "Gift of Charm": {
+      "name": "魅力赠礼",
+      "description": "<p>你从人际技能组中选择一项技能。</p>",
+      "advancements_2UKeICzTvqf6b0VC_name": "Interpersonal Skill",
+      "advancements_2UKeICzTvqf6b0VC_description": ""
+    },
+    "Worshippers": {
+      "name": "崇拜者",
+      "description": "<p>你神奇地听到了指向你的祈祷。</p>"
+    },
+    "Diabolist": {
+      "name": "恶魔术士",
+      "description": "<p><strong>效果</strong>：选择下列一项增益：</p><ul><li><p><em>魔鬼学识</em>：</p><p>你通晓安贾利语，对此语言的领悟助你创造出难以抗拒的超自然效果。你以理性、直觉或存在为目标的魔法或灵能效价提升1点。</p></li><li><p><em>炼狱传承</em>：</p><p>你获得3点先祖点数，可用于购买魔鬼先祖特质（见第三章）。</p></li><li><p><em>狡黠魔裔</em>：</p><p>你获得魔鬼先祖的“银舌”标志性特质。</p></li><li><p><em>不染腐化</em>：</p><p>每当你使用造成伤害的能力时，该能力可造成神圣伤害而非其原本伤害类型。</p></li></ul>",
+      "advancements_17ksNIFYZsulTTdB_name": "Benefit",
+      "advancements_17ksNIFYZsulTTdB_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Scannerstone": {
+      "name": "扫描石",
+      "description": "<p><em>这块扁平、手掌大小的三角形石头上装饰着由微小宝石构成的星图。</em></p><p><strong>效果：</strong>当将其紧贴墙壁或其他厚度不超过1格的固体表面时，扫描石会在其旁边的空中生成一幅图像，粗略地展示该表面另一侧空间的微型概貌。图像会显示地板、墙壁和其他障碍物，但不会显示其他物体。它会展示另一侧任何移动生物的轮廓，但静止的生物则不会显现。</p>"
+    },
+    "Rare Books": {
+      "name": "稀有书籍",
+      "description": "<p>你将稀有的古籍添入收藏。每当你进行一项研究项目时，为你所掌握的每一种已消亡的语言投掷 [[/roll 1d6]]，并将总和加入项目检定。</p>"
+    },
+    "Royal Wealth": {
+      "name": "皇家财富",
+      "description": "<p>你获得2点财富。</p>"
+    },
+    "Holy Weapon": {
+      "name": "神圣武器",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你拥有一份由导演选择的等级化宝藏。</span></p>"
+    },
+    "Battleaxe Diplomat": {
+      "name": "战斧外交官",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>丝绒手套中的铁腕：</em> @Embed[Compendium.draw-steel.rewards.Item.zHBAOdtaV4sHhwoZ inline]</p></li><li><p>休战！： @Embed[Compendium.draw-steel.rewards.Item.F8UggFqob4bHpBny inline]</p></li><li><p><em>战士的领悟：</em> @Embed[Compendium.draw-steel.rewards.Item.jshXFQZqSrcgbMZJ inline]</p></li></ul>",
+      "advancements_r0hoBc4GUWTI6M52_name": "Benefit",
+      "advancements_r0hoBc4GUWTI6M52_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Timesplitter": {
+      "name": "时间裂痕",
+      "description": "<p><em>初次触碰时，这枚尖刺水晶会发出悦耳的鸣响。</em></p><p><strong>效果：</strong>作为一次战技，你使用时光裂片进行一次远程自由打击，该物品在命中时碎裂。此次打击额外造成 [[/damage 1d6 psychic]] 伤害，并根据威能骰的阶位结果添加以下效果：</p><dl class=\"power-roll-display\"><dt class=\"tier1\"><p>！</p></dt><dd><p>目标和其周围3格内的每个生物受到 [[/apply slowed save]]。</p></dd><dt class=\"tier2\"><p>@</p></dt><dd><p>目标和其周围5格内的每个生物被 [[/apply slowed save]]。</p></dd><dt class=\"tier3\"><p>#</p></dt><dd><p>目标和其周围8格内的每个生物被 [[/apply slowed save]]。</p></dd></dl>"
+    },
+    "Telemagnet": {
+      "name": "远程磁铁",
+      "description": "<p><em>一根由交错节段构成的短铁杖，其接缝处正渗出油腻的黑油。</em></p><p><strong>效果：</strong>作为一个战技动作，你将此魔杖折断为两半，从而能根据目标体型，将一个体型3或更小的物体或生物垂直向上拉动一定格数：</p><ul><li><p><strong>体型1L或更小：</strong>垂直拉动6格</p></li><li><p><strong>体型2：</strong>垂直拉动3格</p></li><li><p><strong>体型3：</strong>垂直拉动1格</p></li></ul><p>若你将一个体型1T的物体拉至与你相邻，你可以接住它。</p>"
+    },
+    "Mask of the Many": {
+      "name": "千面之具",
+      "description": "<p><em>一张朴素的白色面具内衬着柔软的黑天鹅绒——隐约散发着血腥味。</em></p><p><strong>效果：</strong>当你佩戴此面具时，你可以使用一个战技变形成你曾见过的任何同等体型的人形生物。该人形生物的外观反映为你最后一次见到他们时的模样，包括他们当时所穿的任何衣物。你的衣物和装备会根据你的决定，转化为该人物的衣物和装备、被吸收进你的身体、或保持其原始形态。若你最后一次见到该人物时他们拥有任何财宝，这些财宝会在你变形期间被复制为普通的仿制品。</p>"
+    },
+    "Bloody Murder": {
+      "name": "血腥谋杀",
+      "description": "<p>当你以一次打击对生物造成掷骰伤害时，你可以承受[[/damage @level]]{等同于你等级的伤害}，以对该生物造成两倍的[[/damage 2*@level type=corruption]]{腐化伤害}。你因本称号承受的伤害无法以任何方式减免。每项能力你只能使用此增益一次。若该生物因腐化伤害生命值降至0，该生物将爆裂成一片血雨，并且你[[/heal @level]]{恢复}所损失的生命值。你不能对没有血液的生物（例如构装体、元素生物或不死生物）使用此增益。</p>"
+    },
+    "Music of the Spheres": {
+      "name": "天球乐章",
+      "description": "<p>作为一个主要动作，你吟唱或奏响一个如玻璃般精致锋利——也如玻璃般易碎的音符。直到你的下一回合开始前，每当10格内的一个生物发动攻击时，其受到 [[/damage 8 sonic]] 伤害。在同一期间，每当你发动攻击时，你也会受到 [[/damage 8 sonic]] 伤害。</p>"
+    },
+    "Lachomp Tooth": {
+      "name": "拉科姆普之牙",
+      "description": "<p><em>这颗拇指大小的锯齿状牙齿在每次被持握时，总能在某种程度上划伤你的血肉。</em></p><p><strong>效果：</strong>作为一次战技，你将一颗拉啃兽之牙附着在一件武器上，使该武器能够超自然地于现实之中闪烁进出。你下一次使用该武器的攻击可以撕裂一条直线上的多个目标（远程攻击）或你周围的多个目标（近战攻击）。此次攻击为威力骰的阶级结果添加以下效果：</p><ul><li><strong>≤11：</strong> 此次攻击可额外影响一个目标。</li><li><strong>12-16：</strong> 此次攻击最多可额外影响三个目标。</li><li><strong>17+：</strong> 此次攻击最多可额外影响七个目标。</li></ul>"
+    },
+    "Trained Crewmember": {
+      "name": "训练有素的船员",
+      "description": "<p>你在操控空中或海上载具时进行的检定获得优势。</p>"
+    },
+    "Blessed Weapons": {
+      "name": "祝福武器",
+      "description": "<p>每当你使用造成伤害的武器能力时，该能力可以造成神圣伤害而非其通常的伤害类型。</p>"
+    },
+    "I Know How to Talk to These People": {
+      "name": "我懂如何与这些人交谈",
+      "description": "<p>当你与王室成员、贵族及其封建随从互动时，只要他们知晓你的贵族身份，你在进行风度检定时会获得优势。</p>"
+    },
+    "Champion Competitor": {
+      "name": "冠军竞争者",
+      "description": "<p><strong>效果</strong>：竞赛期间使用的一项属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>顶尖之选：</em></p><p>选择一项你在竞赛中使用的技能。使用该技能进行检定时，获得+4加值而非+2加值。</p></li><li><p><em>荣耀与财富：</em></p><p>你获得2点声望与1点财富。</p></li><li><p><em>我只拿奖品：</em></p><p>你获得导演选定的一件奇物或符合等级的宝藏。</p></li></ul>",
+      "advancements_nOtiB220IO8YLlzh_name": "Benefit",
+      "advancements_nOtiB220IO8YLlzh_description": "<p>Choose one of the following benefits:</p>",
+      "advancements_DFmA3DBKCrWWnGaV_name": "",
+      "advancements_DFmA3DBKCrWWnGaV_description": "<p>A characteristic used during the competition increases by 1 (to a maximum of 6).</p>"
+    },
+    "Devil’s Opera": {
+      "name": "魔鬼歌剧",
+      "description": "<p style=\"box-sizing:border-box;margin:0.5rem 0px;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">你拥有以下能力，可使用你职业的英雄资源来支付其消耗。</p><p><br class=\"Apple-interchange-newline\" /></p>",
+      "advancements_9TlvCeP4iKBLDUAW_name": "",
+      "advancements_9TlvCeP4iKBLDUAW_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">You have the following ability.</span></p>"
+    },
+    "Street Smart": {
+      "name": "街头智慧",
+      "description": "<p>身处定居点时，你无法被突袭。</p>"
+    },
+    "Ship Captain": {
+      "name": "舰长",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>深海潜水员：</em> @Embed[Compendium.draw-steel.rewards.Item.pBygpYvbzBFDs263 inline]</p></li><li><p><em>船舶通言者：</em> @Embed[Compendium.draw-steel.rewards.Item.8anYwrax0us03QQ4 inline]</p></li><li><p><em>信号旗：</em> @Embed[Compendium.draw-steel.rewards.Item.zxayDQotMxxDVOB8 inline]</p></li><li><p><em>训练有素的船员：</em> @Embed[Compendium.draw-steel.rewards.Item.3memy7osKWlHsDXD inline]</p></li></ul>",
+      "advancements_krgNuLEQi6PGMcOZ_name": "Benefit",
+      "advancements_krgNuLEQi6PGMcOZ_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Everybody Move!": {
+      "name": "全体移动",
+      "description": "<p>当你使用击退战技时，你可以额外指定一个与你体型相当的生物或两个更小的生物作为目标。</p>"
+    },
+    "Personal Effigy": {
+      "name": "个人雕像",
+      "description": "<p><em>这个微小的人形雕像栩栩如生得令人不安，且触感总是温热的。</em></p><p><strong>效果：</strong>个人雕像被制作成描绘与其绑定的特定人形生物，并仅在该生物死亡后的第一分钟内激活。当你位于雕像所绑定生物的遗骸5格范围内时，你可以使用一个战技手动点燃并焚烧雕像，使该生物复活。该生物将以等同于其喘息值的耐力值复活，并获得 [[/heal 10 temp]]，此效果持续至其下次休整结束。若该生物死亡时间超过1分钟，则其保持死亡状态，且雕像会化为尘埃。</p>"
+    },
+    "Noble": {
+      "name": "贵族",
+      "description": "<p><strong>效果</strong>：选择以下一项增益：</p><ul><li><p><em>我懂得如何与这些人交谈：</em></p><p>在与王室、贵族及其封臣互动时，若对方知晓你的贵族头衔，你在进行风度检定时获得优势。</p></li><li><p><em>贵族威仪：</em></p><p>你获得1点名望与1点财富。</p></li><li><p><em>随从：</em></p><p>你可招募的追随者数量增加两名。</p></li></ul><p><strong>特殊</strong>：若你接受此头衔，可能偶尔需要为授予你贵族爵位的人履行义务。</p>",
+      "advancements_Hp9O3kwDosikS0Se_name": "Benefit",
+      "advancements_Hp9O3kwDosikS0Se_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Doomed": {
+      "name": "厄运",
+      "description": "<p><strong>效果：</strong>你并非注定要死得其所，但仍可能达成此境。当你耐力降至0点但保持清醒时，你可以选择陷入绝境。若如此做，你将无法恢复耐力，所有检定与威能骰自动获得三级结果，且直至耐力值降至负的最大耐力值之前你都不会死亡。遭遇结束时，你将死亡。</p>"
+    },
+    "Up the Beanstalk": {
+      "name": "爬上豆茎",
+      "description": "<p>你拥有攀爬技能。若你已掌握此技能，则改为在运用攀爬技能进行检定时获得双倍助益。当你攀附在生物体表时，该生物对你发动的攻击检定承受双倍厄运，而你为保持在生物体表进行的检定获得双倍助益。</p>",
+      "advancements_lalH70w4bhh5zeoj_name": "Skill",
+      "advancements_lalH70w4bhh5zeoj_description": "<p>You have the Climb skill.</p>"
+    },
+    "Unstoppable": {
+      "name": "势不可挡",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>来自地狱之心：</em> @Embed[Compendium.draw-steel.rewards.Item.O6AXWZ405nHBVrAl inline]</p></li><li><p><em>狂怒攻击：</em> @Embed[Compendium.draw-steel.rewards.Item.txPBLglfdKzToYkI inline]</p></li><li><p><em>狂怒冲锋：</em> @Embed[Compendium.draw-steel.rewards.Item.PaQf2mla3P02MUPj inline]</p></li></ul>",
+      "advancements_AuQFyFJvXeeV68Zq_name": "Benefit",
+      "advancements_AuQFyFJvXeeV68Zq_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Learn From a Master - Hone Ability": {
+      "name": "师从大师——磨砺技艺",
+      "description": "<p>当你寻求向一位大师学习时，你需要选择希望达成的目标以及从中获得的收益。导演会告诉你这位大师或其遗留的资料能否教你想要学习的内容。</p><h4>精进能力</h4><p>你提升所选一项能力的效力。可选择为该能力增加+1/+1/+1伤害加值，或将一项远程能力的射程提高2点。一项能力只能以此方式精进一次。</p>"
+    },
+    "Arcane Improvisation": {
+      "name": "奥能即兴",
+      "description": "<p>当你使用造成伤害的魔法标志性能力时，你可以将其伤害类型更改为强酸、冷冻、腐化、火焰、闪电、毒素或音波伤害。</p>"
+    },
+    "Learn From a Master - Acquire Ability": {
+      "name": "师从大师——习得能力",
+      "description": "<p>当你寻求向一位大师学习时，你需要选择希望达成的目标以及从中获得的收益。导演会告知你这位大师或其遗留的资料是否能教会你想学的内容。</p><h4>获取能力</h4><p>你获得所选大师职业的一项标志性能力（若大师与你同职业，则获得第二项标志性能力）。若大师是战术家，你可以改为获得“即刻打击”能力。同一职业无法再次获得此收益。</p>"
+    },
+    "Dwarven Legionnaire": {
+      "name": "矮人军团士兵",
+      "description": "<p><strong>效果：</strong>选择下列一项增益：</p><ul><li><p><em>密集阵型：</em> @Embed[Compendium.draw-steel.rewards.Item.vpmTDHnzrws6UHPH inline]</p></li><li><p><em>警报符文：</em> @Embed[Compendium.draw-steel.rewards.Item.g3k7k1oz21FTkaAd inline]</p></li><li><p><em>石融术：</em> @Embed[Compendium.draw-steel.rewards.Item.sE9uf0HEr99a6Bsq inline]</p></li></ul>",
+      "advancements_IC5Rm5TQgEg8whvH_name": "Benefit",
+      "advancements_IC5Rm5TQgEg8whvH_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Undead Slain": {
+      "name": "亡灵杀手",
+      "description": "<p><strong>效果：</strong>在被击杀1分钟后，你以等同于你力竭值的耐力值复活。你获得等同于你等级的腐化抗性，并根据击杀你的生物类型获得以下一项增益。若你再次死亡，你将作为亡灵生物复活，并受导演控制。</p><p><em>食尸鬼或吸血鬼：</em> @Embed[Compendium.draw-steel.rewards.Item.WS1B3MGw2rH2bRPI inline]</p><p><em>虚体亡灵：</em> @Embed[Compendium.draw-steel.rewards.Item.mvuoYZOsSsROKoCa inline]</p><p><em>其他实体亡灵：</em> @Embed[Compendium.draw-steel.rewards.Item.XR5YEaWGLpLqWFUY inline]</p>",
+      "advancements_QIP4Yjp5o4xrCvFf_name": "Benefit",
+      "advancements_QIP4Yjp5o4xrCvFf_description": "<p>You gain one of the benefits below, based on the type of creature who killed you.</p>"
+    },
+    "Royal Retinue": {
+      "name": "皇家扈从",
+      "description": "<p>你可以招募的追随者数量增加2名。</p>"
+    },
+    "Shifting Ring": {
+      "name": "移形指环",
+      "description": "<p><em>这枚银色的金属戒指从某些角度观察时会短暂地消失。</em></p><p><strong>效果：</strong>每回合一次，你可以消耗一次移动力来传送最多3格。此外，当你成为任何其他导致你传送的效果的目标时，你可以额外传送最多3格。</p>"
+    },
+    "Ship Speaker": {
+      "name": "船载扬声器",
+      "description": "<p>即使你不在船上，你也能魔法般地知晓由你队伍控制的任何船只的位置。你可以与理解语言的、在你任一艘船上的任何人进行心灵感应交流，且他们能够回应，无论你与船只的距离有多远。</p>"
+    },
+    "Royal Authority": {
+      "name": "皇权",
+      "description": "<p>你国度的居民必须服从你的合法命令，否则将承担后果</p>"
+    },
+    "Local Fame": {
+      "name": "本地声望",
+      "description": "<p>你获得1点声望。</p>"
+    },
+    "Showstopper": {
+      "name": "谢幕",
+      "description": ""
+    },
+    "Foes as Weapons": {
+      "name": "以敌为器",
+      "description": "<p>每当你擒抱一个体型与你相同或更小的生物时，你可以在进行近战武器自由打击时将其用作武器。目标和被擒抱的敌人都将承受此次打击的伤害。</p>"
+    },
+    "Learn From a Master - Improve Control": {
+      "name": "师从大师——提升控制",
+      "description": "<p>当你寻求向一位大师学习时，你需要选择希望达成的目标以及从中获得的收益。导演会告知你这位大师或其遗留的资料能否教会你想学的东西。</p><h4>提升掌控</h4><p>你学会更高效地运用一项英雄能力，使其基础英雄资源消耗降低1点（最低降至1点）。每项能力只能获得一次此收益。</p>"
+    },
+    "Knightly Aegis": {
+      "name": "骑士神盾",
+      "description": "<p>你的耐力上限增加6点。</p>"
+    },
+    "Healing Gift": {
+      "name": "治愈天赋",
+      "description": "<p>你可以使用1级导管特性@UUID[Compendium.draw-steel.abilities.Item.S1KR2X2c81VGQqsO]{治疗恩典}，如同你已消耗了1点虔诚值（见第5章：职业）。一旦你使用了此增益，在获得1次或更多胜利之前，你无法再次使用它。</p>",
+      "advancements_yMPbUhpcw0BRJuEo_name": "Healing Grace",
+      "advancements_yMPbUhpcw0BRJuEo_description": ""
+    },
+    "Quantum Satchel": {
+      "name": "量子背包",
+      "description": "<p><em>这只外观朴素的皮袋以编织金属束带封口，并缀有一枚蛋白石胸针。</em></p><p><strong>效果：</strong>当胸针从此袋取下并置于某个容器或房间时，它会魔法性地将该位置与皮袋纠缠。任何可放入量子行囊的物品都会出现在胸针附近，只需伸手入袋并想象所需物件即可取回。行囊的容量取决于纠缠胸针所在容器或房间的大小。若物品从存放胸针的容器或房间中被移走，则无法通过行囊取回。</p>"
+    },
+    "Drop Your Sword": {
+      "name": "弃剑",
+      "description": "<p>当你使用威吓技能成功通过检定时，你可以使受影响的生物掉落其持有的任何物品。</p>"
+    },
+    "Fleet Admiral": {
+      "name": "舰队上将",
+      "description": "<p><strong>效果</strong>：选择以下一项增益：</p><ul><li><p><em>大副：</em></p><p>你拥有一名海盗随从，例如一名人类战士，由导演从《拔剑：怪物》中选定。该随从的等级提升至你的等级。</p></li><li><p><em>豪侠：</em></p><p>你在移动时可以全速攀爬。</p></li><li><p><em>宝藏保管员：</em></p><p>你获得1点财富。</p></li><li><p><em>气象巫师：</em></p><p>每日一次，你可以花费10分钟不受干扰的时间，魔法性地改变你周围5英里范围内的普通天气。天气随你移动，并持续6小时，或直到你以一个自由动作将其解除。从以下天气类型中选择一种：</p><ul><li><p>无风：风力驱动的船只和技术停止工作。</p></li><li><p>浓雾：能见度降低至6格。</p></li><li><p>强风：风力驱动船只的速度加倍。</p></li><li><p>微风：天气无特殊影响。</p></li><li><p>风暴：无遮蔽的风力驱动船只的船员必须进行一次中等难度的集体理性检定。若失败，船只需要维修，且在维修完成前以半速移动。</p></li></ul></li></ul>",
+      "advancements_zPIIy9vAViJ00vnF_name": "Benefit",
+      "advancements_zPIIy9vAViJ00vnF_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Artillerist": {
+      "name": "炮术士",
+      "description": "<p>使用飞船武器时，你获得+5伤害加值。</p>"
+    },
+    "Elixir of Saint Elspeth": {
+      "name": "圣艾尔丝佩斯灵药",
+      "description": "<p><em>这浓稠的红色液体散发着肉桂的香气。</em></p><p><strong>效果：</strong>当你以机动动作将灵药倾倒在额头上时，它会消失并保护你免受可能伤害身体、心智或灵魂的效果影响。在等同于你当前胜利点数的回合数内，任何以你为目标的敌方能力将自动对你获得一级结果。此外，该能力只能对你造成伤害，使你忽略其其他效果。[[/apply TxlqE4CSc2vjIR1a]]</p>"
+    },
+    "Poor Compensation": {
+      "name": "低劣补偿",
+      "description": "<p>该神器不会消失或以其他方式离去，而是转变为一件小饰品或由导演选择的等级化宝藏，其形状大致与失去的物品相同——例如，千年之刃对应任何魔法剑，权杖对应任何法器，或凡尘之链对应窃喜之环或任何其他项圈。</p>"
+    },
+    "Elemental Immunity": {
+      "name": "元素免疫",
+      "description": "<p>你对所选伤害类型具有等同于你最高属性值的免疫。</p><p><strong>注意：</strong>请调整主动效果以匹配所选元素。</p>"
+    },
+    "Siege Breaker": {
+      "name": "破城者",
+      "description": "<p><strong>效果</strong>：选择下列一项增益：</p><ul><li><p><em>居高临下：</em></p><p>当你因占据高地而获得能力优势时，该能力获得+8伤害加值。</p></li><li><p><em>坚守阵线：</em></p><p>当你位于盟友5格范围内时，你及每个位于你5格范围内的盟友获得+3稳定加值。</p></li><li><p><em>最后守护者：</em></p><p>每当5格范围内的一名盟友耐力降至0时，你获得等同于该盟友等级（若无等级则为1）的临时耐力。若你已拥有此头衔赋予的临时耐力，则你的临时耐力增加等同于本应获得的数值。</p></li></ul>",
+      "advancements_JRgselJ9uN6qBSCF_name": "Benefit",
+      "advancements_JRgselJ9uN6qBSCF_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Marshal": {
+      "name": "元帅",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p><em>看来只能硬闯了：</em> @Embed[Compendium.draw-steel.rewards.Item.EB5ikuk1K1mWgGgc inline]</p></li><li><p><em>鲁莽追猎者：</em> @Embed[Compendium.draw-steel.rewards.Item.0gGxSaqRbYUB0owa inline]</p></li><li><p><em>白银护盾：</em> @Embed[Compendium.draw-steel.rewards.Item.HNBQw08D6M7zIPBI inline]</p></li><li><p><em>训练有素的追踪者：</em> @Embed[Compendium.draw-steel.rewards.Item.iQ2OWlpPxfBulS4B inline]</p></li></ul>",
+      "advancements_RKhC7vAYxgALkJIv_name": "Benefit",
+      "advancements_RKhC7vAYxgALkJIv_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Zombie Slayer": {
+      "name": "僵尸杀手",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p><em>祝福武器：</em> @Embed[Compendium.draw-steel.rewards.Item.3qvFXv4E2xYsGO4G inline]</p></li><li><p><em>神圣健康：</em> @Embed[Compendium.draw-steel.rewards.Item.wap7rUSoxwtmeuQm inline]</p></li><li><p><em>神圣威吓：</em>你获得以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.z0c7kSjXxNuoQiS9]{神圣威吓}</p></li></ul></li></ul>",
+      "advancements_PwjiYDcJEQnjGTRZ_name": "Benefit",
+      "advancements_PwjiYDcJEQnjGTRZ_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Breath of Creation": {
+      "name": "创世之息",
+      "description": "<p><em>一只玻璃瓶中封存着翻腾不息星界等离子风暴。</em></p><p><strong>效果：</strong>当你以机动动作吸入创世气息时，你将被灌注宇宙能量。你获得1点声望，并在相邻方格中创建一个通往新半位面的2号尺寸传送门。该半位面是一个20立方体区域，其形态与凡俗特征由你决定。传送门仅对你和你指定的生物可见，且只有你和这些生物能进入该半位面。当生物移入传送门时，他们将从半位面内部对应的传送门显现，反之亦然。在半位面内创造的物体若被带离则会化为尘埃。</p><p>每当你使用另一份创世气息时，你可以创造一个新的半位面，或扩展你已创造或访问过的半位面。扩展后半位面尺寸增加20，且你将为该半位面创建第二个传送门，其内部存在对应出口。</p>"
+    },
+    "Spend Time With Loved Ones": {
+      "name": "与挚爱共度时光",
+      "description": "<p>通过与久未谋面的挚爱之人共度时光，你重振了自己的精神。你必须能够与这些人交流才能开展此项目或为其进行项目检定。当你完成此项目时，你的耐力上限会提高12+你的等级，直至下次休整结束，且一个月内你无法再开始另一个“与挚爱共度时光”项目。</p>"
+    },
+    "Learn New Skill": {
+      "name": "学习新技能",
+      "description": "<p>当你开始此项目时，从项目来源所授技能中选择一项。项目完成后，你便掌握该技能。</p>"
+    },
+    "Guess It’s the Hard Way Then": {
+      "name": "看来只能硬来了",
+      "description": "<p>当战斗开始且你未被突袭时，在你行动前首次受到伤害时，该伤害减半。</p>"
+    },
+    "Scroll of Resurrection": {
+      "name": "复活卷轴",
+      "description": "<p><em>这份卷轴上铭刻着力量、死亡与生命的符文。</em></p><p><strong>效果：</strong>作为一次休整活动，你反复对一具死亡时间不足一年的生物遗骸吟诵此卷轴内容。该生物的灵魂必须愿意重返生命，卷轴方能生效。若其不愿，你会在开始休整活动时本能地感知到这一点，并可立即中止。卷轴不会被消耗，你可重新开始一次休整活动。若灵魂愿意，该生物将在休整结束时复活，并恢复全部耐力值与半数恢复力。你在休整结束时仅恢复半数恢复力，且卷轴会被消耗。</p>"
+    },
+    "Dragon Blooded": {
+      "name": "龙血后裔",
+      "description": "<p><strong>效果</strong>：选择下列一项增益：</p><ul><li><p><em>龙鳞覆体：</em></p><p>龙心血触及之处，龙鳞自你体表生长。你获得龙骑士传承的\"龙鳞护甲\"标志特性（见第三章）。</p></li><li><p><em>龙血浸染：</em></p><p>你获得3点传承点数，可用于购买龙骑士传承特性。</p></li></ul>",
+      "advancements_y01QFVunAe00Axg2_name": "Benefit",
+      "advancements_y01QFVunAe00Axg2_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Choose one of the following benefits:</span></p>"
+    },
+    "Minion Mower": {
+      "name": "仆从割草机",
+      "description": "<p>当你进行一次以爪牙为目标的近战打击，且至少还有另一名爪牙位于该打击范围内时，该打击获得+3伤害加值。</p>"
+    },
+    "Last Defender": {
+      "name": "最后守护者",
+      "description": "<p>每当5格内的一名盟友生命值降至0时，你获得等同于该盟友等级的临时生命值（若其无等级则获得1点）。若你已拥有此头衔赋予的临时生命值，则你的临时生命值增加等同于本应获得的数值。</p>"
+    },
+    "Gift of Foresight": {
+      "name": "先见馈赠",
+      "description": "<p>抵抗潜能时，你的直觉值被视为比通常高1点。</p>"
+    },
+    "Truce!": {
+      "name": "休战",
+      "description": "<p>你在阻止战斗并开启谈判的检定中具有双重优势。</p>"
+    },
+    "Scarred": {
+      "name": "疤痕",
+      "description": "<p><strong>效果</strong>：你在自选部位获得一道可见的疤痕。此外，你的耐力上限提高20点，并且对你造成疤痕的生物在针对你进行能力检定时承受减益。</p><p><strong>特殊</strong>：此头衔可多次获得。第二次及后续获得时，你的耐力上限不再提高。</p>"
+    },
+    "Gravekeeper’s Lantern": {
+      "name": "守墓人的提灯",
+      "description": "<p><em>这块古老的木板上铭刻着诡异的符文，沾染着暗黑的血迹。</em></p><p><strong>效果：</strong>守墓人之灯可以暂时困住一个非敌对的死者灵魂——可以是虚体不死生物，或是最近30天内死亡生物的游荡灵魂——从而允许你审问它们。困住一个灵魂需要你位于其10格范围内，并作为一个主要动作成功通过一次艰难的直觉检定。一旦灵魂被困住，你需要进行一次风度检定来诱使其回答你的问题：</p><dl class=\"power-roll-display\"><dt class=\"tier1\"><p>!</p></dt><dd><p>你可以向灵魂提出两个问题，其中一个它必须完整且诚实地回答。</p></dd><dt class=\"tier2\"><p>@</p></dt><dd><p>你可以提出三个问题，其中两个它必须完整且诚实地回答。</p></dd><dt class=\"tier3\"><p>#</p></dt><dd><p>你可以提出五个问题，所有问题它都必须完整且诚实地回答。</p></dd></dl><p>被困住的灵魂会在灯笼中留存10分钟。它们会记得被你困住，此后可能会变得敌对。</p>"
+    },
+    "Cloud (Thunderhead)": {
+      "name": "云（雷云）",
+      "description": "<p><em>黑色云雾缭绕的球体中不时窜出细小的闪电弧光。</em></p><p><strong>效果：</strong>作为一次战技动作，你将这枚脆弱的玻璃球投掷至最多5格远，使其碎裂并生成一片3立方格的云雾与闪电区域。云雾将在10分钟后消散，或被风暴或魔法产生的强风穿过该区域时驱散。</p><p>每个生物在战斗轮中首次进入云雾或在其中开始其回合时，受到 [[/damage 5 lightning]] 点伤害。此外，任何处于云雾中的生物都将陷入缓慢状态。</p>"
+    },
+    "Hone Career Skills - Two Skills Career": {
+      "name": "精进职业技能——双技能职业",
+      "description": "<p>你重温前世经历，以重新汲取它曾赋予你的经验。当此项目完成时，你在使用自身职业所提供的技能进行检定时将获得优势。</p>"
+    },
+    "Stygian Liquor": {
+      "name": "冥河醇酒",
+      "description": "<p><em>这杯浑浊的棕褐色威士忌散发着泥煤与死亡的气息。</em></p><p><strong>效果：</strong>当你以机动动作饮下此药水后，你将获得在24小时内顽强求生的意志。在此期间若你处于濒死状态，你将在生命值降至负的耐力最大值（而非你的气喘值）时才会死亡。此外，当处于濒死状态时，你在力量检定上获得优势，且由流血状态造成的伤害减半。药水的魔法效果一旦触发，将在你脱离濒死状态时终止。[[/apply dM4gyymAwC0uXhKq]]</p>"
+    },
+    "Kill Me Once, Shame On You": {
+      "name": "杀我一次算你狠",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">选择击败你的生物所属的一个生物关键词。任何拥有该关键词的生物在对你的属性检定中承受减益。</span></p>"
+    },
+    "Blood Essence Vial": {
+      "name": "血之精华瓶",
+      "description": "<p><em>一支脆弱的玻璃管顶端镶嵌着一颗红宝石，通过铰链连接。</em></p><p><strong>效果</strong>：当你对一个相邻且有血液的生物造成伤害时，你可以将目标的生命精华捕获进这个小瓶中（无需动作）。记录你所造成的伤害。你只能在此小瓶中捕获一次生命精华。作为一个机动动作，你可以饮下瓶中之物，恢复等同于所造成伤害一半的耐力。若你在饮用时消耗1点英雄资源，则恢复等同于所造成伤害的耐力。一旦你饮用了瓶中之物，小瓶便会化为尘埃。</p>"
+    },
+    "Insightful Crown": {
+      "name": "洞察王冠",
+      "description": "<p><em>这顶由抛光水晶制成的闪烁头冠，在强烈情绪面前会变幻出万千色彩。</em></p><p><strong>效果：</strong>佩戴此头冠时，你在进行用于读取情绪和辨别说谎的直觉检定时获得优势。若你在读取5格内另一生物情绪的直觉检定中成功，你可以向主持人提出一个关于该生物所知事物的问题，主持人必须如实回答。根据主持人的判断，你可能无法通过此方式触及该生物最深的秘密。</p>"
+    },
+    "Untouched by Corruption": {
+      "name": "未腐化",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">每当你使用造成伤害的能力时，该能力可以造成神圣伤害，而非其通常的伤害类型。</span></p>"
+    },
+    "Telepathy": {
+      "name": "心灵感应",
+      "description": "<p>作为一项战技，你可以与10格内、理解你所知语言的生物进行心灵感应交流。该生物可以在同一战技中通过心灵感应回应。</p>"
+    },
+    "Unchained": {
+      "name": "解放者",
+      "description": "<p><strong>效果</strong>：你选择的<strong>力量</strong>或<strong>敏捷</strong>属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>拜拜了您嘞：</em></p><p>你可以使用一个机动动作，将你自己以及距离你5格范围内的所有自愿盟友，传送至距离你原始起始点10格范围内的新位置。此增益一旦使用，直至你获得1次或更多次胜利后才能再次使用。</p></li><li><p><em>锁匠克星：</em></p><p>每当你进行开锁或破坏束缚的测试时，你无需任何工具且自动获得3级结果。</p></li><li><p><em>滑不留手</em>：</p><p>你无法被违背意愿地擒抱。</p></li></ul>",
+      "advancements_DyOHNc7Sv0eClq9l_name": "",
+      "advancements_DyOHNc7Sv0eClq9l_description": "<p>Your choice of your Might or Agility increases by 1 (to a maximum of 6).</p>",
+      "advancements_5Nd3mCSLPotONEBR_name": "Benefit",
+      "advancements_5Nd3mCSLPotONEBR_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Master of Reels": {
+      "name": "卷轴大师",
+      "description": "<p>每当你对距离你2格或更远的目标造成伤害，且该目标未被强制移动时，你可以将目标拉向你，格数等于你的敏捷、理性或直觉值（任选其一）。</p>"
+    },
+    "Skilled Hands": {
+      "name": "巧手",
+      "description": "<p>你拥有制作技能组中的一项技能，该技能在制作先决条件物品时会被用到。若你已掌握该技能，则改为在使用该技能进行检定时获得优势。此外，你还可以从制作技能组中自选获得第二项技能。</p>",
+      "advancements_loEabcb7bcsX5YLl_name": "",
+      "advancements_loEabcb7bcsX5YLl_description": "<p>You gain up to two skills of your choice from the creation skill group.</p>"
+    },
+    "I Have Just the Book": {
+      "name": "我正好有这本书",
+      "description": "<p>若你在英雄的要塞或其他永久性行动基地启动一项探索学识项目，你将立即获得60点项目进度以推进该项目。若该项目所需进度为60点或更少，你将在10分钟不间断时间内完成该项目，无需使用休整活动。</p>"
+    },
+    "Monster Trophy": {
+      "name": "怪物战利品",
+      "description": "<p>你将击败的生物战利品装饰在装备上。当战利品可见时，你在威吓智慧生物时进行的检定获得优势。</p>"
+    },
+    "Laughs at Locks": {
+      "name": "锁匠之嘲",
+      "description": "<p style=\"box-sizing:border-box;margin:0.5rem 0px;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\"><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">每当你进行开锁或破坏束缚物的检定时，你无需任何工具且自动获得三级结果。</span></p>"
+    },
+    "Calm Heads Prevail": {
+      "name": "冷静头脑占优",
+      "description": "<p>当你进行测试以停止战斗并开始谈判时，你总是获得第3级结果。</p>"
+    },
+    "Corsair": {
+      "name": "海盗",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>炮兵专家：</em> @Embed[Compendium.draw-steel.rewards.Item.BlCIJU6GU7rxJeRM inline]</p></li><li><p><em>黑旗：</em> @Embed[Compendium.draw-steel.rewards.Item.fCln8BrForIarWlk inline]</p></li><li><p><em>凶名昭著：</em> @Embed[Compendium.draw-steel.rewards.Item.h68FL2AJj9YNN7fZ inline]</p></li><li><p><em>恶徒战术：</em> @Embed[Compendium.draw-steel.rewards.Item.IY17esZ0Rhto1tE5 inline]</p></li></ul>",
+      "advancements_794WHA7Yr5V2wtZD_name": "Benefit",
+      "advancements_794WHA7Yr5V2wtZD_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Silver Shield": {
+      "name": "银盾",
+      "description": "<p>你拥有一枚由组织授予的徽章。佩戴它时，你将获得审查者职业的 @UUID[Compendium.draw-steel.abilities.Item.0BbgRsExkr0Iq3PS]{我命为你}特性。当你使用该能力时，除非你拥有\"愤怒\"职业特性，否则无法消耗愤怒值。</p>",
+      "advancements_osjBwUwUoc93whxY_name": "Silver Shield",
+      "advancements_osjBwUwUoc93whxY_description": ""
+    },
+    "Restorative of the Bright Court": {
+      "name": "明廷恢复者",
+      "description": "<p><em>一只装饰华丽的金色小瓶散发着夏雨与淡雅果香的气息。</em></p><p><strong>效果：</strong>当作为战技开启时，此小瓶会迸发成一片多彩光芒的风暴。你及5格内的每位盟友恢复 [[/roll 1d6]] 次复苏。然而，任何使用此宝物的凡人都将引起一位强大精类贵族的注意。</p>"
+    },
+    "Demonic Lore": {
+      "name": "恶魔学识",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你通晓原初克托尔语。此外，当你使用魔法能力造成伤害时，可将该能力的伤害类型转变为神圣伤害。</span></p>",
+      "advancements_vwQ9xevKAG66d5uN_name": "",
+      "advancements_vwQ9xevKAG66d5uN_description": ""
+    },
+    "Renowned Warrior": {
+      "name": "著名勇士",
+      "description": "<p>你获得1点声望。</p>"
+    },
+    "Foresight": {
+      "name": "先见之明",
+      "description": "<p>对抗具有隐蔽状态的生物使用能力时，你不会承受减益效果。</p>"
+    },
+    "Ward Token": {
+      "name": "守卫令牌",
+      "description": "<p><em>这块光滑抛光的石英石摸起来有种奇异的温热感。</em></p><p><strong>效果：</strong>作为一个战技动作，你将此石抛向头顶使其碎裂，粉尘洒落你身。直到遭遇结束，任何以你为目标的敌方能力将承受双倍厄运。[[/apply cVRBmfuEA5hDuM6u]]</p>"
+    },
+    "Divine Vine": {
+      "name": "神藤",
+      "description": "<p><em>一丛翠绿色的藤蔓顶端长着巨大捕蝇草的颚叶。</em></p><p><strong>效果：</strong>作为一次战技，你呼唤伊尔利瑞克的神圣藤蔓，使其从你所在位置延伸最多5格，并将其颚叶附着在一个生物或物体上，从而允许你进行远程擒抱战技。若目标被擒抱，你可以选择保持神圣藤蔓延伸状态、将目标拉至你相邻位置、或将你自身拉至目标相邻位置。神圣藤蔓会持续附着在目标身上，直到它因一次打击而受到伤害、目标挣脱擒抱、或你主动令藤蔓释放目标（无需动作）。</p>"
+    },
+    "Scoundrel Tactics": {
+      "name": "无赖战术",
+      "description": "<p>在船上时，你可以使用以下技能进行检定，以影响最远5英里内、其船员对你拥有效果线的另一艘船只，且进行此类检定时你获得优势。你可以使用易容来隐藏船只的身份或大致类型，使用威吓说服另一艘船的船员逃离或投降，或使用躲藏或潜行让你的船只避免被察觉。</p>"
+    },
+    "Hellcharger Helm": {
+      "name": "地狱火头盔",
+      "description": "<p><em>一顶钢制头盔上嵌有两根弯曲的乌木角，其间飘浮着一簇噼啪作响的火焰羽饰。</em></p><p><strong>效果：</strong>当你佩戴此头盔使用冲锋主要行动时，你的速度获得+5加值，持续至你当前回合结束。冲锋后，无论目标生物体型如何，你都可以将击退战技作为一次自由战技使用。</p>"
+    },
+    "Peace Bringer": {
+      "name": "和平使者",
+      "description": "<p><strong>效果</strong>：你选择的理性或风采属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>冷静致胜：</em></p><p>当你进行停止战斗并开启谈判的检定时，你总是获得三级结果。</p></li><li><p><em>弃械投降：</em></p><p>当你使用威吓技能成功通过检定时，你可使受影响的生物丢弃其持有的任何物品。</p></li><li><p><em>听我一言：</em></p><p>当你参与谈判时，非玩家角色的初始耐心值增加3点（最高不超过5点）。</p></li><li><p><em>万径归和：</em></p><p>当你使用人际技能组中的技能进行检定时，你可选择任意属性作为该检定的判定属性。</p></li></ul>",
+      "advancements_fJiW01SqQZ74kfn7_name": "",
+      "advancements_fJiW01SqQZ74kfn7_description": "<p>Your choice of your Reason or Presence increases by 1 (to a maximum of 6).</p>",
+      "advancements_b7MIWCLrsdUOSSXF_name": "Benefit",
+      "advancements_b7MIWCLrsdUOSSXF_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Demon Slayer": {
+      "name": "鬼灭之刃",
+      "description": "<p><strong>效果：</strong>选择下列一项增益：</p><ul><li><p><em>恶魔学识</em>：</p><p>你知晓原初克索尔语。此外，当你使用魔法能力造成伤害时，可将该能力的伤害类型转变为神圣伤害。</p></li><li><p><em>忘川</em>：</p><p>当你处于气喘状态时，你的攻击获得+5伤害加值。</p></li><li><p><em>齿躯</em>：</p><p>你的身体能在非常规部位萌生利齿。每当生物与你发生物理接触，或在接触你的状态下开始其回合时，你可对其造成5点伤害（无需动作）。</p></li><li><p><em>魂视</em>：</p><p>2格范围内的任何生物都无法对你保持隐蔽。</p></li></ul><p><strong>特殊</strong>：当你进行风度检定且掷出自然骰5或更低时，你将受诅咒在1分钟内仅能用原初克索尔语交流，无论你是否知晓该语言。</p>",
+      "advancements_KD50O0c3qmUSlZJh_name": "Benefit",
+      "advancements_KD50O0c3qmUSlZJh_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Crown Jewels": {
+      "name": "王冠珠宝",
+      "description": "<p>你获得了你所在国度的一件宝物——由局长挑选的一件小饰品。</p>"
+    },
+    "Giant Slayer": {
+      "name": "巨人杀手",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>小人物闪避：</em> @Embed[Compendium.draw-steel.rewards.Item.O80IuKwv6yByv2co inline]</p></li><li><p><em>摔得越重：</em>你拥有以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.u0BvKw2ecNz7Amu4]{摔得越重}</p></li></ul></li><li><p><em>爬上豆茎：</em> @Embed[Compendium.draw-steel.rewards.Item.673az9zZE1tpHFEH inline]</p></li></ul>",
+      "advancements_Hospli7qhzF0LVQw_name": "Benefit",
+      "advancements_Hospli7qhzF0LVQw_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Stellar Knowledge": {
+      "name": "星辰知识",
+      "description": "<p>你获得机械学技能。若你已拥有此技能，则改为在使用该技能进行检定时获得优势。此外，你还获得一件灵能小饰品的物品先决条件与项目来源。</p>",
+      "advancements_PQboAawp029s26L7_name": "",
+      "advancements_PQboAawp029s26L7_description": "<p>You gain the Mechanics skill.</p>"
+    },
+    "Community Service": {
+      "name": "社区服务",
+      "description": "<p>当你启动此项目时，你必须身处一个定居点或其他人群聚集的场所，并且每次为该项目进行项目检定时，你都必须位于同一地点。你可以同时进行多个社区服务项目，但每个项目必须位于不同的社区。</p><p>在进行此项目期间，你为有需要的人提供帮助，例如做零工、辅导生活技能、清洁街道或公共空间、寻找遗失的贵重物品等。导演将根据你所进行的活动决定适用于项目检定的属性。当你完成此项目时，社区中的某人会为感谢你的辛勤工作而赠送一份由导演随机选择的消耗性宝藏。</p>"
+    },
+    "Purified Jelly": {
+      "name": "净化凝胶",
+      "description": "<p><em>这种清澈的糊状物带有苦涩的香气。</em></p><p><strong>效果：</strong>将此药水作为机动动作饮用会使你的皮肤泛起微光，并在颈部或肩部显现出一组微小的鳃。在1小时内，你可以在任何环境中呼吸，并且无视有害气体、蒸汽和吸入性毒药的影响。[[/apply YnDvzepxKk4hFPLb]]</p>"
+    },
+    "Arcane Dampening": {
+      "name": "奥术抑能",
+      "description": "<p>在抵抗魔法能力的效能时，你的属性值被视为比通常高1点。</p>"
+    },
+    "Timely Distraction": {
+      "name": "及时分心",
+      "description": ""
+    },
+    "Pocket Homunculus": {
+      "name": "口袋炼金兽",
+      "description": "<p><em>一个由紧密咬合的钟表齿轮构成的球体，其表面呈现出物品持有者的面容。</em></p><p><strong>效果：</strong>当作为战技激活时，此物品会爆发出一阵强光，你可以悄无声息地移动1格，同时一个与你完全相同的构装体出现在相邻格中。该构装体是一个生物，具有15点耐力，所有属性值为0，速度和稳定值与你相同。它看起来与你毫无区别，但无法使用任何能力。</p><p>当你与构装体之间存在效果线时，你可以用一个战技对其下达心灵感应指令。构装体会尽其所能执行命令。若未收到指令，构装体会模仿你的动作和言语。当你移动时，构装体会跟随你移动，与你保持同步。构装体在1小时后或耐力降至0时会化为尘埃。</p>"
+    },
+    "Easy Marks": {
+      "name": "易伤标记",
+      "description": "<p>当你试图影响你所拯救的社区成员时，在使用人际与权谋技能组中的技能进行检定时获得优势。</p>"
+    },
+    "Planar Voyager": {
+      "name": "位面旅者",
+      "description": "<p><strong>效果</strong>：选择以下一项增益：</p><ul><li><p><em>棱晶核心之眼：</em></p><p>接触棱晶核心使你的眼睛呈现出镜面般的光泽。你获得10点心灵免疫，除非你允许，否则生物无法使用魔法、灵能或其他效果来确定你的位置或读取你的思想，并且你在对抗魔法或灵能能力时获得+3点稳定性加值。</p></li><li><p><em>星辰知识：</em></p><p>你获得机械学技能。若你已拥有此技能，则改为在使用该技能进行检定时获得优势。此外，你获得一件灵能奇物的物品先决条件与项目来源。</p></li><li><p><em>时间掠夺者训练：</em></p><p>你获得2点传承点数，可用于购买时间掠夺者传承特质（见第3章）。</p></li></ul>",
+      "advancements_cYqluesqXgw5ZjCd_name": "Benefit",
+      "advancements_cYqluesqXgw5ZjCd_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Reborn": {
+      "name": "重生",
+      "description": "<p><strong>效果</strong>：某位神明或其他强大存在判定你命不该绝。你的身躯逐渐消散，但24小时后你会在自选地点复活。你恢复所有体能与恢复力，且你选择的直觉或风采属性提升1点（最高不超过6点）。</p><p>此外，从下列增益中选择一项：</p><ul><li><p><em>神圣武器：</em></p><p>你获得一件由主持人指定等级的宝藏。</p></li><li><p><em>一杀之耻：</em></p><p>选择击败你的生物所属的一个生物关键词。任何拥有该关键词的生物对你进行属性检定时承受减益。</p></li><li><p><em>彼岸记忆：</em></p><p>你获得两项自选技能。</p></li></ul><p><strong>特殊</strong>：若哈坎人因使用其末日预兆特质而获得此称号，则失去该特质。</p>",
+      "advancements_ELH4ohTwyqhw1s3T_name": "",
+      "advancements_ELH4ohTwyqhw1s3T_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Your choice of your Intuition or Presence increases by 1 (to a maximum of 6).</span></p>",
+      "advancements_81u9QxRmnHAKUMT2_name": "Benefit",
+      "advancements_81u9QxRmnHAKUMT2_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Choose one of the following benefits:</span></p>"
+    },
+    "Caustic Alchemy": {
+      "name": "腐蚀炼金术",
+      "description": "<p>你可以选择一级暗影学院特性“淬刃”或“烟雾弹”（见第五章：职业）。当你使用该特性时，除非你拥有洞察职业特性，否则无法消耗洞察点。</p>",
+      "advancements_VVuyrRR10btZstOz_name": "Shadow College Feature",
+      "advancements_VVuyrRR10btZstOz_description": "<p>You have your choice of the 1st-level shadow college features Coat the Blade or Smoke Bomb.</p>"
+    },
+    "Gift of Knowledge": {
+      "name": "知识馈赠",
+      "description": "<p>你在使用学识技能组中任何技能进行的测试中获得优势。</p>"
+    },
+    "Spotlight": {
+      "name": "聚光灯",
+      "description": "<p>你魔法般地使10格范围内的一个生物散发出照亮5格的光亮。此光亮持续1分钟，直到该生物距离你超过10格，或你主动解除效果（无需动作）。在被照亮期间，生物无法潜行或躲藏，他们在进行任何隐秘行动时获得一个厄运骰，并在使用领导、音乐或表演技能进行检定时获得一个幸运骰。</p>"
+    },
+    "Special Agent": {
+      "name": "特工",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>智囊：</em> @Embed[Compendium.draw-steel.rewards.Item.09pHWVEpVRCdp0RL inline]</p></li><li><p><em>腐蚀炼金术：</em> @Embed[Compendium.draw-steel.rewards.Item.LJhgtgSEqBN5cftl inline]</p></li><li><p><em>间谍网络：</em> @Embed[Compendium.draw-steel.rewards.Item.jp61vnCOii6K7mYl inline]</p></li></ul>",
+      "advancements_3x8DNthivWG5ZhI2_name": "Benefit",
+      "advancements_3x8DNthivWG5ZhI2_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Flying Circus": {
+      "name": "飞行马戏团",
+      "description": "<p>当你在盟友回合与其相邻时，若其体型与你相同，可使用触发动作将其推动最多2格；若其体型更小，则可推动最多4格。若此次推动导致盟友坠落，其可在坠落前使用一次机动动作，使坠落高度减少2。</p>"
+    },
+    "Color Cloak (Red)": {
+      "name": "色彩斗篷（红色）",
+      "description": "<p><em>这件红色羊毛兜帽斗篷上饰有金色的安嘉利符文，意为“火焰”。</em></p><p><strong>效果：</strong>穿戴时，红色色彩斗篷赋予你等同于你等级数值的火焰免疫。</p><p>此外，当你成为任何造成火焰伤害的效果的目标时，你可以使用一个触发动作将该伤害降为0。若你如此做，此斗篷赋予的火焰免疫将转变为等量数值的火焰弱点，持续至下一轮结束。在此弱点结束前，你无法再次使用此触发动作。</p>"
+    },
+    "Longevity": {
+      "name": "长生",
+      "description": "<p>你的自然寿命翻倍，且可以呈现为任何年龄。</p>"
+    },
+    "First Mate": {
+      "name": "大副",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你拥有一名海盗随从，例如一名人类战士，由主持人从《拔剑：怪物》中选定。该随从的等级提升至你的等级。</span></p>"
+    },
+    "From Hell’s Heart": {
+      "name": "地狱之心",
+      "description": "<p>当你处于气喘状态时，你的近战攻击获得+3伤害加值。</p>"
+    },
+    "Smallfolk Dodge": {
+      "name": "小民闪避",
+      "description": "<p>任何体型为2或更大的生物在对你进行打击时承受一个减益。</p>"
+    },
+    "Arena Fighter": {
+      "name": "竞技场斗士",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>肮脏战斗：</em> @Embed[Compendium.draw-steel.rewards.Item.ho9FsRasEBpzJpKw inline]</p></li><li><p><em>以敌为刃：</em> @Embed[Compendium.draw-steel.rewards.Item.9m9WbPvY8Zp9Hyiw inline]</p></li><li><p><em>瞬间成名：</em> @Embed[Compendium.draw-steel.rewards.Item.o0I6FYoeTIImgEjB inline]</p></li><li><p><em>压轴绝技：</em> 你拥有以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.9lgDcjUifnI66LcS]{压轴绝技}</p></li></ul></li></ul>",
+      "advancements_cR6wobW0pOB8wLWv_name": "Benefit",
+      "advancements_cR6wobW0pOB8wLWv_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Prey": {
+      "name": "掠食",
+      "description": "<p>你们的捕获者计划释放你们并展开追猎，但若你们无法构成挑战就毫无乐趣。你们每人获得一剂药水，使速度获得+1加值并增加2次恢复次数。此效果持续至你们下次休整结束。</p>"
+    },
+    "Missionaries": {
+      "name": "传教士",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你获得了2点声望。</span></p>"
+    },
+    "Bounce Back Fast": {
+      "name": "快速恢复",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">每当你休息8小时或更长时间，你可以获得一次休整的益处。一旦你使用了此益处，在完成一次常规休整之前，你无法再次使用它。</span></p>"
+    },
+    "Flameshade Gloves": {
+      "name": "焰影手套",
+      "description": "<p><em>初次触碰时，这副缝制精良的手套仿佛在虚实之间闪烁不定。</em></p><p><strong>效果：</strong>当你佩戴此手套并使用移动动作时，可在此移动动作中将一只手置于一件普通物体上。若该物体厚度不超过1格且另一侧存在开放空间（例如门或墙壁），你便能将身体穿过该物体，如同其不存在一般。</p><p>若物体过厚或另一侧无开放空间，你的手将卡在物体内部。需以主要动作成功通过一次艰难的力量检定，方可将手抽出。</p>"
+    },
+    "Charge!": {
+      "name": "冲锋",
+      "description": ""
+    },
+    "Furious Charge": {
+      "name": "狂怒冲锋",
+      "description": "<p>当你使用冲锋动作时，作为该动作一部分进行的攻击将获得伤害加值，其数值等于你作为冲锋一部分移动的格子数。</p>"
+    },
+    "Glory and Riches": {
+      "name": "荣耀与财富",
+      "description": "<p>你获得2点声望与1点财富。</p>"
+    },
+    "Swashbuckler": {
+      "name": "游荡剑客",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你在移动时可以全速自动攀爬。</span></p>"
+    },
+    "Hunter’s Oath": {
+      "name": "猎人誓约",
+      "description": "<p>作为主要动作，你对一个位于10格内且具有效果线的生物立下猎手誓约。此誓约持续至目标死亡或你向另一个生物立下猎手誓约为止。只要猎手誓约持续，若目标位于你50英里范围内，你将魔法般地知晓其方向，并且你的伤害性能力对该目标获得+5伤害加值。</p>"
+    },
+    "Godsworn": {
+      "name": "神誓者",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p><em>治愈恩赐：</em> @Embed[Compendium.draw-steel.rewards.Item.BBYXPOpcxmTsFMl8 inline]</p></li><li><p><em>绝境祷言：</em> @Embed[Compendium.draw-steel.rewards.Item.fJnw19oFjOyxnXGP inline]</p></li><li><p><em>神祇触抚：</em> @Embed[Compendium.draw-steel.rewards.Item.ZEunuSHaJXMUQbst inline]</p></li></ul>",
+      "advancements_d9gN2Zc50mtnSnoi_name": "Benefit",
+      "advancements_d9gN2Zc50mtnSnoi_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Nullfield Resonator Ring": {
+      "name": "空域谐振指环",
+      "description": "<p><em>这枚朴素的铜环在手持时会微微振动。</em></p><p><strong>效果：</strong>你必须是一名虚无者才能佩戴此戒指。当你佩戴时，你的虚无力场能力范围增加1。此外，你获得以下能力。@UUID[Compendium.draw-steel.rewards.Item.YlH76FquOwGGYBYS]{虚无之环打击}</p>"
+    },
+    "Polyglot": {
+      "name": "通晓语言",
+      "description": "<p>你通晓两种语言。此外，对你而言，学习新语言项目的目标进度将减半。</p>",
+      "advancements_4eOhgdafyzaFjR5p_name": "Languages",
+      "advancements_4eOhgdafyzaFjR5p_description": "<p>You know two languages.</p>"
+    },
+    "Supporting Player": {
+      "name": "支援玩家",
+      "description": "<p>你在使用风度进行的群体检定以及协助其他生物进行风度检定时获得优势。</p>"
+    },
+    "Sly Devil": {
+      "name": "狡猾恶魔",
+      "description": "<p>你从魔鬼血统中获得银舌标志性特质。</p>",
+      "advancements_MUQyazlm8opB4P0b_name": "Silver Tongue",
+      "advancements_MUQyazlm8opB4P0b_description": ""
+    },
+    "Oh No, You Don’t!": {
+      "name": "休想得逞",
+      "description": "<p>每当相邻生物使用带有魔法关键词的能力时，你可以作为触发动作对其发动一次自由打击。</p>"
+    },
+    "Giant's-Blood Flame": {
+      "name": "巨人之血焰",
+      "description": "<p><em>一个小罐中盛满了粘稠的赭色油液，散发着硫磺与烧焦毛发的气味。</em></p><p><strong>效果：</strong>作为一次战技，你可以将一件武器浸染此油并点燃。武器将持续燃烧且不会损伤自身，直至通过一次战技将其熄灭。每当你使用以此方式点燃的武器发动造成掷骰伤害的武器能力时，该能力额外造成2点火焰伤害。</p><p>或者，你可以使用一次战技将罐子投掷至多5格距离，使其落点格子及该格内的任何生物或物体覆盖上粘稠的可燃油液。如果油液受到任何火焰伤害，它将持续燃烧，并在你的每个回合结束时对其覆盖的目标造成5点火焰伤害。被油液覆盖或能够触及油液的生物可用一个主要动作扑灭火焰以结束此效果。</p><p>油液引发的任何火焰在持续燃烧1小时后熄灭。</p>"
+    },
+    "Requisition": {
+      "name": "征用",
+      "description": "<p>当你获得此头衔时，你可以从所属阵营中选择一件一阶或二阶魔法饰品（参见本章前文的宝物部分）。每当你提升等级时，你可以将该饰品替换为另一件。</p>"
+    },
+    "Enlightened": {
+      "name": "启迪",
+      "description": "<p><strong>效果</strong>：你选择的理性或直觉属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>宇宙启示：</em></p><p>当你使用学识技能组中的技能进行检定并获得第1级或第2级结果时，你可以改为获得第3级结果。使用此增益后，在获得1次或更多胜利之前无法再次使用。</p></li><li><p><em>心胜于物：</em></p><p>每当你消耗一次恢复时，可以移除自身的一个状态。</p></li><li><p><em>重布棋局：</em></p><p>你能触及幕后并篡改现实。战斗开始时，选择自身或5格范围内的任意生物。被选目标必须按其移动力移动至你指定的位置，但不可进入会造成伤害或施加状态的地形。目标并非通过移动或传送抵达该位置——他们只是凭空出现在那里。除你之外，无人记得目标原先所在的位置。</p></li></ul>",
+      "advancements_HFtaSdI1ARsGxrp0_name": "",
+      "advancements_HFtaSdI1ARsGxrp0_description": "<p>Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).</p>",
+      "advancements_5vi5zQ2TrZiMiGcL_name": "Benefit",
+      "advancements_5vi5zQ2TrZiMiGcL_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Fey Friend": {
+      "name": "妖精之友",
+      "description": "<p><strong>效果：</strong>你通晓凯尔特语。此外，从下列增益中选择一项：</p><ul><li><p><em>魅力馈赠：</em> @Embed[Compendium.draw-steel.rewards.Item.1VZgvmc7mj2DMSc3 inline]</p></li><li><p><em>预知馈赠：</em> @Embed[Compendium.draw-steel.rewards.Item.EleJRTMoA578AyUM inline]</p></li><li><p><em>知识馈赠：</em> @Embed[Compendium.draw-steel.rewards.Item.LUYqeZj26yXD9YzP inline]</p></li></ul>",
+      "advancements_mrKDczWTIvqJoUSJ_name": "Benefit",
+      "advancements_mrKDczWTIvqJoUSJ_description": "<p>Choose one of the following benefits:</p>",
+      "advancements_74cctp7Gs7QzF6Uq_name": "Language",
+      "advancements_74cctp7Gs7QzF6Uq_description": "<p>You know the Khelt language.</p>"
+    },
+    "If I Wanted You Dead, You’d Be Dead": {
+      "name": "若想你死你早死了",
+      "description": "<p>每当你击败敌人而未杀死其中任何一人（包括为满足此称号前提而击败的敌人），你在与这些敌人进行谈判的检定中获得优势。</p>"
+    },
+    "Tireless": {
+      "name": "不知疲倦",
+      "description": "<p><strong>效果</strong>：你选择的<strong>力量</strong>或<strong>敏捷</strong>属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>快速恢复：</em></p><p>每当你休息8小时或更长时间，你可以获得一次休整的益处。一旦使用此增益，在你完成一次常规休整前无法再次使用。</p></li><li><p><em>力量储备：</em></p><p>你的恢复值等于你的耐力值的一半。</p></li><li><p><em>不屈之躯：</em></p><p>你不会受到流血状态的影响。</p></li></ul>",
+      "advancements_nHhqZCkaHnMU9pG3_name": "",
+      "advancements_nHhqZCkaHnMU9pG3_description": "<p>Your choice of your Might or Agility increases by 1 (to a maximum of 6).</p>",
+      "advancements_sIItcKQwNvCnMgdu_name": "Benefit",
+      "advancements_sIItcKQwNvCnMgdu_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Brief Reunion": {
+      "name": "短暂重逢",
+      "description": "<p>当你处于喘息状态时，你可以使用一个战技将这件神器召唤至手中。它会在你的下一个回合结束时消失。一旦你使用了此增益，在获得1次或更多胜利之前，你将无法再次使用它。</p>"
+    },
+    "Elemental Blaster": {
+      "name": "元素爆破师",
+      "description": "<p>你拥有元素师1级投掷元素特性，可造成所选伤害类型。</p><ul><li><p>@UUID[Compendium.draw-steel.abilities.Item.ktkvtm6ryTcES6qy]{投掷元素}</p></li></ul>",
+      "advancements_vSpzDIog6xFO5Lvd_name": "Ability",
+      "advancements_vSpzDIog6xFO5Lvd_description": "<p>You have the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.</p>"
+    },
+    "Master Librarian": {
+      "name": "大图书馆员",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>奥术即兴发挥：</em> @Embed[Compendium.draw-steel.rewards.Item.6aUdSBlcu3BRZzjd inline]</p></li><li><p><em>我正好有本书：</em> @Embed[Compendium.draw-steel.rewards.Item.GhwLVYx6bcmT8AZB inline]</p></li><li><p><em>学到了一些东西：</em> @Embed[Compendium.draw-steel.rewards.Item.g1jbAHkudDb7Hj8W inline]</p></li><li><p><em>通晓语言：</em> @Embed[Compendium.draw-steel.rewards.Item.QiFQkOU9RKaYQY88 inline]</p></li></ul>",
+      "advancements_MbUcn3oakoLOheDa_name": "Benefit",
+      "advancements_MbUcn3oakoLOheDa_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Mask of Oversight": {
+      "name": "监察者面具",
+      "description": "<p><em>这副棱角分明的银质面具上布满了过多的眼孔和一张骇人的巨口。</em></p><p><strong>效果：</strong>佩戴这副怪诞面具时，你可以使用一个策略动作，使你的双眼从眼眶中迸出并增殖，直至六只眼睛环绕你的头部飞行。这使你获得360度的视野，并且你不会被突袭。此外，你在发现隐藏生物、物品或机关的检定上获得双倍优势，但在不使用威吓技能的沉着检定上承受双倍劣势。你可以用一个策略动作将眼睛收回头部，并使额外的眼睛消失。</p><p>当眼睛环绕头部飞行时，你可以使用一个策略动作，向10格内的一个生物发射最多三只眼睛。每只发射的眼睛会对目标造成 [[/damage 5]] 伤害，随后被摧毁。你无法通过此方式将眼睛数量减少到少于两只。如果你将眼睛数量减少到两只，那些眼睛会回到你的头部，并且在你获得1点或更多胜利之前无法再次使用该面具。</p>"
+    },
+    "Best of the Best": {
+      "name": "最佳中的最佳",
+      "description": "<p>选择一项你在竞赛中使用过的技能。使用该技能进行检定时，你获得+4加值而非+2加值。</p>"
+    },
+    "Awakened": {
+      "name": "觉醒",
+      "description": "<p>效果：选择以下一项增益：</p><ul><li><p><em>预知：</em> @Embed[Compendium.draw-steel.rewards.Item.I1hwg7f363MoH5CM inline]</p></li><li><p><em>游荡者天赋：</em> @Embed[Compendium.draw-steel.rewards.Item.pYMy1rdvaEQVesmK inline]</p></li><li><p><em>心灵感应：</em> @Embed[Compendium.draw-steel.rewards.Item.GIJWt5dC49tBYuNt inline]</p></li></ul>",
+      "advancements_lUpMhcZLBcnpQ7kQ_name": "Benefit",
+      "advancements_lUpMhcZLBcnpQ7kQ_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Angler": {
+      "name": "渔夫",
+      "description": "<p>你在捕鱼项目检定中获得优势</p>"
+    },
+    "Come Out to Play": {
+      "name": "出来玩",
+      "description": ""
+    },
+    "Owed a Favor": {
+      "name": "欠下人情",
+      "description": "<p><strong>效果：</strong>该派系将为队伍提供一次帮助，前提是不与其自身目标冲突。</p><p>此外，该派系是可靠的情报来源。导演需从与该派系相关的工艺或学识技能组中选择一项技能，例如不法团伙对应的犯罪世界技能、铁匠公会对应的锻造技能，或贵族家族对应的社交技能。当身处该派系有据点的聚落时，若你未掌握此技能则自动获得；若已掌握，则在使用该技能进行检定时获得优势。</p>"
+    },
+    "Battlefield Commander": {
+      "name": "战场指挥官",
+      "description": "<p><strong>效果：</strong>从以下增益中选择一项：</p><ul><li><p><em>冲锋！：</em>你获得以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.PWrdxRJQbMrvA60k]{冲锋！}</p></li></ul></li><li><p><em>知名战士：</em>@Embed[Compendium.draw-steel.rewards.Item.HpjysV2B3Lxm62Vf inline]</p></li><li><p><em>战争学徒：</em>@Embed[Compendium.draw-steel.rewards.Item.mMSWN26tqgPaBf4d inline]</p></li></ul>",
+      "advancements_saHLtIlZPwUlSYWW_name": "Benefit",
+      "advancements_saHLtIlZPwUlSYWW_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Deadweight": {
+      "name": "死重",
+      "description": "<p><em>尽管这根类人生物的股骨表面覆有铅层，但其重量远超尺寸应有的程度。</em></p><p><strong>效果：</strong>手持重负骨期间，你的坠落速度加倍，每坠落一格额外受到1点伤害（单次坠落总伤害上限为75点）。若你以此方式坠落5格或以上，可在触地前的坠落过程中，以一次自由机动动作发动一次近战自由打击。</p>"
+    },
+    "Black Ash Dart": {
+      "name": "黑灰飞镖",
+      "description": "<p><em>一枚菱形飞镖的核心处嵌着一支闪烁幽光的黑色小瓶。</em></p><p><strong>效果</strong>：作为一次战技，你可以使用黑烬飞镖进行一次远程自由打击。该打击额外造成1点伤害，并在威能骰的阶级结果上添加以下效果：</p><ul><li><strong>≤11：</strong>你可以将目标传送最多2格。</li><li><strong>12-16：</strong>你可以将目标传送最多4格。</li><li><strong>17+：</strong>你可以将目标传送最多6格。</li></ul>"
+    },
+    "Monarch": {
+      "name": "君主",
+      "description": "<p><strong>效果</strong>：你获得以下增益：</p><ul><li><p><em>王室权威：</em></p><p>你国度内的居民必须服从你的合法命令，否则将承担后果。</p></li><li><p><em>王室威仪：</em></p><p>你选择的“力量”或“风采”属性增加1点（最高不超过6点）。</p></li></ul><p>此外，从以下增益中选择一项：</p><ul><li><p><em>王冠珠宝：</em></p><p>你获得一件国宝——由主持人选择的一件饰品。</p></li><li><p><em>王室声望：</em></p><p>你获得2点声望。</p></li><li><p><em>王室随从：</em></p><p>你可招募的追随者数量增加2名。</p></li><li><p><em>王室财富：</em></p><p>你获得2点财富。</p></li></ul><p><strong>特殊</strong>：若你获得此头衔，可能会被要求为国履行职责。</p>",
+      "advancements_4uZxXgsOnSneQYmV_name": "Royal Majesty",
+      "advancements_4uZxXgsOnSneQYmV_description": "<p>Your choice of your Might or Presence increases by 1 (to a maximum of 6).</p>",
+      "advancements_0QblWfVj4NOS4aLt_name": "Benefit",
+      "advancements_0QblWfVj4NOS4aLt_description": "<p>You gain the following benefits:</p>",
+      "advancements_Y6ryDQW8fKvOgrv6_name": "Additional Benefit",
+      "advancements_Y6ryDQW8fKvOgrv6_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Acolytes": {
+      "name": "侍僧",
+      "description": "<p>你可以招募的追随者数量增加两名。</p>"
+    },
+    "Soulsight": {
+      "name": "灵魂视界",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">任何位于2格范围内的生物都无法在你面前隐藏。</span></p>"
+    },
+    "No, You’re Under Arrest!": {
+      "name": "不你被捕了",
+      "description": "<p>你在挣脱擒抱机动中获得优势。此外，当你成功通过挣脱束缚或镣铐的检定时，作为同一机动的一部分，你可以将束缚或镣铐转移至一个相邻的同体型生物身上，而不会立即被其察觉。</p>"
+    },
+    "Faction Member": {
+      "name": "派系成员",
+      "description": "<p><strong>效果：</strong>你获得某个派系的成员身份。你被视为有潜力但未经考验的代理人，并被允许独立行动。你可能会被指派任务以推进派系的目标，若成功则可期待奖励与晋升。当你与所属派系的任何成员进行谈判时，其耐心值增加2（最高不超过5）。</p><p>此外，根据该派系的特性，导演会赋予你以下一项福利。导演也可为未列于此的其他派系类型创建自定义福利。你只能在所属派系有据点的聚落中使用此福利，且一旦使用，在完成一项派系任务前无法再次使用。</p><ul><li><p><em>学术派系：</em> @Embed[Compendium.draw-steel.rewards.Item.ZOxPbuoH06MD99Rt inline]</p></li><li><p><em>行会派系：</em> @Embed[Compendium.draw-steel.rewards.Item.nQcHSefR0sy9VMiY inline]</p></li><li><p><em>军事派系：</em> @Embed[Compendium.draw-steel.rewards.Item.Zt5Z8sQzzi78MrDc inline]</p></li><li><p><em>间谍派系：</em> @Embed[Compendium.draw-steel.rewards.Item.0TxCvtOlH7hFnfjo inline]</p></li></ul><p><strong>特殊：</strong>你可多次获得此头衔，每个派系一次。若你做出违背派系利益的行为，此头衔可能被剥夺。</p>",
+      "advancements_mwV93T5XeWm1OkHL_name": "Benefit",
+      "advancements_mwV93T5XeWm1OkHL_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Wanted Dead or Alive": {
+      "name": "生死不论",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p><em>盗亦有道：</em> @Embed[Compendium.draw-steel.rewards.Item.eAhD7Sfmb1SyBUgs inline]</p></li><li><p><em>喽啰收割者：</em> @Embed[Compendium.draw-steel.rewards.Item.EjhnSxqIFsHxJxks inline]</p></li><li><p><em>不，你被捕了！：</em> @Embed[Compendium.draw-steel.rewards.Item.V98YfbymadlQdk3V inline]</p></li></ul>",
+      "advancements_x4FLvvw6aQGRz1P2_name": "Benefit",
+      "advancements_x4FLvvw6aQGRz1P2_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "I’ll Just Take the Prize": {
+      "name": "奖品我就收下了",
+      "description": "<p>你获得一件由导演选择的饰品或等级宝物。</p>"
+    },
+    "Monster Bane": {
+      "name": "怪物克星",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>野兽克星：</em> @Embed[Compendium.draw-steel.rewards.Item.sXmBxcjcxD1Kh56O inline]</p></li><li><p><em>怪物安抚者：</em> @Embed[Compendium.draw-steel.rewards.Item.0NLQRH4MrR1BqfIh inline]</p></li><li><p><em>怪物战利品：</em> @Embed[Compendium.draw-steel.rewards.Item.GlK7l9tYwSFd7dxO inline]</p></li></ul>",
+      "advancements_l29JA2paBSRjRKZb_name": "Benefit",
+      "advancements_l29JA2paBSRjRKZb_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Discover Lore - Common Knowledge": {
+      "name": "发现学识 - 常识",
+      "description": "<p>若你想追踪失落宝藏的位置、解读某个仪式，或是追溯王室血统以寻找王位下一位继承人，你可以启动一个休整期项目来深入探究任何你想解开的谜团。你可能会因为无法通过单次检定获取信息而启动一个发掘传说的项目，也可能是因为回忆信息的检定失败，现在希望通过研究来学习它。</p><p>当你启动一个发掘传说的休整期项目时，你需要选择想要调查的传说以及希望得到解答的问题。主持人会告诉你，你所寻求的传说属于常见知识、隐秘知识、失落知识还是禁忌知识。知识越是深奥，找到答案所需的项目点数就越多。</p><h4>常见知识</h4><p>常见知识通常只需一天左右的研究便能轻易发现。它并非每个路人都知晓，需要时间才能发掘，但由于当地有丰富的信息来源，你无需花费大量时间搜寻。例如，你可能需要询问几位流言传播者才能弄清某位贵族正在不秘密追求谁，或者你可能需要在神殿里花上几个小时来找到记载神明某个鲜为人知别称的特定宗教典籍。</p>"
+    },
+    "Ghoul or Vampire": {
+      "name": "食尸鬼或吸血鬼",
+      "description": "<p>当你对相邻生物发动近战自由打击时，你可以啃咬该生物。若你如此行动并获得三级结果，你将获得等同于所造成伤害的临时耐力。若未提前消耗，此临时耐力将持续至你下次休整结束。</p>"
+    },
+    "Heraldic Fame": {
+      "name": "纹章声望",
+      "description": "<p>你获得1点声望。</p>"
+    },
+    "Infernal Legacy": {
+      "name": "地狱血脉",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你获得3点先祖点数，可用于购买魔鬼先祖特质（详见第三章）。</span></p>",
+      "advancements_UUgOFbunIPQ55p5y_name": "Purchased Traits",
+      "advancements_UUgOFbunIPQ55p5y_description": "<p>You have 3 ancestry points to spend on the following traits.</p>"
+    },
+    "Hallucination Field": {
+      "name": "幻象力场",
+      "description": ""
+    },
+    "Elemental Weapons": {
+      "name": "元素武器",
+      "description": "<p>每当你使用造成伤害的武器能力时，该能力可以造成所选类型的伤害，而非其通常的伤害类型。</p>"
+    },
+    "Perfect Protection": {
+      "name": "完美防护",
+      "description": "<p>导演选择一种由神器造成或与其主题相关的伤害类型——例如，千年之刃的神圣伤害、权杖的心灵伤害，或凡人终局的腐化伤害。你对所选伤害类型拥有完全免疫。</p>"
+    },
+    "Other Corporeal Undead": {
+      "name": "其他实体不死生物",
+      "description": "<p>当你因非火焰或神圣伤害而降至0点耐力且身体未被摧毁时，你可以恢复一半耐力并陷入倒地状态。一旦使用此增益，在获得10场或更多胜利前无法再次使用。</p>"
+    },
+    "Bye-Bye": {
+      "name": "拜拜",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你可以使用一次战技，将你自己以及你周围5格内所有自愿的盟友传送至你起始位置10格范围内的新位置。一旦你使用了此增益，在获得1次或更多胜利之前，你无法再次使用它。</span></p>"
+    },
+    "Discover Lore - Lost Knowledge": {
+      "name": "探寻传说 - 失落知识",
+      "description": "<p>若你想追踪失落宝藏的位置、解读某个仪式，或是追溯王室血统以寻找王位下一位继承人，你可以启动一个休整期项目来深入探究任何你想解开的谜团。你可能会因为所需信息无法通过单次检定获得而启动项目来发掘传闻，也可能是因为你在回忆信息的检定中失败，现在希望通过研究来掌握它。</p><p>当你启动一个发掘传闻的休整期项目时，你需要选择想要调查的传闻以及希望得到解答的问题。主持人会告知你所寻求的传闻属于常见、隐晦、失传还是禁忌知识。知识越是深奥，找到答案所需的项目点数就越多。</p><h4>失传知识</h4><p>失传知识极为隐秘，即便在该领域最专注的学者中，可能也只有一两个人曾深入挖掘到足以知晓这些传闻。失传知识可能来自如此久远的年代，以至于如今仅存一份用死语写成的文献记载着你寻求的传闻。这类传闻往往需要不止一周的时间来追查。例如，一位传奇钢铁矮人工坊的位置，很可能就属于失传的传闻——唯有一张藏于私人收藏中的地图例外。</p>"
+    },
+    "Deadly and Big": {
+      "name": "致命巨物",
+      "description": "<p>你的攻击对体型小于你的生物获得+3伤害加值。</p>"
+    },
+    "Sneakers": {
+      "name": "运动鞋",
+      "description": "<p>你获得潜行技能。若你已拥有此技能，则改为在潜行技能检定中获得优势。在团队检定中，你既可自行使用潜行技能，也可协助另一名英雄使用潜行技能。</p>",
+      "advancements_0msMgPQVXO82U6S6_name": "Skill",
+      "advancements_0msMgPQVXO82U6S6_description": "<p>You gain the Sneak skill.</p>"
+    },
+    "Build Airship": {
+      "name": "建造飞艇",
+      "description": "<p>当你启动这个项目时，你会雇佣一支由木匠、法师和造船师组成的团队，他们在项目所在地工作，这些工匠将为你建造这艘船。每当你监督项目时，你可以进行一次项目检定，你可能通过魔法或灵能远程进行监督。</p><p>项目完成后，你将获得一艘飞空艇。你和任何你指定的生物都可以通过触摸船舵来操控这艘船。在战斗中，触摸船舵的生物可以使用一个机动动作使船只移动最多10个方格。每轮船只只能移动一次。在战斗外，船只的每日速度为130英里。</p><p>飞空艇是一个物体（使其对所有毒素和心灵伤害具有伤害免疫），并且在被摧毁前可以承受200点伤害。如果船只受到的损伤不算太严重（由主持人判定），只要你拥有可以修复船只的材料，你就可以通过一次休整活动将其恢复到原始状态。</p>"
+    },
+    "Headbutt": {
+      "name": "头锤",
+      "description": "<p>当你被擒抱或束缚时，若这些状态本应施加减益，你的自由攻击不会因此承受减益。</p>"
+    },
+    "Hone Career Skills - Three Skills Career": {
+      "name": "精进职业技能——三技职业",
+      "description": "<p>你重温前世经历，以重新汲取它曾赋予你的经验。当此项目完成时，你在使用自身职业所提供的技能进行检定时将获得优势。</p>"
+    },
+    "Saved for a Worse Fate": {
+      "name": "留待更糟的命运",
+      "description": "<p><strong>效果：</strong>被击败后，每位角色都会苏醒，生命值全满且恢复次数完全重置。你们全都成为了击败你们的生物的俘虏，可怕的结局正等待着你们——除非你们能够逃脱，或是战胜俘虏者所设下的邪恶挑战。</p><p>导演根据俘虏者为你安排的命运，从以下增益中选择一项。所有英雄获得相同的增益。此外，你们必须面对一场与所选增益相关的遭遇、蒙太奇测试或冒险，具体由导演决定。</p><ul><li><p><em>角斗士：</em> @Embed[Compendium.draw-steel.rewards.Item.wmarxxYWic2l56TX inline]</p></li><li><p><em>猎物：</em> @Embed[Compendium.draw-steel.rewards.Item.OJsPzNKOmWVJkdVJ inline]</p></li><li><p><em>祭品：</em> @Embed[Compendium.draw-steel.rewards.Item.cNUWoYPg0WlfP5sm inline]</p></li><li><p>救世者： @Embed[Compendium.draw-steel.rewards.Item.kHhfV9cjUw3REXai inline]</p></li></ul>",
+      "advancements_o7xtvRPVTo5gUYry_name": "Benefit",
+      "advancements_o7xtvRPVTo5gUYry_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Concealment Potion": {
+      "name": "潜行药水",
+      "description": "<p><em>这种暗色粘稠液体尝起来像是烧焦的树叶。</em></p><p><strong>效果：</strong>当你以机动动作饮下此药水时，光线会在你周身偏移，使你能够融入周围环境，持续10分钟。此效果生效期间，你在进行躲藏与潜行检定时获得双刃骰，并且即使在被注视时也能使用躲藏机动动作。</p>"
+    },
+    "Nullring Strike": {
+      "name": "空环打击",
+      "description": ""
+    },
+    "Faction Officer": {
+      "name": "派系官员",
+      "description": "<p><strong>效果：</strong>你在所属派系中被授予重要领导职位。此外，你获得以下好处：</p><ul><li><p><em>征调权：</em> @Embed[Compendium.draw-steel.rewards.Item.RebqCM1zyDvmulWD inline]</p></li><li><p><em>你是上司：</em> @Embed[Compendium.draw-steel.rewards.Item.wDY5OFoBhtFF4YSl inline]</p></li></ul>",
+      "advancements_U995Y8g7GNejpafz_name": "Benefit",
+      "advancements_U995Y8g7GNejpafz_description": "<p>You gain the following benefits:</p>"
+    },
+    "Touched by the Divine": {
+      "name": "神之眷顾",
+      "description": "<p>从第十四章：神祇与宗教的《神祇与领域表》中选择一位神祇或圣徒。从该神祇或圣徒的领域中，选择一个导管（Conduit）1级领域特性（见第五章：职业）。</p>",
+      "advancements_AOLPvpAmYFIsE0OQ_name": "Domain Feature",
+      "advancements_AOLPvpAmYFIsE0OQ_description": "<p>Choose a Conduit 1st-level domain feature.</p>"
+    },
+    "Death From Above": {
+      "name": "天降死神",
+      "description": "<p>当你因占据高地而在某项能力上获得优势时，该能力获得 + [[/damage 8]] 伤害加值。</p>"
+    },
+    "Dragon Scaled": {
+      "name": "龙鳞",
+      "description": "<p>龙鳞在你身上龙心血触及之处生长。你获得龙骑士传承的龙鳞板标志特性（见第三章）。</p>",
+      "advancements_dTyQN89yc9K3DHt9_name": "Wyrmplate",
+      "advancements_dTyQN89yc9K3DHt9_description": ""
+    },
+    "Academic Faction": {
+      "name": "学术派系",
+      "description": "<p>你找到一位智者，他最多可以进行三次理性检定来回忆知识，或代表你为研究项目进行项目检定。这位智者在这些检定上拥有+5加值。每次项目检定耗时10分钟，且无需在休整期间进行。</p>"
+    },
+    "Masterpiece": {
+      "name": "杰作",
+      "description": "<p>该护甲、法器或武器可进行第四次灌注，使用该物品符合条件的任何强化。</p>"
+    },
+    "Cosmic Revelation": {
+      "name": "宇宙启示",
+      "description": "<p>当你使用学识技能组中的某项技能进行测试并获得第1级或第2级结果时，你可以改为获得第3级结果。一旦你使用了此增益，在获得1次或更多胜利之前，你无法再次使用它。</p>"
+    },
+    "Undying": {
+      "name": "不朽",
+      "description": "<p>你不会受到流血状态的影响。</p>"
+    },
+    "Martial Faction": {
+      "name": "尚武派系",
+      "description": "<p>你招募最多三名等级不高于你自身、且符合该阵营类型的仆从（例如人类守卫）。这些仆从将听从你的命令一天。</p>"
+    },
+    "Knight": {
+      "name": "骑士",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>纹章声望：</em> @Embed[Compendium.draw-steel.rewards.Item.WXOUw6IlP223WKuV inline]</p></li><li><p><em>骑士护佑：</em> @Embed[Compendium.draw-steel.rewards.Item.AracXSWouFvjcZGB inline]</p></li><li><p><em>骑士挑战：</em> 你获得以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.vMKO7J4aBWcruWvK]{骑士挑战}</p></li></ul></li></ul><p><strong>特殊：</strong> 若你获得此头衔，可能偶尔会被要求为授予你骑士身份的人履行义务。</p>",
+      "advancements_H27WZztlC7hfNDB5_name": "Benefit",
+      "advancements_H27WZztlC7hfNDB5_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "I Reject This Evil Power!": {
+      "name": "我拒绝这股邪恶力量",
+      "description": "<p>你获得等同于你等级的腐化免疫。</p>"
+    },
+    "Psi Blade": {
+      "name": "灵能刃",
+      "description": "<p><em>这只宽大的金属护腕镶嵌着一枚发光的宝石。</em></p><p><strong>效果：</strong>佩戴此金属环带时，你可以消耗一次武技动作，投射出一把与手臂平行的、由涟漪状心灵能量构成的发光利刃。当利刃处于激活状态时，你每回合可以使用一次武技动作，进行一次近战武器的自由打击，造成额外 [[/damage 3 psychic]] 点伤害。[[/apply umqJ838HyZ74EeVk]]</p>"
+    },
+    "Perfect New Recipe": {
+      "name": "完美新配方",
+      "description": "<p>当你开始这个项目时，你需要选择一种特定类型菜肴的食谱。该项目所需的物品前提是制作所需的食材，这取决于食谱本身，并且根据食谱及其原产地，食材可能难以获取。如果该食谱来自你的文化背景，你在项目检定中获得+3加值。</p><p>当你完成该项目后，只要你能获得食材，就可以在休整活动中按照该食谱制作五份食物。你以及其他与你一同休整的生物可以食用一份食物并获得其增益效果（见下文）。</p><p>食用特定类型食谱的一份食物的生物将获得以下一项增益效果，该效果持续到该生物进行下一次休整为止。</p><p><strong>慰藉型：</strong>当该生物在一次豁免检定中失败时，可以选择改为成功。此后该增益效果结束。</p><p><strong>丰盛型：</strong>该生物在食用食物的那次休整结束时，其恢复力增加1点。</p><p><strong>超凡能量型：</strong>该生物暂时将其一项属性值提高1点（最高不超过6点）。</p><p>一个生物一次只能从一种食谱的食物中获益，且不能同时从同一食谱的多份食物中获益。</p><h4>食谱类型</h4><table><tbody><tr><td><p><strong>食谱类型</strong></p></td><td><p><strong>物品前提</strong></p></td><td><p><strong>增益效果</strong></p></td></tr><tr><td><p>现代食谱</p></td><td><p>常见食材（面粉、胡萝卜、牛肉等）</p></td><td><p>丰盛型</p></td></tr><tr><td><p>经典或家常食谱</p></td><td><p>关键食材（杨桃、燃籽、桨鱼等）</p></td><td><p>慰藉型</p></td></tr><tr><td><p>古代或失传食谱</p></td><td><p>稀有或已灭绝的食材（蜜百合、钢苹果等）</p></td><td><p>超凡能量型</p></td></tr></tbody></table>"
+    },
+    "Bastion Belt": {
+      "name": "壁垒腰带",
+      "description": "<p><em>这条厚实的皮腰带配有骨制扣环，拿在手中感觉异常沉重。</em></p><p>效果：佩戴时，此腰带为你提供+3点耐力加值与+1点稳定加值。此耐力加值会与其他宝物提供的耐力加值叠加。</p>"
+    },
+    "Mirror Token": {
+      "name": "镜像代币",
+      "description": "<p><em>一枚金边镜面的硬币在你手中颤动，仿佛被你的触碰所排斥。</em></p><p><strong>效果：</strong>当镜面令符在你身上且你成为远程打击的目标时，你可以使用一个触发动作来捏碎令符，从而无视该次打击。你将承受的一半伤害以及触发打击的任何效果，将由发动打击的生物承担。</p>"
+    },
+    "Research Dividends": {
+      "name": "研究红利",
+      "description": "<p>你获得所选护甲、法器或武器强化的物品先决条件。此外，你学会该强化对应的项目源语言。</p>"
+    },
+    "Sacrifices": {
+      "name": "牺牲",
+      "description": "<p>你将被投入火山、喂给神圣怪物、遗弃在沙漠，或以其他方式献祭给更高存在。你身上装饰着神圣珠宝。每位英雄获得1点财富。</p>"
+    },
+    "Professor Veratismo's Quaff 'n Huff Snuff": {
+      "name": "维拉蒂斯莫教授的畅饮鼻烟",
+      "description": "<p><em>这个小巧的粉盒里装着一种无色粉末，带有极轻微的涩味。</em></p><p><strong>效果：</strong>作为一次巧技动作，你可以将一剂这种粉末撒在食物或饮品上，或将其吹向一个相邻的被擒抱、束缚或失去意识的生物。暴露于吹散粉末（即使其屏住呼吸）或摄入一剂粉末的生物，必须在1小时内仅能以真实的陈述进行交流。此外，其他生物在尝试说服目标进行交流或解读目标情绪时，进行的直觉和风度检定获得优势。如果目标未意识到自己已受到鼻烟的影响，则进行此类检定的生物获得双倍优势。</p>"
+    },
+    "Stop-’n-Go Coin": {
+      "name": "停走币",
+      "description": "<p><em>这枚不起眼的小硬币一面纯绿，一面纯红。</em></p><p><strong>效果：</strong>作为一个移动动作，你将硬币抛向空中，让其落在你面前的地上。掷一次 [[/roll 1d3]] 以根据硬币落地时朝上的面决定其效果：</p><ol><li><p><strong>红面：</strong>你周围2格范围内的区域对敌人而言成为困难地形，持续至你的下个回合结束。</p></li><li><p><strong>绿面：</strong>你以及每个在其回合开始时位于你周围2格内的盟友获得+1速度加值，持续至你的下个回合结束。[[/apply BuRuT27XYsyd3Xdq]]</p></li><li><p><strong>旋转硬币：</strong>当硬币持续旋转时，红色与绿色效果同时生效。</p></li></ol><p>必须拾起硬币才能再次使用。若有任何生物拾起硬币，其效果立即终止。</p>"
+    },
+    "Bull Shot": {
+      "name": "公牛射击",
+      "description": "<p><em>深色药水中漂浮着细小的白色骨片，散发着牛肉汤的香气。</em></p><p>效果：当你将此药水作为机动动作饮下时，你的前额会长出3英尺长的锋利尖角。每当你使用冲锋主要动作时，你的打击目标会被[[/apply bscGM8MI4vAC9n80]]在你的尖角上并被擒抱。以此方式被擒抱时，该生物会陷入流血状态。你仍可用四肢擒抱另一个生物。尖角会在遭遇结束时无害地从你头上脱落。</p>"
+    },
+    "Displacing Replacement Bracer": {
+      "name": "置换替代护腕",
+      "description": "<p><em>一只木制手镯上蚀刻着扎利亚克语中“转移”一词的对称符文。</em></p><p><strong>效果：</strong>作为一次战技，你可以将手中持握的一件尺寸为1S或1T的物品，与10格范围内另一件相同尺寸的物品互换位置。物品即刻转移，且不会产生任何听觉或视觉扰动。若另一生物正穿戴或持握着你转移至手中的物品，且其洞察力&lt;4，则不会察觉到此次转移。</p>"
+    },
+    "Page From the Infinite Library: Solaris": {
+      "name": "无限图书馆书页：索拉里斯",
+      "description": "<p><em>此页写满了关于释放无限能量的文字与图解——以及这一过程的危险之处。</em></p><p><strong>效果：</strong>作为一次战技，你消耗1点英雄资源来销毁此页，并在20格范围内创造一个4立方体区域。该区域充满微小太阳的能量，持续至遭遇结束。任何生物在战斗轮中首次进入该区域或在其内开始回合时，受到[[/damage 20 fire]]伤害并被[[/apply dazed turn]]。</p>"
+    },
+    "City Rat": {
+      "name": "城市鼠",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p>慧眼识货：@Embed[Compendium.draw-steel.rewards.Item.gQ0WPlroYvK4SJgd inline]</p></li><li><p>融入人群：@Embed[Compendium.draw-steel.rewards.Item.klo54xVhQaUMYp9t inline]</p></li><li><p>街头智慧：@Embed[Compendium.draw-steel.rewards.Item.4bdphw8mVN6jbmH3 inline]</p></li></ul>",
+      "advancements_Iu8uqWkUoC6Axn9M_name": "Benefit",
+      "advancements_Iu8uqWkUoC6Axn9M_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Honor Among Thieves": {
+      "name": "盗亦有道",
+      "description": "<p>与罪犯谈判时，你的声望值被视为比通常高2点。</p>"
+    },
+    "Anamorphic Larva": {
+      "name": "变形幼虫",
+      "description": "<p><em>一只浑浊的玻璃小瓶中封存着一条蠕动着的畸形幼虫。</em></p><p><strong>效果：</strong>当你以一个机动动作释放这条幼虫时，它会以心灵能量为食并呈指数级增长，在你相邻位置创造出一堵10格宽的幼虫血肉之墙。这堵墙无法占据任何稳定性为1或更高的生物所在的方格。墙体形成时，位于其中的其他生物会被推至最近的未被占据空间。</p><p>在你的每个回合开始时，每个与墙体相邻的生物会受到等同于其直觉值三倍的心灵伤害，并且每有一个生物受到此伤害，你就可以为墙体增加1个方格。若在你的回合开始时没有生物受到伤害，幼虫便会死亡，墙体随之消失。</p>"
+    },
+    "Time Raider Training": {
+      "name": "时间奇兵训练",
+      "description": "<p>你获得2点种族点数，可用于购买时间掠夺者种族特性。</p>",
+      "advancements_7vm7Z5IcJ6LIKMJk_name": "Purchased Traits",
+      "advancements_7vm7Z5IcJ6LIKMJk_description": "<p>You have 2 ancestry points to spend on the following traits.</p>"
+    },
+    "The Devil’s Chord": {
+      "name": "恶魔和弦",
+      "description": ""
+    },
+    "Black Flag": {
+      "name": "黑旗",
+      "description": "<p>你拥有一面能在公海上引发恐惧的醒目旗帜。当你的旗帜在船上飘扬时，其他船只上能看见这面旗帜的船员，在攻击你的船只或其船员时会受到减益。</p>"
+    },
+    "Last-Ditch Prayer": {
+      "name": "绝境祷言",
+      "description": "<p>作为一次自由操作，你念诵求助祷文，获得一个由你职业授予的英雄资源池，数值为 [[/roll 2d10]]。若你在回合结束前未使用此资源池，它将会消失。一旦你使用了此增益，在完成另一次对神祇或圣徒的服务前，或在你升级之前，你无法再次使用它。</p>"
+    },
+    "G’Allios Visiting Card": {
+      "name": "加里奥斯名片",
+      "description": "<p><em>一张印有第八城辩护服务徽章的卡片散发着淡淡的烟熏与香料气息。</em></p><p><strong>效果：</strong>每当你即将受到伤害时，你可以使用一个触发动作撕毁此卡以召唤一名魔鬼。你将避免该伤害及任何伴随效果，且魔鬼会将触发效果重定向至其在同一位面上任意选择的另一目标。你将清晰地目睹承受此伤害的对象。随后魔鬼消失。</p>"
+    },
+    "Picked Up a Few Things": {
+      "name": "略知一二",
+      "description": "<p>你掌握了一项学识技能组中的技能。</p>",
+      "advancements_JXhWjyMqdbcn7uw1_name": "Skill",
+      "advancements_JXhWjyMqdbcn7uw1_description": "<p>You know a skill from the lore skill group.</p>"
+    },
+    "Rune of Alarm": {
+      "name": "警戒符文",
+      "description": "<p>你可以花费10分钟不受打扰的时间，在某个表面上刻下一个魔法眼形符文。符文会照亮周围2格范围。符文在激活1分钟后或你在其他地方刻下此符文时会被驱散。当敌人进入符文2格范围内时，符文将激活。符文激活时，如果你正处于非魔法性的睡眠状态则会醒来，并且你可以透过符文感知周围1分钟，如同你身处符文所在方格。</p>"
+    },
+    "Noble Splendor": {
+      "name": "贵族华彩",
+      "description": "<p>你获得1点声望与1点财富。</p>"
+    },
+    "Troupe Leading Player": {
+      "name": "剧团领衔主演",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p>飞行马戏团：@Embed[Compendium.draw-steel.rewards.Item.MSIugEtSzeJ0paBi inline]</p></li><li><p>聚光灯：@Embed[Compendium.draw-steel.rewards.Item.M3ZMuoJHxcaUirAu inline]</p></li><li><p>配角演员：@Embed[Compendium.draw-steel.rewards.Item.QkCsqEjBbDTAMpPM inline]</p></li><li><p>调动观众：@Embed[Compendium.draw-steel.rewards.Item.0VdQJPQglo3VoWRE inline]</p></li></ul>",
+      "advancements_xOZs8oHnKDx6VyRr_name": "Benefit",
+      "advancements_xOZs8oHnKDx6VyRr_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Discerning Shopper": {
+      "name": "识货买家",
+      "description": "<p>在寻找制作项目所需的物品前提条件时，你可以回忆起曾遇到过可能拥有该物品——或至少掌握其相关信息的人。</p>"
+    },
+    "Breath of Dawn": {
+      "name": "破晓之息",
+      "description": "<p><em>一只玻璃瓶中封存着一缕柔和的日光漩涡。</em></p><p><strong>效果：</strong>作为一个战技动作，你吸入破晓气息并陷入宁静。你立即终止自身身上的恐惧、缓慢与嘲讽状态，并且获得 [[/apply 2CvRvz6ZAz4RhgFz]]{+8点稳定加值}，持续至遭遇结束。</p>"
+    },
+    "Growth Potion": {
+      "name": "成长药水",
+      "description": "<p><em>这种浓稠的绿色液体尝起来有甘草和土豆的味道。</em></p><p><strong>效果：</strong>作为一次机动动作，你可以喝下这瓶药水或将其倾倒在体型2或更小的物体上，使目标体型增大1级（最小体型为2）。若你自身是目标，你的耐力上限与稳固值将翻倍，在力量检定上获得优势，且你造成掷骰伤害的武器能力获得等同于你最高属性值的伤害加值。3轮后你将缩回原始体型，当前耐力上限与稳固值减半，并失去药水的其他增益效果。物体的体型变化则是永久的。</p>"
+    },
+    "Discover Lore - Forbidden Knowledge": {
+      "name": "发掘秘闻 - 禁忌知识",
+      "description": "<p>若你想追踪失落宝藏的位置、解读某个仪式，或是追溯王室血统以寻找王位下一位继承人，你可以启动一个休整期项目来深入探究任何你想解开的谜团。你可能会因为某些信息无法通过单次检定获得而启动一个发掘传说的项目，也可能是因为你在回忆信息的检定中失败，现在希望通过研究来学习它。</p><p>当你启动一个发掘传说的休整期项目时，你需要选择想要调查的传说以及希望得到解答的问题。主持人会告诉你，你所寻求的传说属于常见知识、隐秘知识、失落知识还是禁忌知识。知识越是深奥，找到你想要的答案所需的项目点数就越多。</p><h4>禁忌知识</h4><p>禁忌知识是指某个强大的个体或组织试图保守秘密的传说。知晓这些秘密的人会在交换口令后以暗语低声谈论，并用密码书写文本。追查线索并理解它们通常需要数周时间。例如，那把割开死神喉咙的匕首所在地点，就隐藏在层层加密的文字背后，并且是用只有该神祇最虔诚信徒才知晓的死语写成的。</p>"
+    },
+    "Find a Cure": {
+      "name": "寻找解药",
+      "description": "<p>你研究一种疾病、诅咒或超自然折磨的治疗方法，其文本说明可通过“寻找疗法”休整期项目来解除。若该折磨是由某生物的固有特性所引发，你需要该生物或同种生物的遗骸作为制作疗法的物品先决条件。例如，你可以通过研究任意狼人的尸体（而不仅是咬伤者的尸体）来寻找治愈狼人“诅咒撕咬”所致折磨的方法。</p><p>完成此项目所需的任务点数等于引发折磨的生物等级乘以50。若折磨由环境或超自然效应产生，该效应会注明完成此项目所需的物品先决条件及任务点数。</p><p>当你完成此项目时，你将制作出一剂针对该折磨的炼金疗法。项目完成后，你为同一折磨制作后续剂量所需的任务点数减半。</p>"
+    },
+    "Fearsome Reputation": {
+      "name": "凶名远扬",
+      "description": "<p>你获得1点声望。</p>"
+    },
+    "Dirty Fighting": {
+      "name": "卑鄙战法",
+      "description": "<p>当你站立时，你的近战攻击对倒地生物获得+3伤害加值。此外，倒地状态不会为你的攻击施加减益。</p>"
+    },
+    "Float Powder": {
+      "name": "飘浮粉末",
+      "description": "<p><em>一只玻璃小瓶中盛着半透明的薄片，在光线下闪闪发亮。</em></p><p><strong>效果：</strong>以一个机动动作将这种粉末洒在自己身上，会使你失重地飘离地面。在1小时内，你的稳定值降至0，并且可以[[/apply ZsZmCflAcicrTNus]]{飞行并悬浮}。此外，提供此粉末的妖婆会确切知晓你使用它的时间和地点。</p>"
+    },
+    "Mage Hunter": {
+      "name": "法师猎手",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p>奥术抑制：@Embed[Compendium.draw-steel.rewards.Item.KHEOEhXwpeXTWiBS inline]</p></li><li><p>休想得逞！：@Embed[Compendium.draw-steel.rewards.Item.QyA5vmrufMsYwz41 inline]</p></li><li><p>魔法恶臭：@Embed[Compendium.draw-steel.rewards.Item.05cPjIFC6c2xPXVR inline]</p></li></ul>",
+      "advancements_Iz1DG3A8zGcDQ2H4_name": "Benefit",
+      "advancements_Iz1DG3A8zGcDQ2H4_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Trained Tracker": {
+      "name": "训练有素的追踪者",
+      "description": "<p>你在追踪罪犯时进行的检定获得优势。</p>"
+    },
+    "Lethe": {
+      "name": "忘川",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">当你处于喘息状态时，你的攻击获得+5伤害加值。</span></p>"
+    },
+    "Hold the Line": {
+      "name": "坚守阵地",
+      "description": "<p>当你位于盟友5格范围内时，你与每个位于你5格范围内的盟友获得+3点稳定加值。</p>"
+    },
+    "Snapdragon": {
+      "name": "金鱼草",
+      "description": "<p><em>这朵精致的橙色花朵散发着一种甜腻的气味。</em></p><p><strong>效果：</strong>作为一个战技动作，你嗅闻一朵魔法金鱼草花，使其凋零并使你的动作更具爆发力。你下一次使用的造成伤害的能力将额外造成5点伤害，并且其施加的任何强制移动距离获得+2加值。如果该能力不施加强制移动，你可以将能力目标中的每个生物推开最多2格。</p>"
+    },
+    "Color Cloak (Yellow)": {
+      "name": "色彩斗篷（黄色）",
+      "description": "<p><em>这件黄色橡胶质感的连帽斗篷上饰有象征\"闪电\"的金色安嘉利符文。</em></p><p><strong>效果：</strong>穿戴时，黄色色彩斗篷赋予你等同于自身等级的闪电免疫。</p><p>此外，当你成为任何造成闪电伤害的效果目标时，你可以使用一个触发动作，使你下一次造成伤害的能力额外造成等同于自身等级的闪电伤害。一旦你造成此额外伤害，你的闪电免疫将转变为等值的闪电弱点，持续至下一轮结束。在此弱点消失前，你无法再次使用此触发动作。</p>"
+    },
+    "Leverage": {
+      "name": "杠杆作用",
+      "description": "<p>你掌握着一个无价的秘密。导演会选择会重视这个秘密的人物类型——通常是某个特定派系的成员，例如希格拉贵族，或是某类人群，例如赃物销赃者。在与这类人物进行谈判时，你可以提供这个秘密。如果他们接受，他们的兴趣度会提升3点（最高至5点）。这个秘密你只能分享一次。</p>"
+    },
+    "Spy Ring": {
+      "name": "间谍网",
+      "description": "<p>你获得一件魔法首饰，例如一枚戒指。佩戴该首饰时，你可以以一个主要动作，幻化成10格内你有效果线的某个个体的虚幻外貌。此伪装能让你在仅基于视觉识别的伪装技能检定中自动成功。</p>"
+    },
+    "Warriors’ Understanding": {
+      "name": "战士的领悟",
+      "description": "<p>在与你在战斗遭遇中对抗过的生物互动时，你进行的风度检定获得优势。</p>"
+    },
+    "Saviors": {
+      "name": "救世主",
+      "description": "<p>你的捕获者惧怕一个更强大的敌人，他们希望你能替他们击败这个对手。你甚至可以在行动过程中保留找到的任何财宝。</p>"
+    },
+    "Sworn Hunter": {
+      "name": "誓约猎人",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>猎人之誓：</em> @Embed[Compendium.draw-steel.rewards.Item.Q9jXD3O6bc5xqZtK inline]</p></li><li><p><em>特殊技能组合：</em> @Embed[Compendium.draw-steel.rewards.Item.xwhFWxSLlSIF3E1m inline]</p></li><li><p><em>我们同舟共济：</em> @Embed[Compendium.draw-steel.rewards.Item.yxtRLJaFcrkq4hq6 inline]</p></li></ul>",
+      "advancements_VhMEONbvk0x5YG3n_name": "Benefit",
+      "advancements_VhMEONbvk0x5YG3n_description": "<p>Effect: Choose one of the following benefits:</p>"
+    },
+    "Fishing": {
+      "name": "钓鱼",
+      "description": "<p>无论是为了生计、放松还是炫耀，只要身处水域附近，你都可以去钓鱼。此项目的项目掷骰有以下变化：</p><ul><li><p>你的掷骰所获得的项目点数代表你钓到的鱼（或其他类鱼生物）的相对大小。</p></li><li><p>在你进行此活动的每个休整期内，你会持续进行项目掷骰，直到获得第1级结果（表示鱼逃脱，未获得点数）或取得突破。</p></li><li><p>当你取得突破时，由导演在 @UUID[Compendium.draw-steel.tables.RollTable.sqLU9XzGoYEDJeXR]{钓鱼事件} 表上掷骰，而不是你从该掷骰中获得点数并进行另一次项目掷骰。</p></li><li><p>当你在休整期内完成最后一次钓鱼项目掷骰后，你可以将累积的项目点数用于兑换\"渔具\"表中的奖励。任何在当前休整期内未使用的点数都会丢失。</p></li></ul><h4>渔具</h4><table><tbody><tr><td><p><strong>奖励</strong></p></td><td><p><strong>花费</strong></p></td><td><p><strong>效果</strong></p></td></tr><tr><td><p>丰盛一餐（1份）</p></td><td><p>50</p></td><td><p>食用了用项目中捕获的鱼烹制的一份餐食的生物，其恢复力增加1点，持续至其下一个休整期结束。一个生物同时只能从一份此类餐食（或类似餐食，例如来自\"完美新食谱\"项目）中受益。</p></td></tr><tr><td><p>极品一餐（1份）</p></td><td><p>100</p></td><td><p>食用了用项目中捕获的鱼烹制的一份餐食的生物，其恢复力增加1点，持续至其下一个休整期结束，并且获得10点临时耐力，若未被先消耗则持续至其下一个休整期结束。一个生物同时只能从一份此类餐食（或类似餐食，例如来自\"完美新食谱\"项目）中受益。</p></td></tr><tr><td><p>更好的渔具</p></td><td><p>120</p></td><td><p>你获得以下称号与增益。</p><p><strong>@UUID[Compendium.draw-steel.rewards.Item.TpXcp6ZgNneuRTT1]{垂钓者}：</strong> 你在钓鱼项目掷骰上获得优势。</p></td></tr><tr><td><p>钓鱼事件</p></td><td><p>200</p></td><td><p>你在钓鱼事件表上掷骰。</p></td></tr><tr><td><p>传奇渔夫</p></td><td><p>300</p></td><td><p>你获得以下称号与增益。</p><p><strong>@UUID[Compendium.draw-steel.rewards.Item.qPtnge38qYynL6iI]{金竿}：</strong> 每当你进行钓鱼项目时，你可以重掷一次项目掷骰。</p></td></tr></tbody></table>"
+    },
+    "Brawler": {
+      "name": "格斗家",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>低头闪避！：</em> @Embed[Compendium.draw-steel.rewards.Item.zCgGKvBdCeOKONOu inline]</p></li><li><p><em>家具战士：</em> @Embed[Compendium.draw-steel.rewards.Item.tt6PRlfJ8cuVGLej inline]</p></li><li><p><em>头槌：</em> @Embed[Compendium.draw-steel.rewards.Item.YXIFafFxOPENQdht inline]</p></li><li><p><em>若想你死，你早已毙命：</em> @Embed[Compendium.draw-steel.rewards.Item.Sfd4wPykoAxF4bT0 inline]</p></li></ul>",
+      "advancements_94u8mVYTuK09aEu6_name": "Benefit",
+      "advancements_94u8mVYTuK09aEu6_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "One with the Crowd": {
+      "name": "与人群合一",
+      "description": "<p>当你使用一个或多个生物作为掩体时，你在躲藏和潜行检定上获得优势。</p>"
+    },
+    "Hear Me Out": {
+      "name": "听我说",
+      "description": "<p>当你参与谈判时，一名NPC的初始耐心值增加3点（最高不超过5点）。</p>"
+    },
+    "Local Hero": {
+      "name": "本地英雄",
+      "description": "<p><strong>效果：</strong>从下列增益中选择一项：</p><ul><li><p><em>轻松目标：</em> @Embed[Compendium.draw-steel.rewards.Item.Kck9IlhhI32qi2x2 inline]</p></li><li><p><em>地方声望：</em> @Embed[Compendium.draw-steel.rewards.Item.9GxXEKl8hbQzYa6n inline]</p></li><li><p><em>崭新黎明：</em> @Embed[Compendium.draw-steel.rewards.Item.sJElKQr3G0hka42J inline]</p></li></ul>",
+      "advancements_eV1ARNlTN4ORxHyg_name": "Benefit",
+      "advancements_eV1ARNlTN4ORxHyg_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Demigod": {
+      "name": "半神",
+      "description": "<p><strong>效果</strong>：你获得以下增益：</p><ul><li><p><em>不朽卓越：</em></p><p>你选择的一项属性提升1点（最高不超过6点）。</p></li><li><p><em>长寿：</em></p><p>你的自然寿命翻倍，并且你可以呈现任何年龄的外貌。</p></li><li><p><em>信徒：</em></p><p>你能魔法般地听到对你发出的祈祷。</p></li></ul><p>此外，从以下增益中选择一项：</p><ul><li><p><em>侍僧：</em></p><p>你可招募的追随者数量增加两名。</p></li><li><p><em>神圣武器：</em></p><p>每当你使用造成伤害的武器能力时，该能力可以造成腐化或神圣伤害，而非其通常的伤害类型。</p></li><li><p><em>传教士：</em></p><p>你获得2点声望。</p></li></ul>",
+      "advancements_g7UBbwY4fELDYYs3_name": "Benefit",
+      "advancements_g7UBbwY4fELDYYs3_description": "<p>You gain the following benefits:</p>",
+      "advancements_h25AnrTmp9Cvd8QF_name": "Additional Benefit",
+      "advancements_h25AnrTmp9Cvd8QF_description": "<p>Additionally, choose one of the following benefits:</p>",
+      "advancements_cYsIiGnQC0qg5ZQ0_name": "Immortal Excellence",
+      "advancements_cYsIiGnQC0qg5ZQ0_description": "<p>A characteristic of your choice increases by 1 (to a maximum of 6).</p>"
+    },
+    "Mediator’s Charm": {
+      "name": "调解者护符",
+      "description": "<p><em>一枚精致的金耳环上镶嵌着一颗小红宝石。</em></p><p><strong>效果：</strong>当你佩戴调停者护符时，与你谈判的任何NPC的耐心值增加1点（最高不超过5点）。此外，在谈判开始时，你会得知由导演选择的一项NPC动机或陷阱。</p>"
+    },
+    "Go Undercover": {
+      "name": "潜入行动",
+      "description": "<p>潜入一个群体进行监视是获取所需信息的廉价且简便方式。当你进行这项活动时，选择一个组织。完成这个项目将使你获得地图、关于组织运作的知识，或其他一些被视为常见或隐秘的知识（参见“发掘传说”项目）。</p><p>根据导演的判断，你必须拥有伪装、一枚印章戒指、一个特殊纹身或其他表明你属于该组织的标志才能启动这个项目。此外，导演可以判定你所寻求的知识无法通过此项目获得，而必须作为冒险的一部分通过潜入该组织来获取。</p><h4>并发症</h4><p>这个项目有其特殊的并发症。你第一次为一个组织完成这个项目时，有25%的几率被发现。之后每次为同一组织再次完成此项目，被发现的几率增加25%，且项目目标增加30。如果你在潜入期间被发现，该组织的成员将根据导演的决定无情地追捕你。</p><p>此外，在你努力完成这个项目的过程中，组织可能会要求你完成一项你可能不想做的任务。未能完成任务会导致你被发现。你可以通过逃离组织来避免该任务，但这会阻止你完成项目，并使你无法再为同一组织进行此项目。</p>"
+    },
+    "Blood Magic": {
+      "name": "血魔法",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>鲜血法师：</em> @Embed[Compendium.draw-steel.rewards.Item.yheSeiw9zBsWVZ6u inline]</p></li><li><p><em>血腥杀戮：</em> @Embed[Compendium.draw-steel.rewards.Item.3L1qHwhJlRLild13 inline]</p></li><li><p><em>我拒绝这邪恶力量！：</em> @Embed[Compendium.draw-steel.rewards.Item.aFFLEW0SjprMBMg5 inline]</p></li></ul>",
+      "advancements_bwrZpGpjIlb30ITp_name": "Benefit",
+      "advancements_bwrZpGpjIlb30ITp_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Student of War": {
+      "name": "战争学徒",
+      "description": "<p>从战术家职业中选择一个1级教义特性。即使你没有战术教义特性，也能获得该特性。</p><ul><li><p>@UUID[Compendium.draw-steel.classes.Item.ajeWFtiJThAAAVQc]{隐秘行动}</p></li></ul><ul><li><p>@UUID[Compendium.draw-steel.classes.Item.X8RA9Fp6vFF5AeKR]{缜密指挥官}</p></li></ul><ul><li><p>@UUID[Compendium.draw-steel.classes.Item.wdOsstaPrLX5WcVa]{统率风范}</p></li></ul>",
+      "advancements_vJ5qC3Q3Nrtizvwy_name": "1st-level Doctrine Feature",
+      "advancements_vJ5qC3Q3Nrtizvwy_description": "<p>Choose a 1st-level doctrine feature from the tactician class. You gain that feature even if you don’t have the Tactical Doctrine feature.</p>"
+    },
+    "Master Crafter": {
+      "name": "工艺大师",
+      "description": "<p><strong>效果</strong>：选择下列一项增益：</p><ul><li><p><em>杰作：</em></p><p>该护甲、法器或武器可被第四次灌注，获得任何该物品符合条件的强化。</p></li><li><p><em>研究红利：</em></p><p>你获得自选一项护甲、法器或武器强化的物品先决条件。此外，你学会该强化对应的项目源语言。</p></li><li><p><em>巧手：</em></p><p>你获得一项来自制造技能组的技能，该技能本应在制作先决条件物品的过程中使用。若你已拥有该技能，则改为在使用该技能进行的检定中获得优势。此外，你额外获得一项自选的制造技能组技能。</p></li><li><p><em>强能巧工：</em></p><p>每当你进行项目掷骰时，你可以使用力量作为项目掷骰属性。</p></li></ul>",
+      "advancements_APS3cHYyw4SNfOyd_name": "Benefit",
+      "advancements_APS3cHYyw4SNfOyd_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Incorporeal Undead": {
+      "name": "虚体亡灵",
+      "description": "<p>你可以穿过其他生物和物体。在战斗轮中首次穿过一个生物时，该生物受到等同于你等级一半的腐化伤害。你因被强制移动进入物体而不会受到伤害。</p>"
+    },
+    "Catapult Dust": {
+      "name": "投石机粉尘",
+      "description": "<p><em>一个小皮袋中装满了这种细腻的蓝色粉末。</em></p><p><strong>效果：</strong>弹射粉尘是作为一种经济实惠的魔法攻城武器而被研发的。以一个主要动作，你将粉尘倾倒在相邻的无人占据空间，形成一个2立方体大小的区域。在你的下一个回合开始时，该区域底部的地面会剧烈向上并朝你选择的方向爆发。区域内任何未被持有的物品，或自粉尘倾倒后进入该区域的生物，会被抛射出一道弧线，其长度为6 + 1d6格，高度为3 + 1d6格。</p>"
+    },
+    "Divine Weapons": {
+      "name": "神兵",
+      "description": "<p>每当你使用造成伤害的武器能力时，该能力可以造成腐化或神圣伤害，而非其通常的伤害类型。</p>"
+    },
+    "Discover Lore - Obscure Knowledge": {
+      "name": "发掘秘闻",
+      "description": "<p>若你想追踪失落宝藏的位置、解读某个仪式，或是追溯王室血统以寻找王位下一位继承人，你可以启动一个休整期项目来深入探究任何你想解开的谜团。你可能会因为所需信息无法通过单次检定获得而启动项目来发掘传闻，也可能是因为你在回忆信息的检定中失败，现在希望通过研究来学习它。</p><p>当你启动一个发掘传闻的休整期项目时，你需要选择想要调查的传闻以及希望得到解答的问题。主持人会告诉你所寻求的传闻属于常见知识、隐秘知识、失落知识还是禁忌知识。知识越是深奥，找到你想要的答案所需的项目点数就越多。</p><h4>隐秘知识</h4><p>隐秘知识只有专业学者才知晓，且通常只对这些学者有意义。因此，关于隐秘主题的典籍极为稀少。找到合适的专家进行访谈或寻获最佳参考书籍通常需要数日的研究。揭开用于开启和关闭通往星海之门的仪式细节并非易事，但世上确实有人知晓方法——并且有人将指引记录了下来。</p>"
+    },
+    "Guild Faction": {
+      "name": "公会阵营",
+      "description": "<p>你找到一位技艺精湛的工匠，他能代表你为制作项目进行最多三次项目检定。该工匠在这些检定上拥有+5加值。每次项目检定需连续进行10分钟，且无需在休整期间完成。</p>"
+    },
+    "Build or Repair Road": {
+      "name": "修建或修复道路",
+      "description": "<p>当你启动这个项目时，你会雇佣一支由石匠、工程师和守卫组成的队伍，他们在项目起始地点开始工作，为你修建或修复道路。无论你是亲自监督还是通过魔法或灵能远程管理，只要你在 overseeing 项目，就可以进行项目检定。</p><p>完成道路工程所需的项目点数等于道路长度（英里）× 10。如果你是在修复现有道路，或者有其他人开始了一项与你的项目相连的第二条道路工程，则该目标减半。</p><p>当你完成项目时，根据道路的长度，你会在道路修建地区的民众中获得声望。</p><p>在道路上往返各地所需的时间减半。沿路地点的资源和知识获取得到改善，使你和你的盟友身处这些区域时，在进行发现传说的项目检定时获得优势。</p><h4>修建或修复道路声望</h4><table><thead><tr><th><strong>长度</strong></th><th><strong>获得声望</strong></th></tr></thead><tbody><tr><td><p>50英里或以下</p></td><td><p>1</p></td></tr><tr><td><p>51–100英里</p></td><td><p>2</p></td></tr><tr><td><p>超过100英里</p></td><td><p>3</p></td></tr></tbody></table>"
+    },
+    "Instant Celebrity": {
+      "name": "瞬间成名",
+      "description": "<p>你获得1点声望。</p>"
+    },
+    "Back From the Grave": {
+      "name": "死而复生",
+      "description": "<p><strong>效果：</strong>你被复活。你获得来自还魂者先祖的“坚韧但枯朽”标志特性。</p>",
+      "advancements_awXCd5rZwqvSXGB3_name": "Tough But Withered",
+      "advancements_awXCd5rZwqvSXGB3_description": ""
+    },
+    "Ratcatcher": {
+      "name": "捕鼠人",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>出来玩吧：</em>你获得以下能力，可使用你职业的英雄资源来支付其消耗。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.TvIZIGZJxOBs3PtE]{出来玩吧}</p></li></ul></li><li><p><em>致命且庞大：</em> @Embed[Compendium.draw-steel.rewards.Item.Xxz19EN5HhKH8b3h inline]</p></li><li><p><em>全体移动！：</em> @Embed[Compendium.draw-steel.rewards.Item.5Faasn3bdxSiKlvX inline]</p></li></ul>",
+      "advancements_2jNjsPmUyBKMN0M4_name": "Benefit",
+      "advancements_2jNjsPmUyBKMN0M4_description": "<p><strong>Effect:</strong> Choose one of the following benefits:</p>"
+    },
+    "Angelic Chorus": {
+      "name": "天使圣歌",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你可以在战斗中运用音乐即兴演奏的技艺。从吟游诗人职业中选择一个职业表演触发动作。无论你的职业与子职业是否允许你获取该能力，你都将获得它。若此能力允许你获得或消耗戏剧点数，你可以用你职业的英雄资源来替代戏剧点数进行获得或消耗。</span></p>",
+      "advancements_6tOOeOesSsuli0Qp_name": "Class Act Tiggered",
+      "advancements_6tOOeOesSsuli0Qp_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Choose one class act triggered action from the troubadour class.</span></p>"
+    },
+    "Susurrus Codex": {
+      "name": "低语法典",
+      "description": "<p>你发现了一本阴森的书，它会用一种只有你能听到的声音低语建议。只要你遵循这本书的建议，就能在理性检定中获得优势，并在风度检定中承受劣势。你可以随时停止遵循书的建议，但在当天剩余时间里，这本书将不再与你对话。</p>"
+    },
+    "Mirage Band": {
+      "name": "幻象之环",
+      "description": "<p><em>一顶深蓝色的头冠闪烁着精细编织的亮白色丝线。</em></p><p><strong>效果：</strong>佩戴幻象头环时，你能自动识破幻象的本质，可以看见隐形生物，且超自然效果无法向你隐藏生物和物体。此外，你拥有以下能力。@UUID[Compendium.draw-steel.rewards.Item.X75vMK90a6TD75Qx]{幻觉力场}</p>"
+    },
+    "Presumed Dead": {
+      "name": "假死",
+      "description": "<p><strong>效果：</strong>尽管看起来你已死亡，但你并未真正死去。相反，你恢复1点耐力，并可消耗1次或更多次恢复力。此外，你将获得一件由主持人选择的一阶奇物（参见本章前文的宝藏部分）。</p><p>在主持人决定的戏剧性时刻，你将重新加入队伍，并解释你是如何侥幸逃脱，以及在此过程中如何获得这件新奇的物品。</p>"
+    },
+    "Deep-Sea Diver": {
+      "name": "深海潜水员",
+      "description": "<p>你可以在移动时以全速自动游泳。</p>"
+    },
+    "Made of Teeth": {
+      "name": "齿之造物",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你的身体能在不寻常的部位长出利齿。每当一个生物与你发生物理接触，或在接触你的状态下开始其回合时，你可以对其造成 [[/damage 5]] 点伤害（无需动作）。</span></p>"
+    },
+    "Rogue Talent": {
+      "name": "盗贼天赋",
+      "description": "<p>选择一项该天赋职业在1级时可使用的触发动作。无论你的职业和子职业是否允许你获取该能力，你都将获得它。如果此能力允许你获得或消耗清明值，除非你拥有清明职业特性，否则你无法这样做。</p><ul><li><p>@UUID[Compendium.draw-steel.abilities.Item.zy367OiF8Di2eiQx]{重施}</p></li><li><p>@UUID[Compendium.draw-steel.abilities.Item.qFmIJY6Wtp6NNely]{反馈回路}</p></li><li><p>@UUID[Compendium.draw-steel.abilities.Item.xuXuX9ENl2uwdJVK]{斥退}</p></li></ul>",
+      "advancements_gfYGqQLxIwyhWxp4_name": "1st-level Triggered Action",
+      "advancements_gfYGqQLxIwyhWxp4_description": "<p>Choose one triggered action that the talent class has access to at 1st level.</p>"
+    },
+    "Goldenrod": {
+      "name": "金雀花",
+      "description": "<p>每次你进行捕鱼项目时，可以重投一次项目检定。</p>"
+    },
+    "Weather Wizard": {
+      "name": "天气巫师",
+      "description": "<p>每日一次，你可以花费10分钟不受打扰的时间，以魔法改变周围5英里范围内的普通天气。天气会随你移动，并持续6小时，或直至你以自由动作解除。从以下天气类型中选择一种：</p><ul><li><p>宁静：风力驱动的载具和科技设备停止运作。</p></li><li><p>浓雾：能见度降低至6格。</p></li><li><p>强风：风力驱动载具的速度加倍。</p></li><li><p>微风：无天气相关效果。</p></li><li><p>风暴：无遮蔽风力驱动载具的船员必须进行一次中等难度的集体理性检定。若失败，该载具需要维修，且在修复前以半速移动。</p></li></ul>"
+    },
+    "Teacher": {
+      "name": "教师",
+      "description": "<p><strong>效果</strong>：你可以携带一名与你职业相同的学徒同行。该学徒拥有你职业1级角色的属性数据，并具备与你相同的技能，但不会参与战斗。他们能够执行任何你职业1级角色可完成的非战斗任务。每当他们进行测试以协助你完成任务时，该测试结果不会低于二阶成效。</p>"
+    },
+    "Heist Hero": {
+      "name": "劫案英雄",
+      "description": "<p><strong>效果：</strong>选择下列一项增益：</p><ul><li><p><em>鸡妈妈：</em> @Embed[Compendium.draw-steel.rewards.Item.z6YiOxmL827pVP8Q inline]</p></li><li><p><em>潜行者：</em> @Embed[Compendium.draw-steel.rewards.Item.Y5IeXalx0Hf9uRel inline]</p></li><li><p><em>及时干扰：</em>你拥有以下触发动作。</p><ul><li><p>@UUID[Compendium.draw-steel.rewards.Item.KHprGhrNLFbaMcV0]{及时干扰}</p></li></ul></li></ul>",
+      "advancements_D3kmulihc4oqYaI4_name": "Benefit",
+      "advancements_D3kmulihc4oqYaI4_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Royal Fame": {
+      "name": "皇家声望",
+      "description": "<p>你获得2点声望。</p>"
+    },
+    "Stonemeld": {
+      "name": "石融术",
+      "description": "<p>当你与石墙相邻时，可以使用一个战技来获得隐蔽。此隐蔽效果持续到你离开该方格或使用一项能力为止。</p>"
+    },
+    "Armed and Dangerous": {
+      "name": "全副武装",
+      "description": "<p><strong>效果：</strong>你可以使用工具包并获得其增益效果</p>",
+      "advancements_cFdtJhoNoq44SHjA_name": "Kit",
+      "advancements_cFdtJhoNoq44SHjA_description": "<p>You can use and gain the benefits of a kit.</p>"
+    },
+    "A New Dawn": {
+      "name": "新的黎明",
+      "description": "<p>每当你在一处已拯救的聚落中完成一次休整时，队伍将获得一枚英雄令。若未使用，此英雄令将在你下一次休整结束时消失。</p>"
+    },
+    "Beast Bane": {
+      "name": "野兽克星",
+      "description": "<p>具有动物关键词的生物在对你进行打击时承受一个灾厄。</p>"
+    },
+    "Vial of Ethereal Attack": {
+      "name": "以太攻击药瓶",
+      "description": "<p><em>清澈的液体似乎在黑曜石小瓶中不断翻涌，即使静止时也是如此。</em></p><p><strong>效果：</strong>作为一次战技，你将此小瓶投掷至多10格距离，小瓶随之破碎并在其落点中心形成一个2立方格的虚体漩涡。该漩涡在遭遇结束时或你将其解散时消散（无需动作）。任何生物在一个战斗轮中首次进入漩涡，或在其内开始回合时，受到 [[/damage 10 psychic]] 伤害。在你的每个回合开始时，你可以将漩涡移动至多5格（无需动作）。</p>"
+    },
+    "Craft Teleportation Platform": {
+      "name": "工艺传送平台",
+      "description": "<p>当你完成这个项目时，你将得到一个3格乘3格的传送平台，由一句超自然密码激活。该平台永久固定在你创建它的位置地面上。任何知晓密码的生物都可以使用传送平台，将平台上的任何生物或物体瞬间传送到他们知晓的地点，包括另一座他们知晓超自然密码的传送平台。你和你在完成活动时指定的任何生物都可以通过休整活动来更改密码。</p><p>每次使用传送平台时，其发生故障并将平台上的生物或物体随机传送到某个平台的几率会增加1%（最高至50%）。你可以通过休整活动将平台恢复至原始状态，并重置此故障几率。</p>"
+    },
+    "Treasure Keeper": {
+      "name": "宝藏守护者",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你获得了1点财富。</span></p>"
+    },
+    "Ancient Loremaster": {
+      "name": "远古博学者",
+      "description": "<p><strong>效果：</strong>选择以下一项增益：</p><ul><li><p><em>影响力：</em> @Embed[Compendium.draw-steel.rewards.Item.jiQD2jXvMuWM26sB inline]</p></li><li><p><em>稀有典籍：</em> @Embed[Compendium.draw-steel.rewards.Item.2SdRiN7HkvnhcFrB inline]</p></li><li><p><em>低语法典：</em> @Embed[Compendium.draw-steel.rewards.Item.oguIqYgmInTkOepA inline]</p></li></ul>",
+      "advancements_zf0T8A5DfM24kfRr_name": "Benefit",
+      "advancements_zf0T8A5DfM24kfRr_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Gecko Gloves": {
+      "name": "壁虎手套",
+      "description": "<p><em>这副鳞状手套的掌心和指部覆盖着近乎隐形的粘性绒毛。</em></p><p><strong>效果：</strong>当你佩戴这副手套时，你的抓握几乎不可能被破除。你不会被缴械，攀爬时除非被强制移动否则不会失手，且任何被你擒抱的生物在进行逃脱擒抱机动的检定时承受一个减益。</p>"
+    },
+    "Learn New Language": {
+      "name": "学习新语言",
+      "description": "<p>当你开始此项目时，选择一项由项目来源教授的语言。当项目完成时，你理解该语言。</p>"
+    },
+    "Furniture Fighter": {
+      "name": "家具战士",
+      "description": "<p>当你使用临时武器或非你装备组件的武器发动武器能力时，该能力将受益于你装备组的近战武器伤害加成。</p>"
+    },
+    "Furious Attack": {
+      "name": "狂怒攻击",
+      "description": "<p>从狂战士职业中选择一项标志性能力。无论你的职业和子职业是否允许你获取该能力，你都将获得它。如果该能力允许你获得或消耗狂怒值，除非你拥有狂怒职业特性，否则你无法这样做。</p>",
+      "advancements_x4vsEEglcSp4qNTK_name": "Fury Signature Ability",
+      "advancements_x4vsEEglcSp4qNTK_description": "<p>Choose one signature ability from the fury class.</p>"
+    },
+    "The Harder They Fall": {
+      "name": "强敌难挡",
+      "description": ""
+    },
+    "Dragon Touched": {
+      "name": "龙触",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你获得3点先祖点数，可用于购买龙骑士先祖特性。</span></p>",
+      "advancements_qCtEQUS2s0twbo94_name": "Purchased Traits",
+      "advancements_qCtEQUS2s0twbo94_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">You gain 3 ancestry points to spend on purchased dragon knight ancestry traits.</span></p>"
+    },
+    "Forsaken": {
+      "name": "被遗忘者",
+      "description": "<p><strong>效果</strong>：你选择的一项属性提升1点（最高不超过6点）。此外，从下列增益中选择一项：</p><ul><li><p><em>短暂重聚：</em></p><p>当你处于气喘状态时，你可以消耗一个战技动作将神器召唤至手中。它会在你的下一个回合结束时消失。一旦使用此增益，在获得1次或更多胜利之前无法再次使用。</p></li><li><p><em>完美防护：</em></p></p><p>主持人选择一种由神器造成或与神器主题相关的伤害类型——例如，千年之刃的神圣伤害、权杖的精神伤害，或死亡之环的腐化伤害。你对所选伤害类型获得完全免疫。</p></li><li><p><em>微薄补偿：</em></p><p>神器不会消失或以其他方式离去，而是转化为一件主持人选择的、与遗失物品外形近似的饰品或等级化宝物——例如，千年之刃可转化为任意魔法剑，权杖可转化为任意法器，死亡之环可转化为“窃喜者”或任意其他颈环。</p></li></ul>",
+      "advancements_lOm2PEx0k2fCl6kt_name": "",
+      "advancements_lOm2PEx0k2fCl6kt_description": "<p>A characteristic of your choice increases by 1 (to a maximum of 6).</p>",
+      "advancements_5dyFMsTGcKfZMbKk_name": "Benefit",
+      "advancements_5dyFMsTGcKfZMbKk_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Memories of the Beyond": {
+      "name": "彼岸的记忆",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你可以选择两项技能。</span></p>",
+      "advancements_wTmCiUhZy9KS5cts_name": "",
+      "advancements_wTmCiUhZy9KS5cts_description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">You have two skills of your choice.</span></p>"
+    },
+    "Wellness Tonic": {
+      "name": "健康药水",
+      "description": "<p><em>这浓稠的紫色液体散发着久久不散的苦涩气味。</em></p><p><strong>效果：</strong>当你以机动动作饮下这瓶滋补剂时，你会感到一股物理与精神免疫力的涌动。你可以立即终止影响你的至多三个状态或效果。此外，直到你的下一回合开始前，你可以忽略任何将持续至你下一回合结束或可通过豁免检定终止的效果。[[/apply eRretLiJhAW2QD9Z]]</p>"
+    },
+    "Knightly Challenge": {
+      "name": "骑士挑战",
+      "description": ""
+    },
+    "Imp's Tongue": {
+      "name": "小鬼之舌",
+      "description": "<p><em>一片小魔鬼的舌头被风干保存了下来。真恶心。</em></p><p><strong>效果：</strong>作为一个战技动作，你将小魔鬼的舌头置于自己的舌头上，它会重新活化并附着在你的舌头上。附着期间，小魔鬼的舌头允许你说任何语言并理解任何对你说的语言。此效果持续1小时后结束，届时舌头将被你的身体吸收。</p>"
+    },
+    "Close Formation": {
+      "name": "密集阵型",
+      "description": "<p>当与两名或更多盟友相邻时，你的稳定获得+2加值。</p>"
+    },
+    "Key of Inquiry": {
+      "name": "探究之钥",
+      "description": "<p><em>一把一英尺长的铂金钥匙上镶嵌着三颗欧泊。</em></p><p><strong>效果：</strong>作为一次战技，你将钥匙触碰一个相邻的自愿、被擒抱或被束缚的生物，并将钥匙顺时针旋转90度。该生物必须真实且完整地回答接下来被问到的三个问题。若改为逆时针旋转90度，则该生物会忘记其过去30分钟的经历。受此钥匙影响的生物在一年内无法再被任何“质询之钥”影响。如果钥匙被摧毁，所有被它抹除的记忆都将恢复。被此钥匙抹除的记忆无法以任何其他方式恢复。</p>"
+    },
+    "You're the Boss": {
+      "name": "你是老大",
+      "description": "<p>你所属派系的低阶成员会遵循你的日常指令。在非常规事务中，你在影响这些角色行为的检定上获得优势。</p>"
+    },
+    "Divine Health": {
+      "name": "神圣健康",
+      "description": "<p>你获得等同于你最高属性值的腐化免疫。此外，你无法被转变为不死生物。</p>"
+    },
+    "Gladiators": {
+      "name": "角斗士",
+      "description": "<p>你必须为取悦捕获者而战至死方休。你预定的对手持有一件小饰品或等级宝物，或是守护着它，若你获胜便可赢得此物。</p>"
+    },
+    "Mind Over Matter": {
+      "name": "心胜于物",
+      "description": "<p>每当你使用一次恢复时，你可以移除自身的一个状态。</p>"
+    },
+    "Reserves of Strength": {
+      "name": "力量储备",
+      "description": "<p><span style=\"color:rgb(239, 230, 216);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(11, 10, 19, 0.9);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">你的恢复值等于你耐力值的一半。</span></p>"
+    },
+    "Chocolate of Immovability": {
+      "name": "不动巧克力",
+      "description": "<p><em>这块看起来奢华的糖果握在手中却有种奇异的沉重感。</em></p><p><strong>效果：</strong>当你以机动动作享用这块美味的糖果时，你获得 [[/heal 15 temp]] 以及 [[/apply jvE5q5F0rywZatJ9]]{+10点稳定加值}。此外，若你在回合内未使用移动，则该回合内你进行的任何打击均造成额外 [[/damage 5]] 伤害，且针对你的任何打击将承受减益直至你的下回合开始。此效果与稳定加值持续至遭遇结束，之后你会陷入困倦状态。若未被提前削减，临时耐力将持续至你的下一次休整结束。</p>"
+    },
+    "Unbinder Boots": {
+      "name": "解绑者之靴",
+      "description": "<p><em>一双绣有精美图案的皮靴上布满了断裂锁链的纹样。</em></p><p><strong>效果：</strong>这双靴子能暂时挣脱大地的束缚，让你从起始位置起，在离地最多3格高度的空中移动。若你在回合结束时仍处于空中，则会坠落。</p>"
+    },
+    "Bracers of Strife": {
+      "name": "纷争护腕",
+      "description": "<p><em>这副金属蓝色的护腕每一只都尺寸超大。</em></p><p><strong>效果：</strong>当你在战斗中佩戴它们时，这些护腕会魔法性地将你的双手以及你所持的任何近战武器尺寸加倍，并自动抵消额外的重量。对于任何造成掷骰伤害的武器能力，你获得+2伤害加值；对于任何武器能力推动目标的距离，你获得+1加值。此伤害加值会与其他宝物提供的伤害加值叠加。</p>"
+    },
+    "Many Paths to Peace": {
+      "name": "和平万径",
+      "description": "<p>当你使用人际技能组中的技能进行测试时，你可以选择任意一项属性作为测试依据。</p>"
+    },
+    "Rearrange the Game Pieces": {
+      "name": "重新排列棋子",
+      "description": "<p>你可以探手幕后，篡改现实。在战斗开始时，选择自身或5格内的任意生物。被选中的目标必须按其速度移动至你指定的位置，但不得进入会造成伤害或施加状态的地形。目标并非通过移动或传送抵达该处——他们只是凭空出现在那里。除你之外，无人记得目标先前所处的位置。</p>"
+    },
+    "Theoretical Warrior": {
+      "name": "理论战士",
+      "description": "<p><strong>效果</strong>：你选择的理性或直觉属性提升1点（最高不超过6点）。</p><p>此外，从任意职业中选择一个英勇能力。你获得该英勇能力，可使用你所属职业的英雄资源来支付其消耗。你无法使用需要你未拥有的职业特性的英勇能力。</p>",
+      "advancements_LgtZvJrdMg0ugVfr_name": "",
+      "advancements_LgtZvJrdMg0ugVfr_description": "<p>Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).</p>"
+    },
+    "Healing Potion": {
+      "name": "治疗药水",
+      "description": "<p><em>这种液体浓稠而鲜红，尝起来有酸啤酒的味道。</em></p><p><strong>效果：</strong>当你将此药水作为机动动作饮下时，你将恢复等同于你恢复值的耐力，且无需消耗一次恢复次数。[[/heal @recoveries.recoveryValue]]</p>"
+    },
+    "Particular Set of Skills": {
+      "name": "特定技能组合",
+      "description": "<p>你掌握一项来自权谋技能组的技能。</p>",
+      "advancements_LpL4Gc9G73Sr5ZU0_name": "Skill",
+      "advancements_LpL4Gc9G73Sr5ZU0_description": "<p>You know a skill from the intrigue skill group.</p>"
+    },
+    "Cloud (Portable)": {
+      "name": "云（便携式）",
+      "description": "<p><em>这颗纤薄的玻璃球体内封存着一团翻腾的微小云雾。</em></p><p><strong>效果：</strong>作为一次移动动作，你可将这枚易碎的玻璃球投掷至多5格距离，使其破裂并生成一个边长为4格的立方体雾团。该云雾将在10分钟后消散，或当由风暴或魔法产生的强风穿过该区域时也会消散。</p><p>各盗贼公会中富有创见的法师们已开发出便携云雾的多种变体。每种变体均有一项次要物品先决条件，且研发目标值为45。</p>"
+    },
+    "Cloud (Noxious)": {
+      "name": "云（剧毒）",
+      "description": "<p><em>这颗玻璃球内充盈着绿色或腐臭的黄色雾气，破碎时会扩散出令人窒息、恶臭的浓雾。</em></p><p><strong>效果：</strong>作为一次战技，你投掷这枚易碎的玻璃球至多5格距离，使其破碎并形成一片4立方格的雾区。该雾气持续10分钟，或当由风暴或魔法产生的强风穿过该区域时消散。</p><p>每个在战斗轮中首次进入雾区或在其内开始回合的生物受到 [[/damage 5 poison]] 伤害。此外，任何处于雾中的生物将陷入虚弱状态。</p>"
+    },
+    "Strong Hands Make Light Work": {
+      "name": "强手易工",
+      "description": "<p>每当你进行项目掷骰时，你可以将力量用作项目掷骰的特征值。</p>"
+    },
+    "Blood Mage": {
+      "name": "血法师",
+      "description": "<p>当你使用带有魔法或灵能关键字的区域能力时，你可以承受[[/damage @level]]{伤害数值等于你的等级}，以将该能力的区域范围扩大1，直至遭遇结束。若该区域为直线，则你仅增加其中一个维度的尺寸，而非同时增加两个维度。此伤害无法以任何方式减免。每次使用能力时，你只能运用此增益一次。</p>"
+    },
+    "We’re In This Together": {
+      "name": "我们同在",
+      "description": "<p>当你擒抱住一个生物并受到来自该生物以外能力的伤害时，被擒抱的生物会受到等量伤害。</p>"
+    },
+    "Holy Terror": {
+      "name": "神圣恐惧",
+      "description": ""
+    },
+    "Maestro": {
+      "name": "指挥家",
+      "description": "<p><strong>效果：</strong>选择下列一项增益：</p><ul><li><p><em>天使合唱：</em></p><p>你能在战斗中运用即兴演奏的技巧。从吟游诗人职业中选择一个触发动作的\"职业演出\"能力。无论你的职业和子职业是否允许，你都将获得该能力。若此能力允许你获得或消耗戏剧点数，你可以用本职业的英雄资源替代戏剧点数进行获得或消耗。</p></li><li><p><em>魔鬼歌剧：</em></p><p>你获得以下能力，可使用本职业的英雄资源支付其消耗：@UUID[Compendium.draw-steel.rewards.Item.eR6ytw1F3kWW3p9q]{魔鬼和弦}</p></li><li><p><em>天体之音：</em></p><p>作为一个主要动作，你吟唱或奏响一个如玻璃般精致锋利——也如玻璃般易碎的音符。直到你的下一回合开始前，每当10格范围内的生物发动一次打击时，其受到[[/damage 8 sonic]]伤害。在此期间每当你发动一次打击时，你也会受到[[/damage 8 sonic]]伤害。</p></li></ul>",
+      "advancements_Gn9Je3KpwPvyh84I_name": "Benefit",
+      "advancements_Gn9Je3KpwPvyh84I_description": "<p>Choose one of the following benefits:</p>"
+    },
+    "Mother Hen": {
+      "name": "母鸡妈妈",
+      "description": "<p>你可以花费10分钟不间断的时间，对10格内至多五名理解你所知语言的自愿生物进行灵能强化。在接下来的1小时内，你与每个目标无论相隔多远都能彼此进行心灵感应交流。</p>"
+    },
+    "Duck!": {
+      "name": "鸭子",
+      "description": "<p>当敌人攻击你时，若有第二个生物正对你进行夹击，你可以使用触发动作将此次攻击转向第二个生物。一旦你使用了此增益，在获得1次或更多胜利前无法再次使用。</p>"
+    },
+    "Iron Hand in Velvet Glove": {
+      "name": "铁腕柔情",
+      "description": "<p>在谈判中，当你首次使用威吓技能进行检定且未提出迎合NPC动机的论点时，无论掷骰结果如何，都不会降低该NPC的耐心或兴趣。</p>"
+    },
+    "Devil Lore": {
+      "name": "恶魔学识",
+      "description": "<p>你通晓安贾利语，对这种语言的理解能帮助你创造出难以抗拒的超自然效果。你以理性、直觉或存在为目标的魔法或灵能效能的强度增加1点。</p>",
+      "advancements_tC3PFxJ0NyELJfaO_name": "",
+      "advancements_tC3PFxJ0NyELJfaO_description": ""
+    },
+    "Color Cloak (Blue)": {
+      "name": "色彩斗篷（蓝色）",
+      "description": "<p><em>这件丝滑的蓝色兜帽斗篷上饰有金色的安嘉莉符文，意为“冰”。</em></p><p><strong>效果：</strong>穿戴时，蓝色色彩斗篷赋予你等同于你等级的寒冷免疫。</p><p>此外，当你成为任何造成寒冷伤害的效果的目标时，你可以使用一个触发动作来位移等同于你等级数量的方格。若你如此做，斗篷赋予的寒冷免疫将转变为等值的寒冷弱点，持续至下一轮结束。在此弱点结束前，你无法再次使用此触发动作。</p>"
+    },
+    "Evilest Eye": {
+      "name": "邪眼",
+      "description": "<p><em>一颗完美保存的眼球令人不安地悬挂在金链上。</em></p><p><strong>效果：</strong>作为一次战技，你指定10格内的一个敌人。你和目标2格内的每位盟友各 [[/gain 1 surge]]。</p>"
+    },
+    "Signal Flags": {
+      "name": "信号旗",
+      "description": "<p>当身处舰船上时，只要您与另一艘船上的生物彼此存在效果线，您就能与最远5英里外的另一艘船进行沟通和谈判。以此方式进行谈判时，您在风度检定上获得优势。</p>"
+    }
+  }
+}

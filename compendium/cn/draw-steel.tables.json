@@ -1,0 +1,116 @@
+{
+  "label": "DRAW_STEEL.COMPENDIUM.tables",
+  "mapping": {
+    "description": "description"
+  },
+  "folders": {
+    "Tgb2Z68gf9SJ5VIg": "Tgb2Z68gf9SJ5VIg",
+    "g1LQD6bklOvjii2v": "g1LQD6bklOvjii2v"
+  },
+  "entries": {
+    "Aristocrat - Inciting Incident": {
+      "name": "贵族 煽动事变",
+      "description": ""
+    },
+    "Community Service Events": {
+      "name": "社区服务活动",
+      "description": ""
+    },
+    "Watch Officer - Inciting Incident": {
+      "name": "监视官-煽动事件",
+      "description": ""
+    },
+    "Beggar - Inciting Incident": {
+      "name": "乞丐 - 导火索",
+      "description": ""
+    },
+    "Spend Time With Loved Ones Events": {
+      "name": "与挚友共度时光事件",
+      "description": ""
+    },
+    "Farmer - Inciting Incident": {
+      "name": "农夫 - 导火索",
+      "description": ""
+    },
+    "Performer - Inciting Incident": {
+      "name": "表演者 - 煽动事件",
+      "description": ""
+    },
+    "Learn From a Master Events": {
+      "name": "师从大师事件",
+      "description": ""
+    },
+    "Criminal - Inciting Incident": {
+      "name": "罪犯 导火索",
+      "description": ""
+    },
+    "Laborer - Inciting Incident": {
+      "name": "劳工 导火索",
+      "description": ""
+    },
+    "Mage's Apprentice - Inciting Incident": {
+      "name": "法师学徒的导火索",
+      "description": ""
+    },
+    "Artisan - inciting Incident": {
+      "name": "工匠 - 煽动事件",
+      "description": ""
+    },
+    "Disciple - Inciting Incident": {
+      "name": "门徒 - 煽动事变",
+      "description": ""
+    },
+    "Crafting and Research Events": {
+      "name": "制作与研究事件",
+      "description": ""
+    },
+    "Agent - Inciting Indicent": {
+      "name": "特工 - 煽动事件",
+      "description": ""
+    },
+    "Soldier - Inciting Incident": {
+      "name": "士兵 - 导火索",
+      "description": ""
+    },
+    "Complications": {
+      "name": "并发症",
+      "description": "<p>为了让并发症更像是你生活中意想不到的一部分，请在此表格上进行掷骰。</p>"
+    },
+    "Warden - Inciting Incident": {
+      "name": "典狱长 - 煽动事变",
+      "description": ""
+    },
+    "Politician - Inciting Incident": {
+      "name": "政客煽动事件",
+      "description": ""
+    },
+    "Hone Career Skills Events": {
+      "name": "精进职业技能活动",
+      "description": ""
+    },
+    "Fishing Events": {
+      "name": "钓鱼活动",
+      "description": ""
+    },
+    "Build or Repair Road Events": {
+      "name": "筑路或修路事件",
+      "description": ""
+    },
+    "Explorer - Inciting Incident": {
+      "name": "探险家 - 导火索",
+      "description": ""
+    },
+    "Gladiator - Inciting Incident": {
+      "name": "角斗士 - 煽动事件",
+      "description": ""
+    },
+    "Sage - Inciting Incident": {
+      "name": "贤者 - 煽动性事件",
+      "description": ""
+    },
+    "Sailor - Inciting Incident": {
+      "name": "水手 - 导火索",
+      "description": ""
+    }
+  }
+}
